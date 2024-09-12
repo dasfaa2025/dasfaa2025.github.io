@@ -11,7 +11,7 @@ const Link = ({
 }) => {
   return (
     <a
-      className={cn("link", margin ? "scroll-ms-0.5" : "")}
+      className={cn("link", margin ? "ms-0.5" : "")}
       target="_blank"
       rel="noreferrer noopener"
       href={href}

@@ -16,7 +16,7 @@ const Home = () => {
             text="DASFAA 2025"
             direction="down"
             framerProps={{
-              show: { transition: { delay: 0.2, duration: 0.8 } },
+              show: { transition: { delay: 0.2, duration: 0.4 } },
             }}
           />
           <div className="mb-4">
@@ -26,7 +26,7 @@ const Home = () => {
             for Advanced Applications"
               direction="down"
               framerProps={{
-                show: { transition: { delay: 0.4, duration: 0.8 } },
+                show: { transition: { delay: 0.4, duration: 0.4 } },
               }}
             />
           </div>
@@ -35,7 +35,7 @@ const Home = () => {
             text="May 25-28, 2025 Singapore"
             direction="down"
             framerProps={{
-              show: { transition: { delay: 0.6, duration: 0.8 } },
+              show: { transition: { delay: 0.6, duration: 0.4 } },
             }}
           />
           <FadeText
@@ -43,7 +43,7 @@ const Home = () => {
             text="Convention Center @Resort World Sentosa, Singapore"
             direction="down"
             framerProps={{
-              show: { transition: { delay: 0.6, duration: 0.8 } },
+              show: { transition: { delay: 0.8, duration: 0.4 } },
             }}
           />
         </div>
@@ -55,7 +55,7 @@ const Home = () => {
           Advanced Applications (DASFAA 2025), May 25-28, 2025, Singapore"
             direction="up"
             framerProps={{
-              show: { transition: { delay: 0.4, duration: 0.8 } },
+              show: { transition: { delay: 0.6, duration: 0.4 } },
             }}
           />
         </h2>
@@ -74,7 +74,7 @@ const Home = () => {
           as the premier research conference in the database area."
             direction="up"
             framerProps={{
-              show: { transition: { delay: 0.6, duration: 0.8 } },
+              show: { transition: { delay: 0.8, duration: 0.4 } },
             }}
           />
         </p>

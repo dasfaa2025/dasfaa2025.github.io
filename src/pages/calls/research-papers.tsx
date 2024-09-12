@@ -6,13 +6,8 @@ import Banner from "../../assets/singapore-4.jpg";
 const ResearchPapers = () => {
   return (
     <>
-      <PageBanner
-        title="Steering Committee Members (May 1, 2023 - April 30, 2025)"
-        image={Banner}
-      />
+      <PageBanner title="Call for research papers" image={Banner} />
       <article className="prose">
-        <h1>Call for research papers</h1>
-
         <p>
           The International Conference on Database Systems for Advanced
           Applications (DASFAA) is a leading international forum for discussing
@@ -266,9 +261,15 @@ const ResearchPapers = () => {
 
         <h2>Program Committee Co-Chairs</h2>
         <ul>
-          <li>Philip S. Yu, University of Illinois at Chicago, USA</li>
-          <li>Feida Zhu, Singapore Management University, Singapore</li>
-          <li>Akiyo NADAMOTO, Konan University, Japan</li>
+          <li>
+            <b>Philip S. Yu</b>, University of Illinois at Chicago, USA
+          </li>
+          <li>
+            <b>Feida Zhu</b>, Singapore Management University, Singapore
+          </li>
+          <li>
+            <b>Akiyo NADAMOTO</b>, Konan University, Japan
+          </li>
         </ul>
       </article>
     </>

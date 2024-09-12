@@ -5,13 +5,8 @@ import Banner from "../../assets/singapore-4.jpg";
 const IndustryPapers = () => {
   return (
     <>
-      <PageBanner
-        title="Steering Committee Members (May 1, 2023 - April 30, 2025)"
-        image={Banner}
-      />
+      <PageBanner title="Call For Industry Papers" image={Banner} />
       <article className="prose">
-        <h1>Call For Industry Papers</h1>
-
         <p>
           The Industrial & Practitioner Track of the 30th International
           Conference on Database Systems for Advanced Applications (DASFAA-2025)
@@ -42,7 +37,7 @@ const IndustryPapers = () => {
         />
 
         <blockquote>
-          *All deadlines are 23:59 Anywhere on Earth (AoE) time
+          * All deadlines are 23:59 Anywhere on Earth (AoE) time
         </blockquote>
 
         <h2>Topics</h2>

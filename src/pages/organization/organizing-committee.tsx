@@ -5,13 +5,8 @@ import PageBanner from "../../components/PageBanner";
 const OrganizingCommittee = () => {
   return (
     <>
-      <PageBanner
-        title="Steering Committee Members (May 1, 2023 - April 30, 2025)"
-        image={Banner}
-      />
+      <PageBanner title="Organizing Committee" image={Banner} />
       <article className="prose">
-        <h1>Organizing Committee</h1>
-
         <h2>General Co-Chairs</h2>
         <div className="grid grid-cols-3 gap-8">
           <MemberCard
@@ -60,6 +55,14 @@ const OrganizingCommittee = () => {
             title={
               <>
                 <b>Philip S. Yu</b>, University of Illinois at Chicago, USA
+              </>
+            }
+          />
+          <MemberCard
+            cover=""
+            title={
+              <>
+                <b>Feida Zhu</b>, Singapore Management University, Singapore
               </>
             }
           />

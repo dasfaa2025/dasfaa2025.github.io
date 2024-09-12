@@ -5,13 +5,8 @@ import PageBanner from "../components/PageBanner";
 const ImportantDates = () => {
   return (
     <>
-      <PageBanner
-        title="Steering Committee Members (May 1, 2023 - April 30, 2025)"
-        image={Banner}
-      />
+      <PageBanner title="Important Dates" image={Banner} />
       <article className="prose">
-        <h1>Important Dates</h1>
-
         <h2>Conference Dates</h2>
         <DateTable
           values={[

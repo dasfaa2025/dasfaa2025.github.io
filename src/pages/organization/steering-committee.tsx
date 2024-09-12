@@ -118,7 +118,7 @@ const SteeringCommittee = () => {
             <b>Kyu-Young Whang</b>
           </li>
           <li>
-            <b>onghee Hong</b>
+            <b>Bonghee Hong</b>
           </li>
         </ul>
 
@@ -279,6 +279,14 @@ const SteeringCommittee = () => {
             <b>Wenjia Zhang</b>, Member (2018-2023)
           </li>
         </ul>
+
+        <h2>
+          👉
+          <Link margin={true} href="https://www.dasfaa.net/steering_prev.htm">
+            Steering Committee Members by Year
+          </Link>
+        </h2>
+        <blockquote>Updated: May 2024</blockquote>
       </article>
     </>
   );

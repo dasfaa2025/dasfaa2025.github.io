@@ -5,13 +5,8 @@ import PageBanner from "../../components/PageBanner";
 const DemoPapers = () => {
   return (
     <>
-      <PageBanner
-        title="Steering Committee Members (May 1, 2023 - April 30, 2025)"
-        image={Banner}
-      />
+      <PageBanner title="Call for Demo Papers" image={Banner} />
       <article className="prose">
-        <h1>Call for Demo Papers</h1>
-
         <p>
           The Demonstration Track of the 30th International Conference on
           Database Systems for Advanced Applications (DASFAA 2025) provides an

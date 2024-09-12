@@ -5,13 +5,8 @@ import Banner from "../../assets/singapore-4.jpg";
 const TutorialProposal = () => {
   return (
     <>
-      <PageBanner
-        title="Steering Committee Members (May 1, 2023 - April 30, 2025)"
-        image={Banner}
-      />
+      <PageBanner title="Call for Tutorial Proposal" image={Banner} />
       <article className="prose">
-        <h1>Call for Tutorial Proposal</h1>
-
         <p>
           The goal of the DASFAA 2025 tutorial track is to offer the conference
           attendees an introduction to the state-of-the-art topics in research,

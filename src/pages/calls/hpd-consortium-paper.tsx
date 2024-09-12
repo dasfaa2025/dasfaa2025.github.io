@@ -6,13 +6,8 @@ import Banner from "../../assets/singapore-4.jpg";
 const PhDConsortiumPaper = () => {
   return (
     <>
-      <PageBanner
-        title="Steering Committee Members (May 1, 2023 - April 30, 2025)"
-        image={Banner}
-      />
+      <PageBanner title="Call for PhD Consortium Paper" image={Banner} />
       <article className="prose">
-        <h1>Call for PhD Consortium Paper</h1>
-
         <p>
           The DASFAA PhD Consortium provides a platform for PhD students to
           present their PhD proposals and to seek comments and suggestions from

@@ -5,13 +5,8 @@ import Banner from "../../assets/singapore-4.jpg";
 const Workshops = () => {
   return (
     <>
-      <PageBanner
-        title="Steering Committee Members (May 1, 2023 - April 30, 2025)"
-        image={Banner}
-      />
+      <PageBanner title="Call for Workshops" image={Banner} />
       <article className="prose">
-        <h1>Call for Workshops</h1>
-
         <p>
           We invite workshop proposals on topics related to database systems and
           their applications. We solicit proposals for workshops that explore
@@ -65,7 +60,7 @@ const Workshops = () => {
         />
 
         <blockquote>
-          *All deadlines are 23:59 Anywhere on Earth (AoE) time
+          * All deadlines are 23:59 Anywhere on Earth (AoE) time
         </blockquote>
 
         <h2>Submission Guidelines for Workshop Proposals</h2>
