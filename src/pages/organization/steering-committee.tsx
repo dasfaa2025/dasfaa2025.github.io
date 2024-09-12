@@ -5,16 +5,13 @@ import Banner from "../../assets/singapore-3.jpg";
 const SteeringCommittee = () => {
   return (
     <>
-      <PageBanner
-        title="Steering Committee Members (May 1, 2023 - April 30, 2025)"
-        image={Banner}
-      />
+      <PageBanner title="Steering Committee Members" image={Banner} />
       <article className="prose">
         <h2>Chair</h2>
         <ul>
           <li>
             <b>Lei Chen</b>, Hong Kong University of Science and Technoglogy
-            (Guangzhou), China (leichen [at] cse ust hk)
+            (Guangzhou), China (leichen@cse.ust.hk)
           </li>
         </ul>
 
@@ -22,73 +19,72 @@ const SteeringCommittee = () => {
         <ul>
           <li>
             <b>Stephane Bressan</b>, National University of Singapore, Singapore
-            (steph [at] nus edu sg)
+            (steph@nus.edu.sg)
           </li>
         </ul>
 
         <h2>Treasurer</h2>
         <ul>
           <li>
-            <b>Yasushi Sakurai</b>, Osaka University, Japan (yasushi [at] sanken
-            osaka-u ac jp)
+            <b>Yasushi Sakurai</b>, Osaka University, Japan
+            (yasushi@sanken.osaka-u.ac.jp)
           </li>
         </ul>
 
         <h2>Secretary</h2>
         <ul>
           <li>
-            <b>Kyuseok Shim</b>, Seoul National University, Korea (shim [at] ee
-            snu ac kr)
+            <b>Kyuseok Shim</b>, Seoul National University, Korea
+            (shim@ee.snu.ac.kr)
           </li>
         </ul>
 
         <h2>Members</h2>
         <ul>
           <li>
-            <b>Zhiyong Peng</b>, Wuhan University of China, China (peng [at] whu
-            edu cn)
+            <b>Zhiyong Peng</b>, Wuhan University of China, China
+            (peng@whu.edu.cn)
           </li>
           <li>
             <b>Zhanhuai Li</b>, Northwestern Polytechnical University, China
-            (lizhh [at] nwpu edu cn)
+            (lizhh@nwpu.edu.cn)
           </li>
           <li>
-            <b>Zi Huang</b>, University of Queensland, Australia (huang [at]
-            itee uq edu au)
+            <b>Zi Huang</b>, University of Queensland, Australia
+            (huang@itee.uq.edu.au)
           </li>
           <li>
-            <b>Guoliang Li</b>, Tsinghua University, China (liguoliang [at]
-            tsinghua edu cn)
+            <b>Guoliang Li</b>, Tsinghua University, China
+            (liguoliang@tsinghua.edu.cn)
           </li>
           <li>
             <b>Sourav Bhowmick</b>, Nanyang Technological University, Singapore
-            (assourav [at] ntu edu sg)
+            (assourav@ntu.edu.sg)
           </li>
           <li>
             <b>Atsuyuki Morishima</b>, University of Tsukaba, Japan
             (mori@slis.tsukuba.ac.jp)
           </li>
           <li>
-            <b>Sang-Won Lee</b>, SKKU, Korea (swlee [at] skku edu)
+            <b>Sang-Won Lee</b>, SKKU, Korea (swlee@skku.edu)
           </li>
           <li>
-            <b>Yang-Sae Moon</b>, Kangwon National University, Korea (ysmoon
-            [at] kangwon ac kr)
+            <b>Yang-Sae Moon</b>, Kangwon National University, Korea
+            (ysmoon@kangwon.ac.kr)
           </li>
           <li>
-            <b>Arnab Bhattachaya</b>, IIT Kanpur, India (arnabb [at] iitk ac in)
+            <b>Arnab Bhattachaya</b>, IIT Kanpur, India (arnabb@iitk.ac.in)
           </li>
           <li>
-            <b>Aamir Cheema</b>, Monash University, Australia (Aamir.Cheema [at]
-            monash edu)
+            <b>Aamir Cheema</b>, Monash University, Australia
+            (Aamir.Cheema@monash.edu)
           </li>
           <li>
-            <b>Een jun Hwang</b>, Korea University, Korea (ehwang04 [at] korea
-            ac kr)
+            <b>Een jun Hwang</b>, Korea University, Korea (ehwang04@korea.ac.kr)
           </li>
           <li>
             <b>De-Nian Yang</b>, Institute of Information Science, Academia
-            Sinica, Taiwan (dnyang [at] iis sinica edu tw)
+            Sinica, Taiwan (dnyang@iis.sinica.edu.tw)
           </li>
         </ul>
 
