@@ -97,7 +97,61 @@ tr td:first-child {
   border-left-style: solid;
 }
 
+.home-banner {
+}
+
+.home-banner-background {
+  animation: bg-animation 32s linear infinite;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  inset: 0;
+  opacity: 0;
+  position: absolute;
+  scale: 1.1;
+}
+
+.home-banner-background:nth-child(1) {
+  background-image: url("./assets/singapore-1.jpg");
+}
+.home-banner-background:nth-child(2) {
+  animation-delay: 24s;
+  background-image: url("./assets/singapore-2.jpg");
+}
+.home-banner-background:nth-child(3) {
+  animation-delay: 16s;
+  background-image: url("./assets/singapore-3.jpg");
+}
+.home-banner-background:nth-child(4) {
+  animation-delay: 8s;
+  background-image: url("./assets/singapore-4.jpg");
+}
+
+@keyframes bg-animation {
+  0% {
+    opacity: 0;
+    transform: scale(1.1);
+  }
+  5% {
+    opacity: 1;
+  }
+  20% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  25% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  40% {
+    opacity: 0;
+    transform: scale(1);
+  }
+}
+
 .banner {
+  position: relative;
   margin-bottom: -4rem;
   color: white;
   display: flex;

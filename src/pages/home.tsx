@@ -1,17 +1,15 @@
 import Link from "../components/Link";
-import Banner from "../assets/singapore-2.jpg";
 import LogoSMU from "../assets/logo-smu.svg";
 import { FadeText } from "../components/Effect/FadeText.tsx";
 
 const Home = () => {
   return (
     <>
-      <div
-        className="banner py-48"
-        style={{
-          backgroundImage: `url("${Banner}")`,
-        }}
-      >
+      <div className="banner py-48">
+        <div className="home-banner-background" />
+        <div className="home-banner-background" />
+        <div className="home-banner-background" />
+        <div className="home-banner-background" />
         <div className="banner-content w-[650px]">
           <FadeText
             className="text-[80px] font-bold"
