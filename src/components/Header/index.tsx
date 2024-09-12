@@ -99,7 +99,7 @@ const Header = () => {
   }, [pathname]);
 
   useClickAway((e: PointerEvent) => {
-    if (e.pageY > 48) {
+    if (e.clientY > 48) {
       setMobileMenuVisible(false);
     }
   }, menuRef);
