@@ -1,8 +1,13 @@
-import { Dropdown } from "antd";
+import { Divider, Dropdown } from "antd";
 import { Link, useLocation } from "react-router-dom";
-import { CaretDownOutlined } from "@ant-design/icons";
+import {
+  CaretDownOutlined,
+  CloseOutlined,
+  MenuOutlined,
+} from "@ant-design/icons";
 import { cn } from "../../utils";
-import { useEffect } from "react";
+import { useEffect, useRef, useState } from "react";
+import { useClickAway } from "ahooks";
 
 const Menu = ({
   children,
@@ -12,7 +17,7 @@ const Menu = ({
 }: {
   children: React.ReactNode;
   to?: string;
-  subMenu?: { key: string; label: string }[];
+  subMenu?: { href: string; label: string }[];
   active?: boolean;
 }) => {
   const className = cn(
@@ -29,92 +34,154 @@ const Menu = ({
       menu={{
         items: subMenu?.map((e) => ({
           label: (
-            <Link to={e.key} className="text-base">
+            <Link to={e.href} className="text-base">
               {e.label}
             </Link>
           ),
-          key: e.key,
+          key: e.href,
         })),
       }}
       placement="bottomLeft"
     >
-      <Link to={subMenu[0].key} className={className}>
+      <Link to={subMenu[0].href} className={className}>
         {children} <CaretDownOutlined />
       </Link>
     </Dropdown>
   ) : null;
 };
 
+const OrganizationMenu = [
+  {
+    href: "/organization/steering-committee",
+    label: "Steering Committee",
+  },
+  {
+    href: "/organization/organizing-committee",
+    label: "Organizing Committee",
+  },
+];
+const CallsMenu = [
+  {
+    href: "/calls/research-papers",
+    label: "Call for Research Papers",
+  },
+  {
+    href: "/calls/industry-papers",
+    label: "Call for Industry Papers",
+  },
+  {
+    href: "/calls/workshops",
+    label: "Call for Workshops",
+  },
+  {
+    href: "/calls/demo-papers",
+    label: "Call for Demo Papers",
+  },
+  {
+    href: "/calls/tutorial-proposal",
+    label: "Call for Tutorial Proposal",
+  },
+  {
+    href: "/calls/hpd-consortium-paper",
+    label: "Call for PhD Consortium Paper",
+  },
+];
+
 const Header = () => {
+  const menuRef = useRef<HTMLDivElement>(null);
   const { pathname } = useLocation();
 
+  const [mobileMenuVisible, setMobileMenuVisible] = useState(false);
+
   useEffect(() => {
+    setMobileMenuVisible(false);
     window.scrollTo(0, 0);
   }, [pathname]);
 
+  useClickAway((e: PointerEvent) => {
+    if (e.pageY > 48) {
+      setMobileMenuVisible(false);
+    }
+  }, menuRef);
+
   return (
-    <div className="fixed top-0 left-0 w-full bg-white/75  backdrop-blur-xl shadow-lg z-[100]">
-      <div className="flex items-center justify-start p-2 space-x-4 w-[650px] mx-auto">
+    <div
+      ref={menuRef}
+      className={cn(
+        "fixed top-0 left-0 w-full bg-white/75 backdrop-blur-xl shadow-lg z-[100] transition-all duration-500 ease-in-out max-h-14 overflow-y-hidden",
+        mobileMenuVisible ? "max-h-[600px]" : "",
+      )}
+    >
+      <div className="flex items-center justify-start p-2 space-x-4 w-[650px] mx-auto max-sm:justify-between max-sm:w-full">
         <Link
           className="w-24 h-8 bg-[#595959] rounded leading-8 text-white"
           to="/"
         >
           DASFAA
         </Link>
-        <div className="flex space-x-4 items-center">
+        <div className="flex space-x-4 items-center max-sm:hidden">
           <Menu to="/" active={pathname === "/"}>
             Home
           </Menu>
           <Menu
             active={pathname.startsWith("/organization")}
-            subMenu={[
-              {
-                key: "/organization/steering-committee",
-                label: "Steering Committee",
-              },
-              {
-                key: "/organization/organizing-committee",
-                label: "Organizing Committee",
-              },
-            ]}
+            subMenu={OrganizationMenu}
           >
             Organization
           </Menu>
-          <Menu
-            active={pathname.startsWith("/calls")}
-            subMenu={[
-              {
-                key: "/calls/research-papers",
-                label: "Call for Research Papers",
-              },
-              {
-                key: "/calls/industry-papers",
-                label: "Call for Industry Papers",
-              },
-              {
-                key: "/calls/workshops",
-                label: "Call for Workshops",
-              },
-              {
-                key: "/calls/demo-papers",
-                label: "Call for Demo Papers",
-              },
-              {
-                key: "/calls/tutorial-proposal",
-                label: "Call for Tutorial Proposal",
-              },
-              {
-                key: "/calls/hpd-consortium-paper",
-                label: "Call for PhD Consortium Paper",
-              },
-            ]}
-          >
+          <Menu active={pathname.startsWith("/calls")} subMenu={CallsMenu}>
             Calls
           </Menu>
           <Menu to="/important-dates" active={pathname === "/important-dates"}>
             Important Dates
           </Menu>
         </div>
+        <div className="hidden max-sm:block pr-2">
+          {mobileMenuVisible ? (
+            <CloseOutlined
+              id="menu-btn"
+              onClick={() => setMobileMenuVisible(false)}
+            />
+          ) : (
+            <MenuOutlined
+              id="menu-btn"
+              onClick={() => setMobileMenuVisible(true)}
+            />
+          )}
+        </div>
+      </div>
+      <div className={cn("flex flex-col items-center space-y-1 py-2")}>
+        <Menu to="/" active={pathname === "/"}>
+          Home
+        </Menu>
+        <Divider>
+          <div className="text-black/40">Organization</div>
+        </Divider>
+        {OrganizationMenu.map((e) => (
+          <Menu
+            key={`mobile-${e.href}`}
+            to={e.href}
+            active={pathname === e.href}
+          >
+            {e.label}
+          </Menu>
+        ))}
+        <Divider>
+          <div className="text-black/40">Calls</div>
+        </Divider>
+        {CallsMenu.map((e) => (
+          <Menu
+            key={`mobile-${e.href}`}
+            to={e.href}
+            active={pathname === e.href}
+          >
+            {e.label}
+          </Menu>
+        ))}
+        <Divider />
+        <Menu to="/important-dates" active={pathname === "/important-dates"}>
+          Important Dates
+        </Menu>
       </div>
     </div>
   );

@@ -26,7 +26,6 @@ body {
 }
 
 article {
-  width: 800px;
   text-align: left;
   margin-top: 6rem;
 }
@@ -114,14 +113,22 @@ tr td:first-child {
 }
 
 .banner-content {
+  max-width: 650px;
   text-shadow: black 2px 0 10px;
   filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.5));
 }
 
-.ant-dropdown .ant-dropdown-menu {
-  /*background-color: rgba(255, 255, 255, 0.7);*/
-  /*backdrop-filter: blur(24px);*/
-}
 .ant-dropdown-menu a:hover {
   color: #2f54eb !important;
+}
+
+@media (max-width: 650px) {
+  .banner-content {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  article {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
