@@ -1,0 +1,9 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow-x: hidden;
+}
