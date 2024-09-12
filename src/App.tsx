@@ -15,7 +15,7 @@ import ImportantDates from "./pages/important-dates.tsx";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/DASFAA2025">
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
