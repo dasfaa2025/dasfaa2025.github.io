@@ -108,8 +108,8 @@ const Header = () => {
     <div
       ref={menuRef}
       className={cn(
-        "fixed top-0 left-0 w-full bg-white/75 backdrop-blur-xl shadow-lg z-[100] transition-all duration-500 ease-in-out max-h-14 overflow-y-hidden",
-        mobileMenuVisible ? "max-h-[600px]" : "",
+        "fixed top-0 left-0 w-full bg-white/75 backdrop-blur-xl shadow-lg z-[100] transition-all duration-500 ease-in-out max-sm:max-h-12 overflow-y-hidden",
+        mobileMenuVisible ? "max-sm:max-h-[600px]" : "",
       )}
     >
       <div className="flex items-center justify-start p-2 space-x-4 w-[650px] mx-auto max-sm:justify-between max-sm:w-full">
@@ -150,7 +150,11 @@ const Header = () => {
           )}
         </div>
       </div>
-      <div className={cn("flex flex-col items-center space-y-1 py-2")}>
+      <div
+        className={cn(
+          "hidden max-sm:flex flex-col items-center space-y-1 py-2",
+        )}
+      >
         <Menu to="/" active={pathname === "/"}>
           Home
         </Menu>
