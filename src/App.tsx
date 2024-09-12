@@ -1,6 +1,6 @@
 import "./App.css";
 import Header from "./components/Header";
-import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
+import { HashRouter, Navigate, Route, Routes } from "react-router-dom";
 import Home from "./pages/home.tsx";
 import SteeringCommittee from "./pages/organization/steering-committee.tsx";
 import OrganizingCommittee from "./pages/organization/organizing-committee.tsx";
@@ -15,7 +15,7 @@ import ImportantDates from "./pages/important-dates.tsx";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <HashRouter>
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
@@ -49,7 +49,7 @@ function App() {
           />
           <Route path="/important-dates" element={<ImportantDates />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }
