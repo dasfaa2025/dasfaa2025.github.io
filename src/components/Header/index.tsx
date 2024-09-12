@@ -152,7 +152,7 @@ const Header = () => {
       </div>
       <div
         className={cn(
-          "hidden max-sm:flex flex-col items-center space-y-1 py-2",
+          "hidden max-sm:flex flex-col items-center space-y-1 py-2 px-4",
         )}
       >
         <Menu to="/" active={pathname === "/"}>
@@ -182,7 +182,7 @@ const Header = () => {
             {e.label}
           </Menu>
         ))}
-        <Divider />
+        <Divider></Divider>
         <Menu to="/important-dates" active={pathname === "/important-dates"}>
           Important Dates
         </Menu>

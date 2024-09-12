@@ -185,4 +185,7 @@ tr td:first-child {
     padding-left: 2rem;
     padding-right: 2rem;
   }
+  td:first-child {
+    width: 180px;
+  }
 }
