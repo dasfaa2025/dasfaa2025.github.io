@@ -8,6 +8,7 @@ import {
 import { cn } from "../../utils";
 import { useEffect, useRef, useState } from "react";
 import { useClickAway } from "ahooks";
+import LogoDASFAA2025 from "../../assets/logo-dasfaa2025.png";
 
 const Menu = ({
   children,
@@ -21,8 +22,8 @@ const Menu = ({
   active?: boolean;
 }) => {
   const className = cn(
-    "py-2 px-3 text-black/80 text-base rounded-lg font-medium transition-all cursor-pointer hover:text-[#2f54eb]",
-    active ? "text-[#2f54eb]" : "",
+    "py-2 px-3 text-black/80 text-base rounded-lg font-medium transition-all cursor-pointer hover:text-[#936bff]",
+    active ? "text-[#936bff]" : "",
   );
   return to ? (
     <Link to={to} className={className}>
@@ -30,7 +31,6 @@ const Menu = ({
     </Link>
   ) : subMenu ? (
     <Dropdown
-      // overlayStyle={{ top: 64 }}
       menu={{
         items: subMenu?.map((e) => ({
           label: (
@@ -112,12 +112,9 @@ const Header = () => {
         mobileMenuVisible ? "max-sm:max-h-[600px]" : "",
       )}
     >
-      <div className="flex items-center justify-start p-2 space-x-4 w-[650px] mx-auto max-sm:justify-between max-sm:w-full">
-        <Link
-          className="w-24 h-8 bg-[#595959] rounded leading-8 text-white"
-          to="/"
-        >
-          DASFAA
+      <div className="flex items-center justify-start px-3 py-3 space-x-4 w-[700px] mx-auto max-sm:justify-between max-sm:w-full">
+        <Link to="/">
+          <img src={LogoDASFAA2025} className="block h-6 w-auto" />
         </Link>
         <div className="flex space-x-4 items-center max-sm:hidden">
           <Menu to="/" active={pathname === "/"}>

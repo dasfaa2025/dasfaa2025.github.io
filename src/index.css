@@ -51,11 +51,11 @@ article {
 
 .link {
   /*margin-inline-start: 0.5rem;*/
-  color: #2f54eb;
+  color: #936bff;
   transition: all 0.3s ease;
 }
 .link:hover {
-  color: #597ef7 !important;
+  color: #b494ff !important;
 }
 
 p {
@@ -70,11 +70,11 @@ tr {
 }
 
 tr:hover {
-  background-color: #f0f5ff;
+  background-color: #f6f0ff;
 }
 
 tr:nth-child(odd) {
-  background-color: #f0f5ff;
+  background-color: #f6f0ff;
 }
 
 td:first-child {
@@ -173,7 +173,7 @@ tr td:first-child {
 }
 
 .ant-dropdown-menu a:hover {
-  color: #2f54eb !important;
+  color: #936bff !important;
 }
 
 @media (max-width: 650px) {
