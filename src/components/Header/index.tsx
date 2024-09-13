@@ -22,7 +22,7 @@ const Menu = ({
   active?: boolean;
 }) => {
   const className = cn(
-    "py-2 px-3 text-black/80 text-base rounded-lg font-medium transition-all cursor-pointer hover:text-[#936bff]",
+    "py-2 px-3 text-black/80 text-lg rounded-lg font-medium transition-all cursor-pointer hover:text-[#936bff]",
     active ? "text-[#936bff]" : "",
   );
   return to ? (
@@ -112,9 +112,9 @@ const Header = () => {
         mobileMenuVisible ? "max-sm:max-h-[600px]" : "",
       )}
     >
-      <div className="flex items-center justify-start px-3 py-3 space-x-4 w-[700px] mx-auto max-sm:justify-between max-sm:w-full">
+      <div className="flex items-center justify-start px-3 py-3 space-x-4 w-[750px] mx-auto max-sm:justify-between max-sm:w-full">
         <Link to="/">
-          <img src={LogoDASFAA2025} className="block h-6 w-auto" />
+          <img src={LogoDASFAA2025} className="block h-[22px] w-auto" />
         </Link>
         <div className="flex space-x-4 items-center max-sm:hidden">
           <Menu to="/" active={pathname === "/"}>
