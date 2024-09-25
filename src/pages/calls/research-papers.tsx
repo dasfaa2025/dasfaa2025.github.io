@@ -128,7 +128,6 @@ const ResearchPapers = () => {
           <li>Security, privacy, and trust</li>
           <li>Data quality and credibility</li>
           <li>Bio and health informatics</li>
-          <li>Data science for epidemics (e.g., COVID-19)</li>
           <li>Semantic Web and knowledge management</li>
           <li>Crowd-sourcing</li>
           <li>Data archive and digital library</li>
