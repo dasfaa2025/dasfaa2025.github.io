@@ -91,7 +91,9 @@ const Home = () => {
         </div>
 
         <h2>Contact us</h2>
-        <Link href="mailto:dasfaa2025@gmail.com">dasfaa2025@gmail.com</Link>
+        <Link target="_self" href="mailto:dasfaa2025@gmail.com">
+          dasfaa2025@gmail.com
+        </Link>
       </article>
     </>
   );

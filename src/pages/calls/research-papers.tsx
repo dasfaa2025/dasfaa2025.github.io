@@ -87,10 +87,28 @@ const ResearchPapers = () => {
         <ul>
           <li>Cloud data management</li>
           <li>Big Data data management (e.g, MapReduce, Spark)</li>
-          <li>Parallel and distributed database systems</li>
+          <li>Parallel database systems</li>
           <li>Data semantics and data integration</li>
           <li>Information integration</li>
-          <li>Blockchain</li>
+        </ul>
+
+        <h4>Distributed ledger and Blockchain</h4>
+        <ul>
+          <li>Distributed ledgers</li>
+          <li>Data mining in a distributed ledger setting</li>
+          <li>
+            Secure data sharing and collaborative intelligence through
+            blockchain
+          </li>
+          <li>
+            Algorithm design, complexity analysis, implementation for blockchain
+          </li>
+          <li>Benchmarking and performance study</li>
+          <li>Data analytics on blockchain</li>
+          <li>Data provenance, data governance, especially with AI</li>
+          <li>Data asset management</li>
+          <li>Data store for blockchain</li>
+          <li>Applications and use cases of blockchain</li>
         </ul>
 
         <h3>Data science and advanced applications</h3>
@@ -256,7 +274,9 @@ const ResearchPapers = () => {
         <h2>Contact Information</h2>
         <p>
           If you have any questions, please feel free to contact us at{" "}
-          <Link href="mailto:@gmail.com">@gmail.com</Link>
+          <Link target="_self" href="mailto:fdzhu@smu.edu.sg">
+            fdzhu@smu.edu.sg
+          </Link>
         </p>
 
         <h2>Program Committee Co-Chairs</h2>
