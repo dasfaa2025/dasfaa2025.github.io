@@ -12,6 +12,7 @@ import AvaterWeiDing from "../../assets/avatars/Wei Ding.jpg";
 import AvaterXiaoliLI from "../../assets/avatars/Xiaoli LI.jpg";
 import AvaterYiYu from "../../assets/avatars/Yi Yu.jpg";
 import AvaterYuchenLI from "../../assets/avatars/Yuchen LI.jpg";
+import AvaterYangShi from "../../assets/avatars/Yang Shi.jpg";
 
 const OrganizingCommittee = () => {
   const memberlistClassName =
@@ -146,7 +147,19 @@ const OrganizingCommittee = () => {
         <h2>Local Arrangement Chair</h2>
         <h2>Local Arrangement Committee</h2>
         <h2>Registration Chair</h2>
+
         <h2>Web Co-Chairs</h2>
+        <div className={memberlistClassName}>
+          <MemberCard
+            cover={AvaterYangShi}
+            title={
+              <>
+                <b>Yang Shi</b>, University of Shanghai for Science and
+                Technology, China
+              </>
+            }
+          />
+        </div>
       </article>
     </>
   );
