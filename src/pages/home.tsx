@@ -40,7 +40,7 @@ const Home = () => {
           />
           <FadeText
             className="text-lg font-medium"
-            text="Convention Center @Resort World Sentosa, Singapore"
+            text="Singapore"
             direction="down"
             framerProps={{
               show: { transition: { delay: 0.8, duration: 0.4 } },

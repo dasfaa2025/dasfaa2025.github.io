@@ -1,6 +1,6 @@
 import DateTable from "../../components/DateTable";
 import PageBanner from "../../components/PageBanner";
-import Banner from "../../assets/singapore-4.jpg";
+import Banner from "../../assets/singapore-2.jpg";
 
 const IndustryPapers = () => {
   return (
