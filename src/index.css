@@ -113,15 +113,15 @@ tr td:first-child {
 }
 
 .home-banner-background:nth-child(1) {
-  background-image: url("./assets/singapore-1.jpg");
+  background-image: url("https://dasfaa2025.netlify.app/assets/singapore-1.jpg");
 }
 .home-banner-background:nth-child(2) {
   animation-delay: 16s;
-  background-image: url("./assets/singapore-2.jpg");
+  background-image: url("https://dasfaa2025.netlify.app/assets/singapore-2.jpg");
 }
 .home-banner-background:nth-child(3) {
   animation-delay: 8s;
-  background-image: url("./assets/singapore-3.jpg");
+  background-image: url("https://dasfaa2025.netlify.app/assets/singapore-3.jpg");
 }
 /*.home-banner-background:nth-child(4) {*/
 /*  animation-delay: 8s;*/

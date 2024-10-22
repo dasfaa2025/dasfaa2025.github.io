@@ -1,12 +1,12 @@
 import Link from "../../components/Link";
 import DateTable from "../../components/DateTable";
 import PageBanner from "../../components/PageBanner";
-import Banner from "../../assets/singapore-2.jpg";
+import { Banner2 } from "../../assets";
 
 const PhDConsortiumPaper = () => {
   return (
     <>
-      <PageBanner title="Call for PhD Consortium Paper" image={Banner} />
+      <PageBanner title="Call for PhD Consortium Paper" image={Banner2} />
       <article className="prose">
         <p>
           The DASFAA PhD Consortium provides a platform for PhD students to

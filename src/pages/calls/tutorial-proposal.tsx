@@ -1,11 +1,11 @@
 import DateTable from "../../components/DateTable";
 import PageBanner from "../../components/PageBanner";
-import Banner from "../../assets/singapore-2.jpg";
+import { Banner2 } from "../../assets";
 
 const TutorialProposal = () => {
   return (
     <>
-      <PageBanner title="Call for Tutorial Proposal" image={Banner} />
+      <PageBanner title="Call for Tutorial Proposal" image={Banner2} />
       <article className="prose">
         <p>
           The goal of the DASFAA 2025 tutorial track is to offer the conference

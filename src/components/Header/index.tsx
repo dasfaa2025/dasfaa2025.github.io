@@ -8,7 +8,7 @@ import {
 import { cn } from "../../utils";
 import { useEffect, useRef, useState } from "react";
 import { useClickAway } from "ahooks";
-import LogoDASFAA2025 from "../../assets/logo-dasfaa2025.png";
+import { LogoDASFAA2025 } from "../../assets";
 
 const Menu = ({
   children,

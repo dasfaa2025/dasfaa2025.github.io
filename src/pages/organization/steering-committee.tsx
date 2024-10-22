@@ -1,11 +1,11 @@
 import Link from "../../components/Link";
 import PageBanner from "../../components/PageBanner";
-import Banner from "../../assets/singapore-3.jpg";
+import { Banner3 } from "../../assets";
 
 const SteeringCommittee = () => {
   return (
     <>
-      <PageBanner title="Steering Committee Members" image={Banner} />
+      <PageBanner title="Steering Committee Members" image={Banner3} />
       <article className="prose">
         <h2>Chair</h2>
         <ul>

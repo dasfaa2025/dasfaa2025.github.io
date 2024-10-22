@@ -1,11 +1,11 @@
 import DateTable from "../../components/DateTable";
 import PageBanner from "../../components/PageBanner";
-import Banner from "../../assets/singapore-2.jpg";
+import { Banner2 } from "../../assets";
 
 const IndustryPapers = () => {
   return (
     <>
-      <PageBanner title="Call For Industry Papers" image={Banner} />
+      <PageBanner title="Call For Industry Papers" image={Banner2} />
       <article className="prose">
         <p>
           The Industrial & Practitioner Track of the 30th International

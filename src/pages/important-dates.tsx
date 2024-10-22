@@ -1,11 +1,11 @@
 import DateTable from "../components/DateTable";
-import Banner from "../assets/singapore-1.jpg";
 import PageBanner from "../components/PageBanner";
+import { Banner1 } from "../assets";
 
 const ImportantDates = () => {
   return (
     <>
-      <PageBanner title="Important Dates" image={Banner} />
+      <PageBanner title="Important Dates" image={Banner1} />
       <article className="prose">
         <h2>Conference Dates</h2>
         <DateTable

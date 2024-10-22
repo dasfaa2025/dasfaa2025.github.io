@@ -1,12 +1,12 @@
 import DateTable from "../../components/DateTable";
 import Link from "../../components/Link";
 import PageBanner from "../../components/PageBanner";
-import Banner from "../../assets/singapore-2.jpg";
+import { Banner2 } from "../../assets";
 
 const ResearchPapers = () => {
   return (
     <>
-      <PageBanner title="Call for research papers" image={Banner} />
+      <PageBanner title="Call for research papers" image={Banner2} />
       <article className="prose">
         <p>
           The International Conference on Database Systems for Advanced

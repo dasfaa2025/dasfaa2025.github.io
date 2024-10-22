@@ -1,11 +1,11 @@
 import DateTable from "../../components/DateTable";
 import PageBanner from "../../components/PageBanner";
-import Banner from "../../assets/singapore-2.jpg";
+import { Banner2 } from "../../assets";
 
 const Workshops = () => {
   return (
     <>
-      <PageBanner title="Call for Workshops" image={Banner} />
+      <PageBanner title="Call for Workshops" image={Banner2} />
       <article className="prose">
         <p>
           We invite workshop proposals on topics related to database systems and
