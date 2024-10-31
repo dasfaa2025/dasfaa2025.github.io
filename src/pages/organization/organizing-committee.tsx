@@ -13,7 +13,7 @@ const OrganizingCommittee = () => {
         <h2>General Co-Chairs</h2>
         <div className={memberlistClassName}>
           <MemberCard
-            cover={Avatars.AvaterEePengLim}
+            cover={Avatars.AvatarEePengLim}
             title={
               <>
                 <b>Ee-Peng Lim</b>, Singapore Management University, Singapore
@@ -21,7 +21,7 @@ const OrganizingCommittee = () => {
             }
           />
           <MemberCard
-            cover={Avatars.AvaterKyuseokShim}
+            cover={Avatars.AvatarKyuseokShim}
             title={
               <>
                 <b>Kyuseok Shim</b>, Seoul National University, Korea
@@ -29,7 +29,7 @@ const OrganizingCommittee = () => {
             }
           />
           <MemberCard
-            cover={Avatars.AvaterWeiDing}
+            cover={Avatars.AvatarWeiDing}
             title={
               <>
                 <b>Wei Ding</b>, UMass, USA
@@ -41,7 +41,7 @@ const OrganizingCommittee = () => {
         <h2>Associate General Chairs</h2>
         <div className={memberlistClassName}>
           <MemberCard
-            cover={Avatars.AvaterBingxueZhang}
+            cover={Avatars.AvatarBingxueZhang}
             title={
               <>
                 <b>Bingxue Zhang</b>, University of Shanghai for Science and
@@ -54,7 +54,7 @@ const OrganizingCommittee = () => {
         <h2>Program Committee Co-Chairs</h2>
         <div className={memberlistClassName}>
           <MemberCard
-            cover={Avatars.AvaterPhilipSYu}
+            cover={Avatars.AvatarPhilipSYu}
             title={
               <>
                 <b>Philip S. Yu</b>, University of Illinois at Chicago, USA
@@ -62,7 +62,7 @@ const OrganizingCommittee = () => {
             }
           />
           <MemberCard
-            cover={Avatars.AvaterFeidaZhu}
+            cover={Avatars.AvatarFeidaZhu}
             title={
               <>
                 <b>Feida Zhu</b>, Singapore Management University, Singapore
@@ -70,7 +70,7 @@ const OrganizingCommittee = () => {
             }
           />
           <MemberCard
-            cover={Avatars.AvaterAkiyoNADAMOTO}
+            cover={Avatars.AvatarAkiyoNADAMOTO}
             title={
               <>
                 <b>Akiyo NADAMOTO</b>, Konan University, Japan
@@ -82,7 +82,7 @@ const OrganizingCommittee = () => {
         <h2>Industry Program Co-Chairs</h2>
         <div className={memberlistClassName}>
           <MemberCard
-            cover={Avatars.AvaterXiaoliLI}
+            cover={Avatars.AvatarXiaoliLI}
             title={
               <>
                 <b>Xiaoli LI</b>, A*Star
@@ -92,15 +92,41 @@ const OrganizingCommittee = () => {
         </div>
 
         <h2>Panel Chairs</h2>
+        <div className={memberlistClassName}>
+          <MemberCard
+            cover={Avatars.AvatarProfXinWang}
+            title={
+              <>
+                <b>Prof. Xin Wang</b>, Tianjin University
+              </>
+            }
+          />
+          <MemberCard
+            cover={Avatars.AvatarProfSangWonLee}
+            title={
+              <>
+                <b>Prof. Sang-Won Lee</b>, Seoul National University
+              </>
+            }
+          />
+        </div>
 
         <h2>Workshop Chairs</h2>
         <div className={memberlistClassName}>
           <MemberCard
-            cover={Avatars.AvaterSouravBhowmick}
+            cover={Avatars.AvatarSouravBhowmick}
             title={
               <>
                 <b>Sourav Bhowmick</b>, Nanyang Technological University,
                 Singapore
+              </>
+            }
+          />
+          <MemberCard
+            cover={Avatars.AvatarXiaochunYang}
+            title={
+              <>
+                <b>Xiaochun Yang</b>, North Eastern University, China
               </>
             }
           />
@@ -109,7 +135,7 @@ const OrganizingCommittee = () => {
         <h2>Tutorial Chairs</h2>
         <div className={memberlistClassName}>
           <MemberCard
-            cover={Avatars.AvaterYiYu}
+            cover={Avatars.AvatarYiYu}
             title={
               <>
                 <b>Yi Yu</b>, Hiroshima University, Japan
@@ -121,7 +147,7 @@ const OrganizingCommittee = () => {
         <h2>Demo Chairs</h2>
         <div className={memberlistClassName}>
           <MemberCard
-            cover={Avatars.AvaterYuchenLI}
+            cover={Avatars.AvatarYuchenLI}
             title={
               <>
                 <b>Yuchen LI</b>, Singapore Management University, Singapore
@@ -132,6 +158,19 @@ const OrganizingCommittee = () => {
 
         <h2>Ph.D. Consortium Chairs</h2>
         <h2>Publication Chair</h2>
+
+        <h2>Publicity Chair</h2>
+        <div className={memberlistClassName}>
+          <MemberCard
+            cover={Avatars.AvatarLinheKong}
+            title={
+              <>
+                <b>Linhe KONG</b>, Shanghai Jiaotong University
+              </>
+            }
+          />
+        </div>
+
         <h2>Local Arrangement Chair</h2>
         <h2>Local Arrangement Committee</h2>
         <h2>Registration Chair</h2>
@@ -139,7 +178,7 @@ const OrganizingCommittee = () => {
         <h2>Web Co-Chairs</h2>
         <div className={memberlistClassName}>
           <MemberCard
-            cover={Avatars.AvaterYangShi}
+            cover={Avatars.AvatarYangShi}
             title={
               <>
                 <b>Yang Shi</b>, University of Shanghai for Science and

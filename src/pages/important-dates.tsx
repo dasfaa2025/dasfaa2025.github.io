@@ -21,10 +21,6 @@ const ImportantDates = () => {
         <DateTable
           values={[
             {
-              label: "Abstract submission deadline",
-              date: "November 04, 2024",
-            },
-            {
               label: "Paper submission deadline",
               date: "November 11, 2024",
             },
@@ -80,11 +76,11 @@ const ImportantDates = () => {
           values={[
             {
               label: "Proposal submission deadline",
-              date: "November 1, 2024",
+              date: "November 11, 2024",
             },
             {
               label: "Acceptance notification",
-              date: "November 10, 2024",
+              date: "November 25, 2024",
             },
           ]}
         />

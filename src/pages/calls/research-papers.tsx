@@ -23,10 +23,6 @@ const ResearchPapers = () => {
         <DateTable
           values={[
             {
-              label: "Abstract submission",
-              date: "November 04, 2024",
-            },
-            {
               label: "Full paper submission",
               date: "November 11, 2024",
             },
@@ -268,7 +264,7 @@ const ResearchPapers = () => {
         </p>
 
         <h2>Submission Website</h2>
-        <blockquote>TBA</blockquote>
+        <Link href="https://cmt3.research.microsoft.com/DASFAA2025/Submission/Index" />
 
         <h2>Contact Information</h2>
         <p>
