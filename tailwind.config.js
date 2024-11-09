@@ -4,7 +4,15 @@ import TailwindcssTypography from "@tailwindcss/typography";
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      typography: {
+        DEFAULT: {
+          css: {
+            maxWidth: "75ch",
+          },
+        },
+      },
+    },
   },
   plugins: [TailwindcssTypography],
 };

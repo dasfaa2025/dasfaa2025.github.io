@@ -24,7 +24,8 @@ const ResearchPapers = () => {
           values={[
             {
               label: "Full paper submission",
-              date: "November 11, 2024",
+              date: "November 25, 2024",
+              oldDate: "November 11, 2024",
             },
             {
               label: "Acceptance notification",

@@ -32,11 +32,13 @@ const Workshops = () => {
           values={[
             {
               label: "Proposal submission",
-              date: "November 11, 2024",
+              date: "November 25, 2024",
+              oldDate: "November 11, 2024",
             },
             {
               label: "Acceptance notification",
-              date: "November 25, 2024",
+              date: "December 4, 2024",
+              oldDate: "November 25, 2024",
             },
           ]}
         />
