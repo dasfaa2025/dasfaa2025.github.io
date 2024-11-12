@@ -13,7 +13,7 @@ const Link = ({
 }) => {
   return (
     <a
-      className={cn("link", margin ? "ms-0.5" : "")}
+      className={cn("link break-all", margin ? "ms-0.5" : "")}
       target={target}
       rel="noreferrer noopener"
       href={href}
