@@ -81,6 +81,18 @@ const PhDConsortiumPaper = () => {
           All accepted proposals are required to be presented at the conference.
         </p>
 
+        <h2>Submission Website</h2>
+        <Link href="https://cmt3.research.microsoft.com/DASFAA2025/Submission/Index" />
+        <blockquote>
+          Please select the appropriate track during your submission.
+        </blockquote>
+
+        <h2>Contact information</h2>
+        <p>
+          For any problems with the submission system, please contact the Ph.D.
+          consortium chairs directly.
+        </p>
+
         <h2>Ph.D. Consortium Chairs</h2>
       </article>
     </>

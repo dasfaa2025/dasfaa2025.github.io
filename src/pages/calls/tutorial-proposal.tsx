@@ -1,6 +1,7 @@
 import DateTable from "../../components/DateTable";
 import PageBanner from "../../components/PageBanner";
 import { Banner2 } from "../../assets";
+import Link from "../../components/Link";
 
 const TutorialProposal = () => {
   return (
@@ -70,6 +71,18 @@ const TutorialProposal = () => {
           for the tutorial presenter(s). The topics of accepted tutorials and
           the names of the presenters will be included in the conference
           proceedings.
+        </p>
+
+        <h2>Submission Website</h2>
+        <Link href="https://cmt3.research.microsoft.com/DASFAA2025/Submission/Index" />
+        <blockquote>
+          Please select the appropriate track during your submission.
+        </blockquote>
+
+        <h2>Contact information</h2>
+        <p>
+          For any problems with the submission system, please contact the
+          tutorial chairs directly.
         </p>
 
         <h2>Tutorial Chairs</h2>

@@ -1,6 +1,7 @@
 import DateTable from "../../components/DateTable";
 import PageBanner from "../../components/PageBanner";
 import { Banner2 } from "../../assets";
+import Link from "../../components/Link";
 
 const IndustryPapers = () => {
   return (
@@ -64,11 +65,16 @@ const IndustryPapers = () => {
           papers (up to 12 pages) and extended abstracts (up to 4 pages) in LNCS
           (Lecture Notes in Computer Science) format. Industrial track
           submissions must be submitted electronically, in PDF format, using the
-          same Conference Management Tool as the research track. Please mention
-          "Industrial Track" next to the paper title during submission in the
-          CMT system. All papers will be single-blind reviewed. All accepted
-          papers will be published in the conference proceedings.
+          same Conference Management Tool as the research track. All papers will
+          be single-blind reviewed. All accepted papers will be published in the
+          conference proceedings.
         </p>
+
+        <h2>Submission Website</h2>
+        <Link href="https://cmt3.research.microsoft.com/DASFAA2025/Submission/Index" />
+        <blockquote>
+          Please select the appropriate track during your submission.
+        </blockquote>
 
         <h2>Contact information</h2>
         <p>

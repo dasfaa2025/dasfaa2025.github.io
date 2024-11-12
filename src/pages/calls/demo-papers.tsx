@@ -1,6 +1,7 @@
 import DateTable from "../../components/DateTable";
 import PageBanner from "../../components/PageBanner";
 import { Banner2 } from "../../assets";
+import Link from "../../components/Link";
 
 const DemoPapers = () => {
   return (
@@ -92,6 +93,12 @@ const DemoPapers = () => {
           scientific content and results. Demo submissions will be included in
           the conference proceedings.
         </p>
+
+        <h2>Submission Website</h2>
+        <Link href="https://cmt3.research.microsoft.com/DASFAA2025/Submission/Index" />
+        <blockquote>
+          Please select the appropriate track during your submission.
+        </blockquote>
 
         <h2>Contact Information</h2>
         <p>

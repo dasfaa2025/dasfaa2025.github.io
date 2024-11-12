@@ -266,6 +266,9 @@ const ResearchPapers = () => {
 
         <h2>Submission Website</h2>
         <Link href="https://cmt3.research.microsoft.com/DASFAA2025/Submission/Index" />
+        <blockquote>
+          Please select the appropriate track during your submission.
+        </blockquote>
 
         <h2>Contact Information</h2>
         <p>

@@ -1,6 +1,7 @@
 import DateTable from "../../components/DateTable";
 import PageBanner from "../../components/PageBanner";
 import { Banner2 } from "../../assets";
+import Link from "../../components/Link";
 
 const Workshops = () => {
   return (
@@ -97,6 +98,16 @@ const Workshops = () => {
           by Springer, and indexed by both LNCS and DBLP.
         </p>
 
+        <h2>Submission Website</h2>
+        <Link href="https://cmt3.research.microsoft.com/DASFAA2025/Submission/Index" />
+        <blockquote>
+          Please select the appropriate track during your submission.
+        </blockquote>
+        <blockquote>
+          Only for the submission of workshop proposal. For the workshop papers,
+          please see the workshop webpage.
+        </blockquote>
+
         <h2>Contact information</h2>
         <p>
           For any problems with the submission system, please contact the
@@ -104,9 +115,14 @@ const Workshops = () => {
         </p>
 
         <h2>Workshop Charis</h2>
-        <p>
-          <b>Sourav Bhowmick</b>, Nanyang Technological University, Singapore
-        </p>
+        <ul>
+          <li>
+            <b>Sourav Bhowmick</b>, Nanyang Technological University, Singapore
+          </li>
+          <li>
+            <b>Xiaochun Yang</b>, North Eastern University, China
+          </li>
+        </ul>
       </article>
     </>
   );
