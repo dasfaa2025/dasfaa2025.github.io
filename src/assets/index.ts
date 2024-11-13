@@ -1,5 +1,4 @@
 // const Prefix = "https://dasfaa2025.netlify.app/assets";
-const Prefix = ".";
 import LogoDASFAA2025 from "./logo-dasfaa2025.png";
 import Banner1 from "./singapore-1.jpg";
 import Banner2 from "./singapore-2.jpg";
