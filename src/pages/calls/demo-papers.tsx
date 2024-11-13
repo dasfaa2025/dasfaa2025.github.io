@@ -111,6 +111,10 @@ const DemoPapers = () => {
           <li>
             <b>Yuchen LI</b>, Singapore Management University, Singapore
           </li>
+          <li>
+            <b>Zeyi Wen</b>, Hong Kong University of Science and Technology,
+            Guangzhou
+          </li>
         </ul>
       </article>
     </>

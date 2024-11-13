@@ -1,24 +1,44 @@
-const Prefix = "https://dasfaa2025.netlify.app/assets";
-const LogoDASFAA2025 = Prefix + "/logo-dasfaa2025.png";
-const Banner1 = Prefix + "/singapore-1.jpg";
-const Banner2 = Prefix + "/singapore-2.jpg";
-const Banner3 = Prefix + "/singapore-3.jpg";
+// const Prefix = "https://dasfaa2025.netlify.app/assets";
+const Prefix = ".";
+import LogoDASFAA2025 from "./logo-dasfaa2025.png";
+import Banner1 from "./singapore-1.jpg";
+import Banner2 from "./singapore-2.jpg";
+import Banner3 from "./singapore-3.jpg";
+import AvatarAkiyoNADAMOTO from "./avatars/Akiyo NADAMOTO.jpg";
+import AvatarBingxueZhang from "./avatars/Bingxue Zhang.jpg";
+import AvatarEePengLim from "./avatars/Ee-Peng Lim.jpg";
+import AvatarFeidaZhu from "./avatars/Feida Zhu.jpg";
+import AvatarKyuseokShim from "./avatars/Kyuseok Shim.jpg";
+import AvatarLinheKong from "./avatars/Linhe KONG.jpg";
+import AvatarPhilipSYu from "./avatars/Philip S. Yu.jpg";
+import AvatarProfSangWonLee from "./avatars/Prof. Sang-Won Lee.png";
+import AvatarProfXinWang from "./avatars/Prof. Xin Wang.jpg";
+import AvatarSouravBhowmick from "./avatars/Sourav Bhowmick.jpg";
+import AvatarWeiDing from "./avatars/Wei Ding.jpg";
+import AvatarXiaochunYang from "./avatars/Xiaochun Yang.jpg";
+import AvatarXiaoliLI from "./avatars/Xiaoli LI.jpg";
+import AvatarYiYu from "./avatars/Yi Yu.jpg";
+import AvatarYuchenLI from "./avatars/Yuchen LI.jpg";
+import AvatarYangShi from "./avatars/Yang Shi.jpg";
+import AvatarZeyiWen from "./avatars/Zeyi Wen.jpg";
+
 const Avatars = {
-  AvatarAkiyoNADAMOTO: Prefix + "/avatars/Akiyo NADAMOTO.jpg",
-  AvatarBingxueZhang: Prefix + "/avatars/Bingxue Zhang.jpg",
-  AvatarEePengLim: Prefix + "/avatars/Ee-Peng Lim.jpg",
-  AvatarFeidaZhu: Prefix + "/avatars/Feida Zhu.jpg",
-  AvatarKyuseokShim: Prefix + "/avatars/Kyuseok Shim.jpg",
-  AvatarLinheKong: Prefix + "/avatars/Linhe KONG.jpg",
-  AvatarPhilipSYu: Prefix + "/avatars/Philip S. Yu.jpg",
-  AvatarProfSangWonLee: Prefix + "/avatars/Prof. Sang-Won Lee.png",
-  AvatarProfXinWang: Prefix + "/avatars/Prof. Xin Wang.jpg",
-  AvatarSouravBhowmick: Prefix + "/avatars/Sourav Bhowmick.jpg",
-  AvatarWeiDing: Prefix + "/avatars/Wei Ding.jpg",
-  AvatarXiaochunYang: Prefix + "/avatars/Xiaochun Yang.jpg",
-  AvatarXiaoliLI: Prefix + "/avatars/Xiaoli LI.jpg",
-  AvatarYiYu: Prefix + "/avatars/Yi Yu.jpg",
-  AvatarYuchenLI: Prefix + "/avatars/Yuchen LI.jpg",
-  AvatarYangShi: Prefix + "/avatars/Yang Shi.jpg",
+  AvatarAkiyoNADAMOTO,
+  AvatarBingxueZhang,
+  AvatarEePengLim,
+  AvatarFeidaZhu,
+  AvatarKyuseokShim,
+  AvatarLinheKong,
+  AvatarPhilipSYu,
+  AvatarProfSangWonLee,
+  AvatarProfXinWang,
+  AvatarSouravBhowmick,
+  AvatarWeiDing,
+  AvatarXiaochunYang,
+  AvatarXiaoliLI,
+  AvatarYiYu,
+  AvatarYuchenLI,
+  AvatarYangShi,
+  AvatarZeyiWen,
 };
 export { LogoDASFAA2025, Banner1, Banner2, Banner3, Avatars };

@@ -154,6 +154,15 @@ const OrganizingCommittee = () => {
               </>
             }
           />
+          <MemberCard
+            cover={Avatars.AvatarZeyiWen}
+            title={
+              <>
+                <b>Zeyi Wen</b>, Hong Kong University of Science and Technology,
+                Guangzhou
+              </>
+            }
+          />
         </div>
 
         <h2>Ph.D. Consortium Chairs</h2>
