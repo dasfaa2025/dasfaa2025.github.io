@@ -12,7 +12,7 @@ import AvatarLinheKong from "./avatars/Linhe KONG.jpg";
 import AvatarPhilipSYu from "./avatars/Philip S. Yu.jpg";
 import AvatarProfSangWonLee from "./avatars/Prof. Sang-Won Lee.png";
 import AvatarProfXinWang from "./avatars/Prof. Xin Wang.jpg";
-import AvatarSouravBhowmick from "./avatars/Sourav Bhowmick.jpg";
+// import AvatarSouravBhowmick from "./avatars/Sourav Bhowmick.jpg";
 import AvatarWeiDing from "./avatars/Wei Ding.jpg";
 import AvatarXiaochunYang from "./avatars/Xiaochun Yang.jpg";
 import AvatarXiaoliLI from "./avatars/Xiaoli LI.jpg";
@@ -31,7 +31,7 @@ const Avatars = {
   AvatarPhilipSYu,
   AvatarProfSangWonLee,
   AvatarProfXinWang,
-  AvatarSouravBhowmick,
+  // AvatarSouravBhowmick,
   AvatarWeiDing,
   AvatarXiaochunYang,
   AvatarXiaoliLI,

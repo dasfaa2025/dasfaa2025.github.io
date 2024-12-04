@@ -114,15 +114,6 @@ const OrganizingCommittee = () => {
         <h2>Workshop Chairs</h2>
         <div className={memberlistClassName}>
           <MemberCard
-            cover={Avatars.AvatarSouravBhowmick}
-            title={
-              <>
-                <b>Sourav Bhowmick</b>, Nanyang Technological University,
-                Singapore
-              </>
-            }
-          />
-          <MemberCard
             cover={Avatars.AvatarXiaochunYang}
             title={
               <>

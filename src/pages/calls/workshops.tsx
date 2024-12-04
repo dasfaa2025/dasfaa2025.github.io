@@ -117,9 +117,6 @@ const Workshops = () => {
         <h2>Workshop Charis</h2>
         <ul>
           <li>
-            <b>Sourav Bhowmick</b>, Nanyang Technological University, Singapore
-          </li>
-          <li>
             <b>Xiaochun Yang</b>, North Eastern University, China
           </li>
         </ul>
