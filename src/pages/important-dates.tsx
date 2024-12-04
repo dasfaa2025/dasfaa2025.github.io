@@ -46,7 +46,8 @@ const ImportantDates = () => {
             },
             {
               label: "Acceptance Notification",
-              date: "January 11, 2025",
+              date: "January 23, 2025",
+              oldDate: "January 11, 2025",
             },
             {
               label: "Camera ready due",
