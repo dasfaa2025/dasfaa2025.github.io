@@ -58,6 +58,10 @@ const SteeringCommittee = () => {
             (liguoliang@tsinghua.edu.cn)
           </li>
           <li>
+            <b>Sourav Bhowmick</b>, Nanyang Technological University, Singapore
+            (assourav@ntu.edu.sg)
+          </li>
+          <li>
             <b>Atsuyuki Morishima</b>, University of Tsukaba, Japan
             (mori@slis.tsukuba.ac.jp)
           </li>
