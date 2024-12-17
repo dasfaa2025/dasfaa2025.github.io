@@ -48,7 +48,8 @@ const DemoPapers = () => {
             },
             {
               label: "Acceptance notification",
-              date: "January 13, 2025",
+              date: "January 23, 2025",
+              oldDate: "January 13, 2025",
             },
             {
               label: "Camera Ready Deadline",

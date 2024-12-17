@@ -23,7 +23,6 @@ const ImportantDates = () => {
             {
               label: "Paper submission deadline",
               date: "November 25, 2024",
-              oldDate: "November 11, 2024",
             },
             {
               label: "Acceptance notification",
@@ -42,7 +41,6 @@ const ImportantDates = () => {
             {
               label: "Paper submission deadline",
               date: "December 2, 2024",
-              oldDate: "November 25, 2024",
             },
             {
               label: "Acceptance Notification",
@@ -65,7 +63,8 @@ const ImportantDates = () => {
             },
             {
               label: "Acceptance notification",
-              date: "January 13, 2025",
+              date: "January 23, 2025",
+              oldDate: "January 13, 2025",
             },
             {
               label: "Camera ready due",
@@ -80,12 +79,10 @@ const ImportantDates = () => {
             {
               label: "Proposal submission deadline",
               date: "December 2, 2024",
-              oldDate: "November 25, 2024",
             },
             {
               label: "Acceptance notification",
               date: "December 11, 2024",
-              oldDate: "December 4, 2024",
             },
           ]}
         />
