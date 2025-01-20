@@ -32,7 +32,7 @@ const Home = () => {
           </div>
           <FadeText
             className="text-lg font-medium"
-            text="May 25-28, 2025"
+            text="May 26-29, 2025"
             direction="down"
             framerProps={{
               show: { transition: { delay: 0.6, duration: 0.4 } },
@@ -52,7 +52,7 @@ const Home = () => {
         <h2 className="text-justify">
           <FadeText
             text="Welcome to the 30th International Conference on Database Systems for
-          Advanced Applications (DASFAA 2025), May 25-28, 2025, Singapore"
+          Advanced Applications (DASFAA 2025), May 26-29, 2025, Singapore"
             direction="up"
             framerProps={{
               show: { transition: { delay: 0.6, duration: 0.4 } },

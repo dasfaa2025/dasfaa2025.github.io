@@ -12,7 +12,7 @@ const ImportantDates = () => {
           values={[
             {
               label: "Main conference",
-              date: "May 25-28, 2025",
+              date: "May 26-29, 2025",
             },
           ]}
         />
