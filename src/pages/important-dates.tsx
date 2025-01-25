@@ -31,7 +31,8 @@ const ImportantDates = () => {
             },
             {
               label: "Camera ready due",
-              date: "February 8, 2025",
+              date: "February 22, 2025",
+              oldDate: "February 8, 2025",
             },
           ]}
         />
@@ -50,7 +51,8 @@ const ImportantDates = () => {
             },
             {
               label: "Camera ready due",
-              date: "February 8, 2025",
+              date: "February 22, 2025",
+              oldDate: "February 8, 2025",
             },
           ]}
         />
@@ -69,7 +71,8 @@ const ImportantDates = () => {
             },
             {
               label: "Camera ready due",
-              date: "February 8, 2025",
+              date: "February 22, 2025",
+              oldDate: "February 8, 2025",
             },
           ]}
         />
@@ -105,7 +108,7 @@ const ImportantDates = () => {
             },
             {
               label: "Workshop Date",
-              date: "May 25, 2025",
+              date: "May 26, 2025",
             },
           ]}
         />

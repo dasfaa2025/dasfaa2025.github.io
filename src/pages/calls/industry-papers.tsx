@@ -33,7 +33,8 @@ const IndustryPapers = () => {
             },
             {
               label: "Camera-Ready Version",
-              date: "February 8, 2025",
+              date: "February 22, 2025",
+              oldDate: "February 8, 2025",
             },
           ]}
         />
