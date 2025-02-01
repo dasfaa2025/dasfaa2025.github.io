@@ -15,11 +15,13 @@ const Menu = ({
   to,
   subMenu,
   active,
+  href = true,
 }: {
   children: React.ReactNode;
   to?: string;
-  subMenu?: { href: string; label: string }[];
+  subMenu?: { href: string; label: string; opts?: any }[];
   active?: boolean;
+  href?: boolean;
 }) => {
   const className = cn(
     "py-2 px-3 text-black/80 text-lg rounded-lg font-medium transition-all cursor-pointer hover:text-[#936bff]",
@@ -34,7 +36,7 @@ const Menu = ({
       menu={{
         items: subMenu?.map((e) => ({
           label: (
-            <Link to={e.href} className="text-base">
+            <Link to={e.href} className="text-base" {...e.opts}>
               {e.label}
             </Link>
           ),
@@ -43,9 +45,15 @@ const Menu = ({
       }}
       placement="bottomLeft"
     >
-      <Link to={subMenu[0].href} className={className}>
-        {children} <CaretDownOutlined />
-      </Link>
+      {href ? (
+        <Link to={subMenu[0].href} className={className}>
+          {children} <CaretDownOutlined />
+        </Link>
+      ) : (
+        <div className="cursor-pointer">
+          {children} <CaretDownOutlined />
+        </div>
+      )}
     </Dropdown>
   ) : null;
 };
@@ -86,6 +94,24 @@ const CallsMenu = [
     label: "Call for PhD Consortium Paper",
   },
 ];
+const WorkshopsMenu = [
+  {
+    href: "https://gdma2025.github.io/",
+    label: "Graph Data Management and Analysis (GDMA 2025)",
+    opts: {
+      target: "_blank",
+      rel: "noreferrer noopener",
+    },
+  },
+  {
+    href: "https://yan20191113.github.io/DASFAA2025.github.io/",
+    label: "Big Data Management and Service (BDMS 2025)",
+    opts: {
+      target: "_blank",
+      rel: "noreferrer noopener",
+    },
+  },
+];
 
 const Header = () => {
   const menuRef = useRef<HTMLDivElement>(null);
@@ -109,10 +135,10 @@ const Header = () => {
       ref={menuRef}
       className={cn(
         "fixed top-0 left-0 w-full bg-white/75 backdrop-blur-xl shadow-lg z-[100] transition-all duration-500 ease-in-out max-sm:max-h-12 overflow-y-hidden",
-        mobileMenuVisible ? "max-sm:max-h-[600px]" : "",
+        mobileMenuVisible ? "max-sm:max-h-[800px]" : "",
       )}
     >
-      <div className="flex items-center justify-start px-3 py-3 space-x-4 w-[750px] mx-auto max-sm:justify-between max-sm:w-full">
+      <div className="flex items-center justify-start px-3 py-3 space-x-4 w-[900px] mx-auto max-sm:justify-between max-sm:w-full">
         <Link to="/">
           <img src={LogoDASFAA2025} className="block h-[22px] w-auto" />
         </Link>
@@ -128,6 +154,9 @@ const Header = () => {
           </Menu>
           <Menu active={pathname.startsWith("/calls")} subMenu={CallsMenu}>
             Calls
+          </Menu>
+          <Menu subMenu={WorkshopsMenu} href={false}>
+            Workshops
           </Menu>
           <Menu to="/important-dates" active={pathname === "/important-dates"}>
             Important Dates
@@ -171,6 +200,18 @@ const Header = () => {
           <div className="text-black/40">Calls</div>
         </Divider>
         {CallsMenu.map((e) => (
+          <Menu
+            key={`mobile-${e.href}`}
+            to={e.href}
+            active={pathname === e.href}
+          >
+            {e.label}
+          </Menu>
+        ))}
+        <Divider>
+          <div className="text-black/40">Workshops</div>
+        </Divider>
+        {WorkshopsMenu.map((e) => (
           <Menu
             key={`mobile-${e.href}`}
             to={e.href}
