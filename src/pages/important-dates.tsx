@@ -118,11 +118,13 @@ const ImportantDates = () => {
           values={[
             {
               label: "Proposal submission deadline",
-              date: "January 15, 2025",
+              date: "February 10, 2025",
+              oldDate: "January 15, 2025",
             },
             {
               label: "Acceptance notification",
-              date: "January 18, 2025",
+              date: "February 13, 2025",
+              oldDate: "January 18, 2025",
             },
           ]}
         />

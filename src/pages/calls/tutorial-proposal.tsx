@@ -26,11 +26,13 @@ const TutorialProposal = () => {
           values={[
             {
               label: "Proposal Submission",
-              date: "January 15, 2025",
+              date: "February 10, 2025",
+              oldDate: "January 15, 2025",
             },
             {
               label: "Acceptance Notification",
-              date: "January 18, 2025",
+              date: "February 13, 2025",
+              oldDate: "January 18, 2025",
             },
           ]}
         />
