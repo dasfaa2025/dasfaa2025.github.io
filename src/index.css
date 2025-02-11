@@ -168,7 +168,7 @@ tr td:first-child {
 
 .banner-content {
   max-width: 650px;
-  text-shadow: black 2px 0 10px;
+  text-shadow: black 4px 4px 10px;
   filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.5));
 }
 

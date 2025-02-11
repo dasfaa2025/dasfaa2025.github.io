@@ -31,7 +31,7 @@ const Home = () => {
             />
           </div>
           <FadeText
-            className="text-lg font-medium"
+            className="text-lg font-bold"
             text="May 26-29, 2025"
             direction="down"
             framerProps={{
@@ -39,7 +39,7 @@ const Home = () => {
             }}
           />
           <FadeText
-            className="text-lg font-medium"
+            className="text-lg font-bold"
             text="Singapore"
             direction="down"
             framerProps={{
