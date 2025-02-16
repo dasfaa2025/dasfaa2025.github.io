@@ -138,7 +138,7 @@ const Header = () => {
         mobileMenuVisible ? "max-sm:max-h-[800px]" : "",
       )}
     >
-      <div className="flex items-center justify-start px-3 py-3 space-x-4 w-[900px] mx-auto max-sm:justify-between max-sm:w-full">
+      <div className="flex items-center justify-start px-3 py-3 space-x-4 w-[1000px] mx-auto max-sm:justify-between max-sm:w-full">
         <Link to="/">
           <img src={LogoDASFAA2025} className="block h-[22px] w-auto" />
         </Link>
