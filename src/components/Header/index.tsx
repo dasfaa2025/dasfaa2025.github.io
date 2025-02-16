@@ -50,7 +50,7 @@ const Menu = ({
           {children} <CaretDownOutlined />
         </Link>
       ) : (
-        <div className="cursor-pointer">
+        <div className={className + " cursor-pointer"}>
           {children} <CaretDownOutlined />
         </div>
       )}
