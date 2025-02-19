@@ -3,6 +3,7 @@ import LogoDASFAA2025 from "./logo-dasfaa2025.png";
 import Banner1 from "./singapore-1.jpg";
 import Banner2 from "./singapore-2.jpg";
 import Banner3 from "./singapore-3.jpg";
+import Banner4 from "./singapore-4.jpg";
 import AvatarAkiyoNADAMOTO from "./avatars/Akiyo NADAMOTO.jpg";
 import AvatarBingxueZhang from "./avatars/Bingxue Zhang.jpg";
 import AvatarEePengLim from "./avatars/Ee-Peng Lim.jpg";
@@ -40,4 +41,4 @@ const Avatars = {
   AvatarYangShi,
   AvatarZeyiWen,
 };
-export { LogoDASFAA2025, Banner1, Banner2, Banner3, Avatars };
+export { LogoDASFAA2025, Banner1, Banner2, Banner3, Banner4, Avatars };

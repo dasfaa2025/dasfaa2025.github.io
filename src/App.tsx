@@ -11,6 +11,7 @@ import DemoPapers from "./pages/calls/demo-papers.tsx";
 import TutorialProposal from "./pages/calls/tutorial-proposal.tsx";
 import PhDConsortiumPaper from "./pages/calls/hpd-consortium-paper.tsx";
 import ImportantDates from "./pages/important-dates.tsx";
+import ProgramTutorials from "./pages/program/tutorials.tsx";
 
 function App() {
   return (
@@ -47,6 +48,7 @@ function App() {
             path="/calls/hpd-consortium-paper"
             element={<PhDConsortiumPaper />}
           />
+          <Route path="/program/tutorials" element={<ProgramTutorials />} />
           <Route path="/important-dates" element={<ImportantDates />} />
         </Routes>
       </HashRouter>

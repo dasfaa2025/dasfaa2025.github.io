@@ -112,6 +112,12 @@ const WorkshopsMenu = [
     },
   },
 ];
+const ProgramMenu = [
+  {
+    href: "/program/tutorials",
+    label: "Tutorials",
+  },
+];
 
 const Header = () => {
   const menuRef = useRef<HTMLDivElement>(null);
@@ -135,12 +141,12 @@ const Header = () => {
       ref={menuRef}
       className={cn(
         "fixed top-0 left-0 w-full bg-white/75 backdrop-blur-xl shadow-lg z-[100] transition-all duration-500 ease-in-out max-sm:max-h-12 overflow-y-hidden",
-        mobileMenuVisible ? "max-sm:max-h-[800px]" : "",
+        mobileMenuVisible ? "max-sm:max-h-[70vh]" : "",
       )}
     >
-      <div className="flex items-center justify-start px-3 py-3 space-x-4 w-[1000px] mx-auto max-sm:justify-between max-sm:w-full">
+      <div className="flex items-center justify-start px-3 py-3 space-x-4 w-[1100px] mx-auto max-sm:justify-between max-sm:w-full">
         <Link to="/">
-          <img src={LogoDASFAA2025} className="block h-[22px] w-auto" />
+          <img src={LogoDASFAA2025} className="block h-[18px] w-auto" />
         </Link>
         <div className="flex space-x-4 items-center max-sm:hidden">
           <Menu to="/" active={pathname === "/"}>
@@ -154,6 +160,9 @@ const Header = () => {
           </Menu>
           <Menu active={pathname.startsWith("/calls")} subMenu={CallsMenu}>
             Calls
+          </Menu>
+          <Menu active={pathname.startsWith("/program")} subMenu={ProgramMenu}>
+            Program
           </Menu>
           <Menu subMenu={WorkshopsMenu} href={false}>
             Workshops
@@ -178,7 +187,7 @@ const Header = () => {
       </div>
       <div
         className={cn(
-          "hidden max-sm:flex flex-col items-center space-y-1 py-2 px-4",
+          "hidden max-sm:flex flex-col items-center space-y-1 py-2 px-4 h-[60vh] overflow-y-auto",
         )}
       >
         <Menu to="/" active={pathname === "/"}>
@@ -200,6 +209,18 @@ const Header = () => {
           <div className="text-black/40">Calls</div>
         </Divider>
         {CallsMenu.map((e) => (
+          <Menu
+            key={`mobile-${e.href}`}
+            to={e.href}
+            active={pathname === e.href}
+          >
+            {e.label}
+          </Menu>
+        ))}
+        <Divider>
+          <div className="text-black/40">Program</div>
+        </Divider>
+        {ProgramMenu.map((e) => (
           <Menu
             key={`mobile-${e.href}`}
             to={e.href}
