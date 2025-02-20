@@ -24,7 +24,7 @@ const Menu = ({
   href?: boolean;
 }) => {
   const className = cn(
-    "py-2 px-3 text-black/80 text-lg rounded-lg font-medium transition-all cursor-pointer hover:text-[#936bff]",
+    "py-2 px-2 text-black/80 text-lg rounded-lg font-medium transition-all cursor-pointer hover:text-[#936bff]",
     active ? "text-[#936bff]" : "",
   );
   return to ? (
@@ -118,6 +118,16 @@ const ProgramMenu = [
     label: "Tutorials",
   },
 ];
+const ParticipateMenu = [
+  {
+    href: "https://eventregistration.smu.edu.sg/Q0WLmb/",
+    label: "Registration",
+    opts: {
+      target: "_blank",
+      rel: "noreferrer noopener",
+    },
+  },
+];
 
 const Header = () => {
   const menuRef = useRef<HTMLDivElement>(null);
@@ -141,14 +151,14 @@ const Header = () => {
       ref={menuRef}
       className={cn(
         "fixed top-0 left-0 w-full bg-white/75 backdrop-blur-xl shadow-lg z-[100] transition-all duration-500 ease-in-out max-sm:max-h-12 overflow-y-hidden",
-        mobileMenuVisible ? "max-sm:max-h-[70vh]" : "",
+        mobileMenuVisible ? "max-sm:max-h-[90vh]" : "",
       )}
     >
-      <div className="flex items-center justify-start px-3 py-3 space-x-4 w-[1100px] mx-auto max-sm:justify-between max-sm:w-full">
+      <div className="flex items-center justify-center px-0 py-3 space-x-0 mx-auto max-sm:justify-between max-sm:w-full max-sm:px-4">
         <Link to="/">
           <img src={LogoDASFAA2025} className="block h-[18px] w-auto" />
         </Link>
-        <div className="flex space-x-4 items-center max-sm:hidden">
+        <div className="flex space-x-4 items-center max-sm:hidden pl-4">
           <Menu to="/" active={pathname === "/"}>
             Home
           </Menu>
@@ -170,6 +180,9 @@ const Header = () => {
           <Menu to="/important-dates" active={pathname === "/important-dates"}>
             Important Dates
           </Menu>
+          <Menu subMenu={ParticipateMenu} href={false}>
+            Participate
+          </Menu>
         </div>
         <div className="hidden max-sm:block pr-2">
           {mobileMenuVisible ? (
@@ -187,7 +200,7 @@ const Header = () => {
       </div>
       <div
         className={cn(
-          "hidden max-sm:flex flex-col items-center space-y-1 py-2 px-4 h-[60vh] overflow-y-auto",
+          "hidden max-sm:flex flex-col items-center space-y-1 py-2 px-4 h-[80vh] overflow-y-auto",
         )}
       >
         <Menu to="/" active={pathname === "/"}>
@@ -245,6 +258,18 @@ const Header = () => {
         <Menu to="/important-dates" active={pathname === "/important-dates"}>
           Important Dates
         </Menu>
+        <Divider>
+          <div className="text-black/40">Participate</div>
+        </Divider>
+        {ParticipateMenu.map((e) => (
+          <Menu
+            key={`mobile-${e.href}`}
+            to={e.href}
+            active={pathname === e.href}
+          >
+            {e.label}
+          </Menu>
+        ))}
       </div>
     </div>
   );
