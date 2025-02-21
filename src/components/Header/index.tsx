@@ -118,16 +118,16 @@ const ProgramMenu = [
     label: "Tutorials",
   },
 ];
-const ParticipateMenu = [
-  {
-    href: "https://eventregistration.smu.edu.sg/Q0WLmb/",
-    label: "Registration",
-    opts: {
-      target: "_blank",
-      rel: "noreferrer noopener",
-    },
-  },
-];
+// const ParticipateMenu = [
+//   {
+//     href: "https://eventregistration.smu.edu.sg/Q0WLmb/",
+//     label: "Registration",
+//     opts: {
+//       target: "_blank",
+//       rel: "noreferrer noopener",
+//     },
+//   },
+// ];
 
 const Header = () => {
   const menuRef = useRef<HTMLDivElement>(null);
