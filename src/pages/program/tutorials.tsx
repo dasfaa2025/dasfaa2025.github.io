@@ -68,7 +68,7 @@ const ProgramTutorials = () => {
         <h2 id="tutorial-1">Tutorial 1</h2>
         <h3>Social Media Data Analytics for Disaster Management</h3>
         <h4>Speaker</h4>
-        <p>Sanjay Mad (Missouri University of Science and Technology)</p>
+        <p>Sanjay K. Madria (Missouri University of Science and Technology)</p>
         <h4>Place</h4>
         <p>TBA</p>
         <h4>Date and Time</h4>
