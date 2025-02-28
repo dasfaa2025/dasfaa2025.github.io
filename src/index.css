@@ -95,6 +95,21 @@ td:last-child {
   padding-right: 1rem;
 }
 
+tr.ant-table-row:hover {
+  background-color: inherit;
+}
+
+tr.ant-table-row:nth-child(odd) {
+  background-color: inherit;
+}
+td.ant-table-cell {
+  width: unset;
+  font-weight: 400;
+  border-top-right-radius: inherit;
+  border-bottom-right-radius: inherit;
+  padding-right: inherit;
+}
+
 tr:first-child td {
   border-top-style: solid;
 }

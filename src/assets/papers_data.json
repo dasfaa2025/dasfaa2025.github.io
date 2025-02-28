@@ -1,0 +1,1014 @@
+{
+  "research": {
+    "Long Papers": [
+      {
+        "title": "Dynamic Multiple Continuous Top-k Queries Over Streaming Data",
+        "authors": "BaoJie Jing (Shenyang Aerospace University); Xin Zhang (Shenyang Aircraft Corporation); Rui Zhu (Shenyang Aerospace University)*; Wenju Li (Shenyang Aircraft Corporation); Tao Qiu (Shenyang Aerospace University); Hong Jiang (Shenyang University of Technology); Xiaochun Yang (Northeastern University)"
+      },
+      {
+        "title": "MSAQE: A Large-scale Dataset for Multi-view Scenic Areas Quality Evaluation",
+        "authors": "Yajie Wang (Fudan University)*; Meiling Li (Fudan University); Gaozhi Liu (Fudan University); Xinpeng Zhang (School of Computer Science, Fudan University); Sun Yunlong (Tourism department, Fudan university); Zhenxing Qian (School of Computer Science, Fudan University)"
+      },
+      {
+        "title": "Multi-View Attention Syntactic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis",
+        "authors": "xiang huang (BUAA)*; Hao Peng (Beihang University); Shuo Sun (BUAA); Zhifeng Hao (University of Shantou); Hui Lin (China Academic of Electronics and Information Technology); Shuhai Wang (Shijiazhuang Tiedao Univerisity)"
+      },
+      {
+        "title": "Dynamic Group Nearest Neighbor Group Query over Streaming Data",
+        "authors": "YunZhe An (Shenyang Aerospace University); SaiNan Tong (Shenyang Aerospace University); Qian Wang (Shenyang Aircraft Corporation); Rui Zhu (Shenyang Aerospace University)*; Zhang anzhen (Shenyang Aerospace University); Chuanyu Zong (Shenyang Aerospace University); Hong Jiang (Shenyang University of Technology); Bin Wang (Northeastern University)"
+      },
+      {
+        "title": "Counterfactual Path Augmentation for Reinforcement Reasoning in Explainable Recommendation",
+        "authors": "Kou Yue (\tNortheastern University); Jiang Eryu (NorthEastern University)*; Shen Derong (Northeastern University); Zhou Xiangmin (RMIT University); Li Dong (Liaoning University); Nie Tiezheng (Northeastern University); Yu Ge (\tNortheastern University)"
+      },
+      {
+        "title": "Experts2team: Task Relevance-Induced Team Formation by Combining Global Cohesion with Local Decoupling",
+        "authors": "Yue Kou (Northeastern University); Yingxuan Du (Northeastern University)*; Derong Shen (Northeastern University); Xiangmin Zhou (RMIT University); Dong Li (Liaoning University); Tiezheng Nie (Northeastern University); Ge Yu (Northeastern University)"
+      },
+      {
+        "title": "An Evaluation Framework for Long-tail Senses in Large Language Models and Word Sense Disambiguation",
+        "authors": "Junwei Zhang (Hangzhou Institute of Medicine, Chinese Academy of Sciences.)*; Tianheng Wang (Hangzhou Institute of Medicine, Chinese Academy of Sciences.); Tao Huang (Hangzhou Institute of Medicine, Chinese Academy of Sciences.); Yupeng Zhang (Hangzhou Institute of Medicine, Chinese Academy of Sciences.); Pengju Yan (ElasticMind.AI); Xiaolin Li (Institute of Basic Medicine and Cancer, Chinese Academy of Sciences; ElasticMind Inc.)"
+      },
+      {
+        "title": "Enhancing Zero-shot Emotion Perception in Conversation through the Internal-to-External Chain-of-Thought",
+        "authors": "Xingle Xu (Northeastern University)*; Shi Feng (Northeastern University); Daling Wang (Northeastern University); Yifei Zhang (\tNortheastern University); Xiaocui Yang (Northeastern University)"
+      },
+      {
+        "title": "RBLU: A benchmark to evaluate the reverse inference ability of large language models",
+        "authors": "Haowei Wang (Wuhan University); Fan Wang (Wuhan University); Liyi Liu (Wuhan University); Sudi Xia (Nanjing University of Chinese Medicine); Xingshen Liu (Wuhan University)*"
+      },
+      {
+        "title": "Structure-aware Self-supervised Graph Representation Learning",
+        "authors": "Lingwen Liu (Northeastern University)*; Peng Cao (Northeastern University); Guangqi Wen (Northeastern University); Zhuolin Jia (Northeastern University (China)); Jinzhu Yang (northeastern university); Weiping Li (Peking University); Osmar Zaiane (University of Alberta)"
+      },
+      {
+        "title": "Improving Multi-Attribute Fairness in LLM-Based Recommenders through a Mixture-of-Experts Contrastive Learning Method",
+        "authors": "Jing Fan (Beihang University)*; chen zhu (alibaba); Han Wu (Career Science Lab, BOSS Zhipin); Fuzhen Zhuang (Institute of Artificial Intelligence, Beihang University); deqing wang (beihang University); Hengshu Zhu (Career Science Lab, BOSS Zhipin)"
+      },
+      {
+        "title": "HHGCN-DrugRec: Hierarchical HyperGraph Convolution Network for Drug Combination Recommendation",
+        "authors": "Zihan Zhang (peking university)*; Hongzhi Liu (Peking University); Tianqi Sun (School of Software and Microelectronics, Peking University, Beijing, China); Xiaoshuang Guo (School of Software and Microelectronics, Peking University); Zhonghai Wu (Peking University)"
+      },
+      {
+        "title": "COOL: Comprehensive Knowledge Enhanced Prompt Learning for Domain Adaptive Few-shot Fake News Detection",
+        "authors": "Yi Ouyang (Shanghai Jiao Tong University); Peng Wu (Shanghai Jiao Tong University)*; Li Pan (Shanghai Jiaotong University, China)"
+      },
+      {
+        "title": "OmniQO: An Adaptive Framework for Integrating ML and Traditional Query Optimizers",
+        "authors": "Junming Chen (University of Electronic Science and Technology of China)*; Xu Chen (University of Electronic Science and Technology of China); Zibo Liang (University of Electronic Science and Technology of China); Jianbin Qin (Shenzhen Institute of Computing Sciences, Shenzhen University\t); Yan Zhao (Aalborg University); Kai Zheng (University of Electronic Science and Technology of China)"
+      },
+      {
+        "title": "Facial Features Enhanced Multi-Branch Graph Network for Driver Drowsiness Detection",
+        "authors": "Songwen Pei (University of Shanghai for Science and Technology); ying Xie (University of Shanghai for Science and Technology)*; Huichen  Zhang (Key Laboratory of Ministry of Public Security for Road Traffic Safety, Traffic Management Research Institute of the Ministry of Public Security); xu shaokang (xu)"
+      },
+      {
+        "title": "FlexPie: Accelerate Distributed Inference on Edge Devices with Flexible Combinatorial Optimization",
+        "authors": "Runhua Zhang (Beihang University)*; Hongxu Jiang (Beihang University); Jinkun Geng (Stanford University); Yuhang Ma (Beihang University); Chenhui Zhu (Beihang University); Haojie Wang (Tsinghua University)"
+      },
+      {
+        "title": "Learning Accurate, Efficient, and Interpretable MLPs on Multiplex Graphs via Node-wise Multi-View Ensemble Distillation",
+        "authors": "Yunhui Liu (Nanjing University); Zhen Tao (Nanjing University); Xiang Zhao (National University of Defense Technology); Jianhua Zhao (Nanjing University); Tao Zheng (Nanjing University); Tieke He (Nanjing University)*"
+      },
+      {
+        "title": "STGDPM:Vessel trajectory prediction with Spatio-temporal graph diffusion probabilistic model",
+        "authors": "Wenzhe Jin (University of Chinese Academy of Sciences); Haina Tang (University of Chinese Academy of Sciences)*; Xudong Zhang (University of Chinese Academy of Sciences)"
+      },
+      {
+        "title": "CDIVR: Cognitive Dissonance-aware Interactive Video Recommendation",
+        "authors": "Sicong Liu (School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu 611731, China.); Ke Yan (School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu 611731, China.)*; Haojie Shi (School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu 611731, China.); Ming Jia (School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu 611731, China.)"
+      },
+      {
+        "title": "Efficient Maximum (α, β)-Quasi Biclique Computation on Bipartite Graphs",
+        "authors": "Bin Liang (Harbin Institute of Technology, Shenzhen); Yang Liu (Harbin Institute of Technology, Shenzhen); Hongru Zhou (Harbin Institute of Technology, ShenZhen); Wenjian Xu (Zhejiang University of Science and Technology); Shengfeng He (Singapore Management University); Shengxin Liu (Harbin Institute of Technology, Shenzhen)*"
+      },
+      {
+        "title": "Dual-path Transformer: Aligning Text Embeddings with Market Movements for a New Paradigm of Cross-modal Financial Time Series Prediction",
+        "authors": "Haohan Zhang (The Hong Kong University of Science and Technology (Guangzhou))*; Hao Kong (The Hong Kong University of Science and Technology ); Saizhuo Wang (\tThe Hong Kong University of Science and Technology)"
+      },
+      {
+        "title": "UniMixer: Unified Patch-Wise and Global Inter-Series Dependency Modeling for Multivariate Time Series Forecasting",
+        "authors": "Jiaqi Ye (Nankai University); Ciyi Liu (Nankai University); Xinxing Zhou (Nankai University); Rongjie Shen (China Railway Design Corporation); Yanlong Wen (Nankai University)*"
+      },
+      {
+        "title": "Hypergraph Enhanced Knowledge Tree Prompt Learning for Next-Basket Recommendation",
+        "authors": "Zifeng Mai (Sun Yat-Sen University); Jianyang Zhai (Sun Yat-sen University, Pengcheng Laboratory); Naiqing Li (Sun Yat-sen university); Chang-Dong Wang (Sun Yat-sen University)*; Zhongjie Zeng (温氏食品集团); Ya Li (Guangdong Polytechnic Normal University); Jiaquan Chen (温氏食品集团)"
+      },
+      {
+        "title": "Well-designed Query Optimization Based on Pattern Tree",
+        "authors": "Ren Tenglong (Tianjin University)*; Hongshen Yu (Tianjin University); Xiaowang Zhang (Tianjin University); Guangxi Ji (Tianjin University); Zhiyong  Feng (Tianjin University)"
+      },
+      {
+        "title": "Exercise Recommendation Based on Feature-Aligned Knowledge Tracing",
+        "authors": "Wei Ji (South China Normal University); zhiyu chen (South China Normal University); Jing Xiao (South China Normal University)*"
+      },
+      {
+        "title": "SCM: Enhancing Large Language Model with Self-Controlled Memory Framework",
+        "authors": "Bing Wang (Beihang University)*; Xinnian Liang (Beihang University); Jian Yang (Beihang University); Hui Huang (Haerbin Institute of Technology); Zhenhe Wu (Beihang University); ShuangZhi Wu (Bytedance); Zejun Ma (Bytedance); Zhoujun Li (Beihang University)"
+      },
+      {
+        "title": "Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective",
+        "authors": "Yunxiao Zhao (Shanxi University)*; Hao Xu (Shanxi University); Zhiqiang Wang (Shanxi University); Xiaoli Li (Institute for Infocomm Research, A star); Jiye Liang (Shanxi University); Ru Li (Shanxi University)"
+      },
+      {
+        "title": "STPformer: Mutation-Aware Spatial-Temporal Pivotal Attention Networks for Transformer-based Traffic Forecasting",
+        "authors": "Hongyang Su (Harbin Institute of Technology, Shenzhen); Chenyun Yu (SUN YAT-SEN University)*; Qingcai Chen (Harbin Institute of Technology, Shenzhen); beibei kong (tencent); Lei Cheng (tencent); Chengxiang Zhuo (tencent); Zang Li (tencent); Xiaolong Wang (Harbin Institute of Technology, Shenzhen)"
+      },
+      {
+        "title": "NanoCSV: A High-Performance CSV Processing Framework with Hierarchical Finite-State Transducer",
+        "authors": "Peiyuan Dai (Institute of Software Chinese Academy of Sciences); Rui Liu (University of Chicago); Heng Zhang (Institute of Software Chinese Academy of Sciences)*"
+      },
+      {
+        "title": "Enterprise Bankruptcy Prediction with Meta-Path Denoising and Capsule Network Modeling",
+        "authors": "Hongrui Guo (Peking University); Boyuan Ren (Peking University); Hongzhi Liu (Peking University)*; Tianqi Sun (Peking University); Zhonghai Wu (Peking University)"
+      },
+      {
+        "title": "Lattice-based Forward Secure Certificateless Encryption Scheme for Cloud Data Management",
+        "authors": "Shiyuan Xu (The University of Hong Kong)*; Xue Chen (The University of Hong Kong); Yue Wang (Beijing Normal University); Tianrun Xu (Tsinghua University); Fangda Guo (Institute of Computing Technology, Chinese Academy of Sciences); Xiaoli ZHANG (University of Science and Technology Beijing); Siu Ming Yiu (The University of Hong Kong)"
+      },
+      {
+        "title": "Logarithmic-size Lattice-based Linkable Ring Signature for Cloud Data Management",
+        "authors": "Xue Chen (The University of Hong Kong); Shiyuan Xu (The University of Hong Kong)*; Fangda Guo (Institute of Computing Technology, Chinese Academy of Sciences); Yuer Yang (The University of Hong Kong); Chunxiao Li (Beijing Normal University); Siu Ming Yiu (The University of Hong Kong)"
+      },
+      {
+        "title": "Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs",
+        "authors": "Shengyin SUN (City University of Hong Kong)*; Yuxiang Ren (Huawei); Jiehao CHEN (China Academy of industrial Internet); Chen Ma (City University of Hong Kong)"
+      },
+      {
+        "title": "Dual-prompting based Event Anomaly Detection in Dynamic Graphs",
+        "authors": "Haodan Ran (National University of Defense Technology); Yang Fang (National University of Defense Technology); Jiuyang Tang (National University of Defense Technology); Weiming Zhang (National University of Defense Technology); Jinzhi Liao (National University of Defense Technology); Xiang Zhao (National University of Defense Technology)*"
+      },
+      {
+        "title": "Joint User and Item Prototype Alignment for Cross-Platform Recommendation",
+        "authors": "Kehan Chen (Xiamen University); Jiaxing Bai (Xiamen University); Yishan Ji (Fuzhou University); Chen Lin (Xiamen University)*; Ying Wang (Xiamen University)"
+      },
+      {
+        "title": "Memory-Augmented Short Time Series Forecasting",
+        "authors": "si chen (Hunan university)*; Xinhuan Chen (Tencent Inc.); Youhuan Li (Hunan University)"
+      },
+      {
+        "title": "Bridging the Gap between Sparse Matrix Reordering and Factorization: A Deep Learning Framework for Fill-in Reduction",
+        "authors": "Ziwei Li (Institute of Software, Chinese Academy of Sciences); Tao Yuan (Institute of Software, Chinese Academy of Sciences); Shuzi Niu (Institute of Software, Chinese Academy of Sciences, China)*; Huiyuan Li (Institute of Software, Chinese Academy of Sciences)"
+      },
+      {
+        "title": "PriExRec: Defending Against Membership Inference Attacks in Federated Recommendation with Explicit Feedback",
+        "authors": "Rong Pu (Northeastern University)*; Xiaochun Yang (Northeastern University); Yinan Liu (Northeastern University); Jian Li (Northeastern University); Yaoyu Jin (Northeasten University); fanfei song (Northeastern University); Bin Wang (Northeastern University)"
+      },
+      {
+        "title": "Enhancing Chain-of-Thought Reasoning for Text-to-SQL with Effective Retrieval-Augmented Generation",
+        "authors": "Xuguang Zhu (Tsinghua University)*; Yong Zhang (Tsinghua University); Chao Li (Tsinghua University); Chunxiao Xing (Tsinghua University)"
+      },
+      {
+        "title": "Clustering-Guided Dynamic Social Network Graph Partitioning",
+        "authors": "JIN LI (Harbin Engineering University); Peiyuan Chen (Harbin Engineering University)*; zhizhan shen (Harbin Engineering University); Jianhua Chen (Harbin Engineering University); Feng Zhang (Harbin Engineering University)"
+      },
+      {
+        "title": "From Static to Dynamic: GNNs-Driven Clinical Decision-Making Assistance",
+        "authors": "Shiyi Lin (Beijing University of Posts and Telecommunications)*; Zirui Zhuang (Beijing University of Posts and Telecommunications); Qi Qi (Beijing University of Posts and Telecommunications); Jingyu Wang (Beijing University of Posts and Telecommunications); Jianxin Liao (beijing university of posts and telecommunications); Jiachang Hao (Beijing University of Posts and Telecommunications); Haifeng Sun (Beijing university of posts and telecommunications)"
+      },
+      {
+        "title": "CF-TS: A General Coarse-to-Fine Method for Trajectory Simplification",
+        "authors": "Jiayi Li (Soochow University); Junhua Fang (Soochow University)*; Zhicheng Pan (East China Normal University); Pingfu Chao (Soochow University); Jiajie Xu (Soochow University); Pengpeng Zhao (Soochow University)"
+      },
+      {
+        "title": "Time-aware Meta-path Aggregation on Heterogeneous Temporal Graphs",
+        "authors": "Wei Qin (Central South University)*; Yili Wang (Central South University); Xinqiu Zhang (Central South University); Tairan Huang (Central South University); Shuqing Wu (Central South University); Jianliang Gao (Central South University)"
+      },
+      {
+        "title": "Information-agnostic Model Poisoning Attacks against Byzantine-robust Federated Learning",
+        "authors": "Yan Zhang (Southeast University); Yueyao Chen (DongFang Boiler Co., Ltd.); Xiao Tan (Southeast University); Dian Shen (Southeast University); Meng Wang (Tongji University); Beilun Wang (Southeast Univeristy)*"
+      },
+      {
+        "title": "HiCHT: High-performance Compact Hash Table",
+        "authors": "Biao Wang (University of Science and Technology of China)*; Pengcheng Wang (Huawei); Jifan Shi (University of Science and Technology of China); Weiguang Wang (Huawei); Yun Xu (University of Science and Technology of China)"
+      },
+      {
+        "title": "PriExRec: Defending Against Membership Inference Attacks in Federated Recommendation with Explicit Feedback",
+        "authors": "Rong Pu (Northeastern University)*; Xiaochun Yang (Northeastern University); Yinan Liu (Northeastern University); Jian Li (Northeastern University); Yaoyu Jin (Northeasten University); fanfei song (Northeastern University); Bin Wang (Northeastern University)"
+      },
+      {
+        "title": "Towards An Efficient and Effective En Route Travel Time Estimation Framework",
+        "authors": "Zekai Shen (Beijing Jiaotong University)*; Haitao Yuan (Nanyang Technological University); Xiaowei Mao (Beijing Jiaotong University); lv congkang (Beijing Jiaotong  University); Shengnan Guo (Beijing Jiaotong University); Youfang Lin (Beijing Jiaotong University); Huaiyu Wan (Beijing Jiaotong University)"
+      },
+      {
+        "title": "RAP: Random Projection is What You Need for Vertical Federated Learning",
+        "authors": "Qinbo Zhang (Wuhan University)*; Xiao Yan (Centre for Perceptual and Interactive Intelligence (CPII) ); Yukai Ding (Wuhan University); Fangcheng Fu (Peking University); Chuang Hu (Wuhan University); Quanqing Xu (OceanBase, Ant Group ); Xu Chen (Wuhan University); Jiawei Jiang (Wuhan University)"
+      },
+      {
+        "title": "Separating Frozen Pages via Learning-based Recognition with ZNS SSD for Write Amplification Reduction in Database",
+        "authors": "Shikai Tan (Huazhong University of Science and Technology)*; Zhipeng Tan (Huazhong University of Science and Technology); Zijian Zhang (Huazhong University of Science and Technology); Wenjie Qi (Huazhong University of Science and Technology); Ying Yuan (Huazhong University of Science and Technology); Yuan Feng (Wuhan Dameng Database Co.,Ltd)"
+      },
+      {
+        "title": "NodeNAS: Node-Specific Graph Neural Architecture Search for Out-of-Distribution Generalization",
+        "authors": "Qiyi Wang (Tongji University)*; Yinning  Shao (Tongji University); Yunlong  Ma (Tongji University); Min  Liu (Tongji University)"
+      },
+      {
+        "title": "DySA-TGN: Dynamic Self-Adaptive Temporal Graph Neural Network for Multivariate Time Series Classification",
+        "authors": "Xinmeng Wan (Beijing Normal University)*; Zhiying Long (Beijing Normal University)"
+      },
+      {
+        "title": "PRIM: Encoding Propagation Probability and Role-Aware Representation for Influence Maximization",
+        "authors": "Niran Deng (Laboratory for Big Data and Decision, National University of Defense Technology); Jiuyang Tang (National University of Defense Technology)*; YANG FANG (National University of Defense Technology); Tianyang Shao (National Key Laboratory of Information Systems Engineering, National University of Defense Technology); Jinzhi Liao (National University of Defense Technology); Xiang Zhao (National University of Defense Technology)"
+      },
+      {
+        "title": "RADIO: Effective and Efficient Anomalous Subgraph Discovery in Financial Networks",
+        "authors": "Xiaolin Han (Northwestern Polytechnical University)*; Yikun Zhang (Northwestern Polytechnical University); Chenhao Ma (The Chinese University of Hong Kong, Shenzhen); Lingyun Song (Northwestern Polytechnical University); Xuequn Shang (Northwestern Polytechnical University)"
+      },
+      {
+        "title": "Retrieval-Based Multimodal Data Augmentation for Multimodal Information Extraction in Social Media",
+        "authors": "Shizhou Huang (East China Normal University)*; Bo Xu (Donghua University); Yang Yu (East China Normal University); Changqun Li (East China Normal University); Xin Lin (ECNU)"
+      },
+      {
+        "title": "VF-FD: Feature Deduplication for Vertical Federated Learning",
+        "authors": "Ziyi Li (Wuhan university)*; Xiao Yan (Centre for Perceptual and Interactive Intelligence (CPII) ); Yuanyuan Zhu (Wuhan University); Ruixuan Zhang (Wuhan University); Hao Huang (Wuhan University); Qinbo Zhang (Wuhan University); Guojia Wan (Wuhan University); Jiawei Jiang (Wuhan University)"
+      },
+      {
+        "title": "Breaking Size Barrier: Enhancing Reasoning for Large-size Table Question Answering",
+        "authors": "Xianjie Wu (Beihang University)*; Di Liang (Fudan University); Jian Yang (Beihang University); Xianfu Chen (Beihang University); Linzheng Chai (Beihang University); Tongliang Li (Beijing Info Sci & Tech University); Liqun Yang (Beihang University); Zhoujun Li (Beihang University)"
+      },
+      {
+        "title": "UFIN: Universal Feature Interaction Network for Multi-Domain Click-Through Rate Prediction",
+        "authors": "Zhen Tian (Renmin University of China)*; Changwang Zhang (Huawei Technologies Co., Ltd); Wayne Xin Zhao (Renmin University of China); zhao xin (huawei); Ji-Rong Wen (Renmin University of China); zhao cao (Huawei Technologies Co., Ltd)"
+      },
+      {
+        "title": "TCompoundQ: Translation, Rotation, and Scaling in Quaternion Vector Space for Temporal Knowledge Graph Completion",
+        "authors": "Rushan Geng (University of Chinese Academy of Sciences)*; Cuicui Luo (University of Chinese Academy of Science)"
+      },
+      {
+        "title": "RasterPIP: Answering Point-in-polygon Query with GPU-native Transformation and Rasterization",
+        "authors": "Ziang Liu (Xidian University); Hui Li (Xidian University); Yingfan Liu (Xidian University)*; Hua Tong (Xidian University); Zhenning Shi (Xidian University); zhang hui (Shanghai Yunxi Technology Co., Ltd. ); Jiangtao Cui (Xidian University)"
+      },
+      {
+        "title": "A Dual-task Learning Model for Temporal Knowledge Graph Entity Alignment",
+        "authors": "Jingwei Cheng (Northeastern University)*; Xihao Wang (Northeastern University\t); Fu Zhang (Northeastern University\t)"
+      },
+      {
+        "title": "Diffusion-based Hierarchical Negative Sampling for Multimodal Knowledge Graph Completion",
+        "authors": "Guanglin Niu (Beihang University)*; Xiaowei Zhang (Qingdao University)"
+      },
+      {
+        "title": "Enhancing Protein-Ligand Binding Affinity Prediction via Parameter-Efficient Fine-Tuning of  Protein and Chemical Language Models",
+        "authors": "Ruikang Li (University of Science and Technology of China)*; Jiaxian Yan (\tUniversity of Science and Technology of China); Kai Zhang (University of Science and Technology of China); Yanjiang Chen (\tUniversity of Science and Technology of China); Qi Liu (\tUniversity of Science and Technology of China); Min Gao (The First Affiliated Hospital of University of Science and Technology of China); Enhong Chen (University of Science and Technology of China)"
+      },
+      {
+        "title": "GAS-DBSCAN: A Grid-based Adaptive Sampling Method for DBSCAN Clustering under Skewed Data Distribution",
+        "authors": "Yu Wang (Soochow University); Junhua Fang (Soochow University)*; Jiayi Li (Soochow University); Pingfu Chao (Soochow University)"
+      },
+      {
+        "title": "Harnessing LLMs Explanations to Boost Surrogate Models in Tabular Data Classification",
+        "authors": "ruxue shi (Jilin University)*; Hengrui Gu (Jilin University); xu shen (Jilin University); Xin Wang (Jilin University)"
+      },
+      {
+        "title": "ADMatcher: Self-supervised Subgraph Matching via Adaptive Dense-Aware Graph Contrastive Learning",
+        "authors": "Hao Yan (Harbin Institute of Technology, ShenZhen)*; Lei Du (Harbin Institute of Technology(Shenzhen)); Mengjiao Wang (Harbin Institute of Technology(Shenzhen)); Xiangyu Song (Peng Cheng Laboratory); Yan Jia (PengCheng Laboratory); Liyi Zeng (Peng Cheng Laboratory); Zhaoquan Gu (Harbin Institute of Technology(Shenzhen) and  \tPeng Cheng Laboratory)"
+      },
+      {
+        "title": "STSC-Net: Leveraging Spatial, Temporal, and Semantic Context for Road Network Trajectory Prediction",
+        "authors": "qingjie liu (shandong university)*; meng chen (shandong university); li pan (shandong university)"
+      },
+      {
+        "title": "Decoupled Self-Knowledge Distillation Makes Diﬀerentially Private Deep Learning Stronger",
+        "authors": "Dengfeng Zhao (Renmin University of China)*; Daxuan  Xue (Renmin University of China); Suyun Zhao (Renmin University of China); Cuiping Li (\" Renmin University, China\"); Hong Chen (\" Renmin University, China\")"
+      },
+      {
+        "title": "OPOM: The Ordinal and Parallel  Optimization Method of Spark multi-query applications",
+        "authors": "Bingyu Guan (Huazhong University of Science and Technology)*"
+      },
+      {
+        "title": "T3SVFND: Towards an Evolving Fake News Detector for Emergencies with Test-time Training on Short Video Platforms",
+        "authors": "Liyuan Zhang (Heilongjiang University)*; Zeyun Cheng (Heilongjiang University); Zhongyan Gui ( Heilongjiang University); Yan Yang (Heilongjiang University); Yong Liu (HeiLongJiang University); Jinke Ma ( \tHeilongjiang University)"
+      },
+      {
+        "title": "LASE: A Learned Spatial Index for Dynamic Workloads",
+        "authors": "Pan Cai (RenMin University of China)*; Chaohong Ma (Renmin University of China); Zongze Lu (Renmin University of China); Peiran Liu (\tRenmin University of China); pengju liu (Renmin University of China); Cuiping Li (Renmin University of China); Hong Chen (\" Renmin University, China\")"
+      },
+      {
+        "title": "DRMR: An Immersing Oriented Role-Playing Framework with Duplex Relationship Modeling",
+        "authors": "Yuntao Wen (University of Electronic Science and Technology of China)*; Shen Gao (Shandong University); Chengrui Huang (University of Electronic Science and Technology of China); Yifan Wang (University of Electronic Science and Technology of China); Shuo Shang (UESTC)"
+      },
+      {
+        "title": "Self-supervised Hierarchical Representation for Medication Recommendation",
+        "authors": "Yuliang Liang (Northeastern University)*; Yuting Liu (Northeastern University); Yizhou Dang (Software College, Northeastern University); Enneng Yang (Northeastern University); Guibing Guo (Northeastern University); Wei Cai (Neusoft Research of Intelligent Healthcare Technology, Co. Ltd.); Jianzhe Zhao (Northeastern University); Xingwei Wang (Northeastern University)"
+      },
+      {
+        "title": "Image Attribute Completion: A Novel Task for Multi-modal Knowledge Graph",
+        "authors": "Yirui Ma (Soochow University); Qian Zhou (Soochow University); Wei Chen (Soochow University)*; xi chen (Soochow university); Xiao-Fang Zhang (Soochow University); Lei Zhao (Soochow University)"
+      },
+      {
+        "title": "Enhancing Chinese Multimodal Entity Linking with CLIP-RoBERTa and Contrastive Learning",
+        "authors": "Chun Wang (Inner Mongolia University); Chunyan An (Inner Mongolia University)*; Qiang Yang (University of Florida); Zhixu Li (Renmin University of China)"
+      },
+      {
+        "title": "Enhancing Multi-turn Dialogue Consistency with Localized-Generalized Persona Expansion",
+        "authors": "Xiaohua Wu (Wuhan University of Technology)*; yanbing chen (Wuhan University of Technology); Xiaohui Tao (The University of Southern Queensland); Peipei Wang (Qilu University of Technology); Lin Li (Wuhan University of Technology)"
+      },
+      {
+        "title": "MHGCP:Multi-View Heterogeneous Graph with Cross-View Projection for Recommendation",
+        "authors": "Xinlong Feng (Beijing University of Posts and Telecommunications)*; Qianfang Xu (Beijing University of Posts and Telecommunications); Shaojie Tang (Beijing University of Posts and Telecommunications); Bo Xiao (Beijing University of Posts and Telecommunications)"
+      },
+      {
+        "title": "Fairness-Aware Ride-sharing Assignment",
+        "authors": "leshu yuan (GUANGZHOU UNIVERSITY)*; Ting Wang (Guangzhou University); Jianye  Yang (Guangzhou University); Dian Ouyang (Guangzhou University)"
+      },
+      {
+        "title": "Towards Scenario-adaptive User Behavior Modeling for Multi-scenario Recommendation",
+        "authors": "Jin Huang (Dewu)*; Yu Qian (Dewu); Yang Zixu (Dewu); zhijun sun (Dewu)"
+      },
+      {
+        "title": "GoT-R: Enhancing Large Language Models for Complex Question Answering with Graph-of-Thought Guided Reasoning",
+        "authors": "Peixuan Huang (Nanjing University of Aeronautics and Astronautics); Bohan Li (Nanjing University of Aeronautics and Astronautics)*; wenlong wu (Nanjing University of Aeronautics and Astronautics); Haofen Wang (Tongji University); Mengfei Xu (Nanjing University of Aeronautics and Astronautics); Chen Chen (Nanjing University of Aeronautics and Astronautics); Lei Liang (Ant Group); Meng Wang (Tongji University)"
+      },
+      {
+        "title": "AMR-GCC: Two-step Cross-Document Event Factuality Identification on Data Augmentation",
+        "authors": "Zijie Qian (Soochow University)*; Zhong Qian (Soochow University); Chengwei Liu (Soochow University); Peifeng Li (Soochow University)"
+      },
+      {
+        "title": "Self-Supervised Dual Graph and Intention Association for Session-based Recommendation",
+        "authors": "Junnan Zhuo (Nanjing University of Aeronautics and Astronautics); Bohan Li (Nanjing University of Aeronautics and Astronautics)*; Sujie Yu (Nanjing University of Aeronautics and Astronautics); Shuai Xu (Nanjing University of Aeronautics and Astronautics); xinzhe zhao (Nanjing University of Aeronautics and Astronautics); Zekun Xu (Nanjing University of Aeronautics and Astronautics); Guan Yuan (China University of Mining and Technology)"
+      },
+      {
+        "title": "Emotion-based Conversational Recommendation by Inferring Implicit Users' Preferences from their Subjective Claims",
+        "authors": "Xuanming Zhang (Sun Yat-sen University); Yonghe Lu (Sun Yat-sen University); Jianxing Yu (Sun Yat-sen University)*; Huaijie Zhu (Sun Yat-Sen University); Wei Liu (Sun Yat-Sen University); Wenqing Chen (Sun Yat-sen University); Jian Yin (Sun Yat-Sen University)"
+      },
+      {
+        "title": "HBS-KGLLM: A General Framework for Generating Knowledge Graphs for Jailbreaking",
+        "authors": "xinzhe zhao (Nanjing University of Aeronautics and Astronautics); Bohan Li (Nanjing University of Aeronautics and Astronautics)*; Junnan Zhuo (Nanjing University of Aeronautics and Astronautics); wenlong wu (Nanjing University of Aeronautics and Astronautics); ruilong huang (Nanjing University of Aeronautics and Astronautics); yuanrui liu (Nanjing University of Aeronautics and Astronautics); Haofen Wang (Tongji University); Quoc Viet Hung Nguyen (Griffith University)"
+      },
+      {
+        "title": "BlindChain: Keeping Query Privacy in Blockchain Out of Sight",
+        "authors": "Jingxian Cheng (Chang'an University)*; Qin Jiang (Nanjing University of Information Science & Technology); Ao Wang (Xi'an Jiaotong University); Saiyu Qi (Xi’an Jiaotong University); ke li (Xi'an Jiaotong University); Zhangjie Fu (Engineering Research Center of Digital Forensics, Ministry of Education, Nanjing University of Information Science and Technology); Yong Qi (Xi’an Jiaotong University)"
+      },
+      {
+        "title": "Towards Unified Modeling for Positive and Negative Preferences in Sign-aware Recommendation",
+        "authors": "Yuting Liu (Northeastern University)*; Yizhou Dang (Northeastern University); Yuliang Liang (Northeastern University); Qiang Liu (Institute of Automation, Chinese Academy of Sciences); Guibing Guo (Northeastern University); Jianzhe Zhao (Northeastern University); Xingwei Wang (Northeastern University)"
+      },
+      {
+        "title": "InC: A Vertical Federated Learning Framework with Multiple Noisy Labels",
+        "authors": "Ruixuan Zhang (wuhan university)*; Ziyi Li (wuhan university); Xiao Yan (Centre for Perceptual and Interactive Intelligence); Xiaokai Zhou (wuhan university); Hao Wang (wuhan university); Hao Huang (\twuhan university); Jiawei Jiang (wuhan university)"
+      },
+      {
+        "title": "LODC: A Lightweight Online Update Method for Density-Based Clustering",
+        "authors": "Jie Jiang (Soochow University); Junhua Fang (Soochow University)*; Pingfu Chao (Soochow University); Pengpeng Zhao (Soochow University); An Liu (Soochow University)"
+      },
+      {
+        "title": "Privacy-preserving Multi-Dimensional Range Query Optimization Across Multiple Sources",
+        "authors": "Chengyue Ge (Wuhan University)*; Yuan Shen (Wuhan University); Wei Song (Wuhan University); Jinyang Ren (Wuhan University); Yuan Feng (Wuhan Dameng Database Co.,Ltd)"
+      },
+      {
+        "title": "VHFed: A Two-Tier Vertical and Horizontal Federated Learning Framework for Enhanced Model Performance",
+        "authors": "Weiliang Ke (Wuhan University)*; Zechen Liu (Wuhan University); Shuyao Guo (Wuhan University); Wei Song (Wuhan University); Yuan Feng (Wuhan Dameng Database Company Limited)"
+      },
+      {
+        "title": "Diffusion Multi-Behavior Recommender Model",
+        "authors": "Anchen Li (Jilin University)*; Jinglong Ji (Jilin University); Riting Xia (Inner Mongolia University); Bo Yang (Jilin University)"
+      },
+      {
+        "title": "Scalable GNN Training via Parameter Freeze and Layer Detachment",
+        "authors": "Chang Gong (Fudan University); Boyu Yang (Fudan University ); Weiguo Zheng (Fudan University)*; Xing Huang (Tencent); Weiyi Huang (Tencent); Jie Wen (Tencent Group Limit); Shijie Sun (Tencent Inc.); Bohua Yang (Tencent)"
+      },
+      {
+        "title": "Sentence Extraction Framework with High Relevance and Divergence for Document Summarization",
+        "authors": "Huiwen Xue (Beijing Information Science and Technology University); Baoan Li (Beijing Information Science and Technology University); Denghao Ma (Beijing Information Science and Technology University)*; LV Xue-Qiang (Beijing Information Science and Technology University); Xiaoxi Wang (China Agricultural University)"
+      },
+      {
+        "title": "Modeling Personalized Short-term and Periodic Long-term Preferences for Enhanced Next POI Recommendation",
+        "authors": "Mo Li (Liaoning University); ZhaoSong Zhao (LiaoNing University); Linlin Ding (Liaoning University, China)*"
+      },
+      {
+        "title": "Collaborative Stance Detection via Small-Large Language Model Consistency Verification",
+        "authors": "Yu Yan (Institute of Computing Technology, Chinese Academy of Sciences)*; Sheng Sun (Institute  of Computing Technology, Chinese Academy of Sciences); Zixiang Tang (School of National Security, People's Public Security University of Chinese); teli Liu (People's Public Security University of China); Min Liu (Institute of Computing Technology, Chinese Academy of Sciences)"
+      },
+      {
+        "title": "A Universal Framework for Compressing Embeddings in CTR Prediction",
+        "authors": "Kefan Wang (University of Science and Technology of China); Hao Wang (University of Science and Technology of China)*; kenan song (huawei); Wei Guo (Huawei Noah's Ark Lab); kai cheng (University of Science and Technology of China); Zhi Li (Tsinghua University); Yong Liu (Huawei); Defu Lian (University of Science and Technology of China); Enhong Chen (University of Science and Technology of China)"
+      },
+      {
+        "title": "UFMKSC: A Uniform Framework for Multiple Kernel Spectral Clustering Using a Noise-Free Laplacian Matrix",
+        "authors": "Feng Wang (South China Normal University); Shun Mao (South China Normal University)*; Yuanfei Deng (Guangdong Polytechnic Institute); yixiu Qin (SCNU)"
+      },
+      {
+        "title": "Less is More: Efficient Weight “Farcasting” with 1-Layer Neural Network",
+        "authors": "Xiao Shou (Baylor University)*; Debarun Bhattacharjya (IBM Research); Yanna Ding (Rensselaer Polytechnic Institute); Chen Zhao (Baylor University); Rui Li (RealAI); Jianxi Gao (Rensselaer Polytechnic Institute)"
+      },
+      {
+        "title": "An Enhanced Knowledge Graph Embedding for Small-scale Sparse Knowledge Graph",
+        "authors": "Yushun Xie (University of Electronic Science and Technology of China)*; Haiyan Wang (Peng Cheng Laboratory); Runnan Tan (Guangzhou University); Xiangyu Song (Peng Cheng Laboratory); Zhaoquan Gu (Harbin Institute of Technology (Shenzhen))"
+      },
+      {
+        "title": "Efficient Maximal Frequent Clique Enumeration in Multilayer Networks",
+        "authors": "Han Wang (Zhejiang Gongshang University); Renjie Sun (East China Normal University)*; Yongye Li (Zhejiang Gongshang University); Chen Chen (University of Wollongong); Xiaoyang Wang (University of New South Wales); Ying Zhang (University of Technology Sydney)"
+      },
+      {
+        "title": "Annotating Table Metadata with Knowledge-Enhanced Pre-trained Language Model",
+        "authors": "Qiyuan Zhang (National University of Defense Technology)*; Yuhua Tang (National University of Defense Technology); Jinlong Tian (National University of Defense Technology); Mengmeng Li (Academy of Military Sciences); Xudong Fang (Academy of Military Science)"
+      },
+      {
+        "title": "From Memorization to Discovery: A Novel Benchmark for Relational Triple Extraction",
+        "authors": "Ao-ran Gan (University of Science and Technology of China)*; Ye Liu (University of Science and Technology of China); Hongbo Gang (University of Science and Technology of China); Kai Zhang (University of Science and Technology of China); Qi Liu (University of Science and Technology of China); Enhong Chen (University of Science and Technology of China); Xin Li (iFlytek Research, iFlytek Co., Ltd.); Guoping Hu (iFlytek Research, iFlytek Co., Ltd.)"
+      },
+      {
+        "title": "Leave No One Behind: Enhancing Diversity While Maintaining Accuracy in Social Recommendation",
+        "authors": "Lei Li (Renmin University of China); Xiao Zhou (Renmin University of China)*"
+      },
+      {
+        "title": "Making Local Models Learn Autonomously With Global Feature Tracking and Client Drift Releasing for Federated Learning",
+        "authors": "Silong Chen (National University of Defense Technology)*; Yuchuan Luo (National University of Defense Technology); Liang Gao (Nathonal University of Defense Technology ); Shaojing Fu (National University of Defense Technology); Ming Xu (National University of Defense Technology); Yawei Zhao (Chinese PLA General Hospital)"
+      },
+      {
+        "title": "UGDA: A Unified Graph-based Method with Domain-specific Adaptation for Multi-domain Recommendation",
+        "authors": "Bin Ruan (Huazhong University of Science and Technology); Hao Liu (Wuhan Digital Engineering Institute); Yitian Tu (Huazhong University of Science and Technology\t); Zhiying Deng (Huazhong University of Science and Technology); Zhiqiang Guo (Tsinghua University); Jianjun Li (School of Computer Science and Technology, Huazhong University of Science and Technology)*"
+      },
+      {
+        "title": "DlGR-KB: Dual-level Graph Reasoning with Key Block Decoupling for Multi-Party Dialogue Reading Comprehension",
+        "authors": "Rui Cao (Soochow University)*; Xiabing Zhou (soochow university); Min Zhang (Harbin Institute of Technology, Shenzhen); Guodong Zhou (Soochow University)"
+      },
+      {
+        "title": "Key Users Identification-based Heterogeneous Hypergraph for Group Recommendation",
+        "authors": "Lijin Mu (Heilongjiang University); Nan Wang (Heilongjiang University)*; Jinbao Li (Qilu University of Technology)"
+      },
+      {
+        "title": "A Diffusion-based Triple Embedding Model for User Identity Linkage across Social Networks",
+        "authors": "Jingya Zhou (Soochow University)*"
+      },
+      {
+        "title": "A Structure-aware Generative Model for Biomedical Event Extraction",
+        "authors": "Haohan Yuan (University of Hawaii at Manoa)*; Siu Cheung Hui (Nanyang Technological University); Haopeng Zhang (University of Hawaii at Manoa)"
+      },
+      {
+        "title": "ICFF-Net: Interlaced cross-attention feature fusion network for music genre classification",
+        "authors": "Shi ting Meng (Tianjin University of Technology)*; Cairui Yan (\tTianjin University of Technology); Yingyuan Xiao (Tianjin University of Technology); Wenguang Zheng (Tianjin University of Technology); Xu Cheng (Norwegian University of Science and Technology)"
+      },
+      {
+        "title": "Unlocking Multimodal Potential for Few-Shot Semantic Segmentation with Vision-Enriched Text",
+        "authors": "Siyu Chen (Central South University); jiaxiang fang (central south university); Shiqiang Ma ( Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences)*; Fei Guo (School of Computer Science and Engineering, Central South University)"
+      },
+      {
+        "title": "Heterogeneous federated learning via active-passive collaboration",
+        "authors": "Jianzhe Zhao (Northeastern University); Wuganjing Song (The Hong Kong University of Science and Technology); Li Zhang (Northeastern University); Xingwei Wang (Northeastern University); Guibing Guo (Northeastern University); Zhelin Fan (Northeastern University)*"
+      },
+      {
+        "title": "FTDG: Fuzzing-Based Test Data Generation for Deep Neural Networks",
+        "authors": "Ziqi Chen (Nanjing University of Aeronautics and Astronautics)*; chuanqi tao (NUAA); Tianzi Zang (Nanjing University of Aeronautics and Astronautics); Hongjing Guo (Nanjing University of Aeronautics and Astronautics)"
+      },
+      {
+        "title": "MAPN: Enhancing Heterogeneous Sparse Graph Representation by Mamba-based Asynchronous Aggregation",
+        "authors": "Xuqi Mao (Fudan University)*; Xiaoyang Wang (Fudan University); Zhenying He (Fudan University)"
+      },
+      {
+        "title": "Adaptive Personalized Federated Recommendation with Global Knowledge Distillation",
+        "authors": "Jianzhe Zhao (Northeastern University); Lingyan He (Northeastern University)*; Zhelin Fan (Northeastern University); Jiaqi Ding (Northeastern University); Xiaoxue Zhu (Northeastern University); Guibing Guo (Northeastern University)"
+      },
+      {
+        "title": "HESM: A Hyperedge Embedding-Based Subhypergraph Matching Method",
+        "authors": "Ji Li (Northeastern University); Yijie Zhang (Northeastern University); Guang Lu (Northeastern University, China); Jiaquan Li (Northeastern University); Chuanwen Li (Northeastern University)*"
+      },
+      {
+        "title": "SCRA-VQA: Summarized Caption-Rerank for Augmented Large Language Models in Visual Question Answering",
+        "authors": "Yan Zhang (Hubei University); Jiaqing Lin (Hubei University); Miao Zhang (Hubei University); Kui Xiao (Hubei University); Xiaoju Hou (Guangdong Industry Polytechnic University); Yue Zhao (Shandong Police College); Zhifei Li (Hubei University)*"
+      },
+      {
+        "title": "CoANBR: A Collaborative Aggregation Model for Next Basket Recommendation with Time-independent Sequence Modeling",
+        "authors": "li lin (Southeast University)*; Kaiwen Xia (Southeast University); Haotian Shen (Southeast University); Shuai Wang (Southeast University)"
+      },
+      {
+        "title": "DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level",
+        "authors": "Yifan Wang (University of Electronic Science and Technology of China)*; Shen Gao (Shandong University); Jiabao Fang (Shandong University); \tLisi \tChen (University of Electronic Science and Technology of China); Peng Han (University of Electronic Science and Technology of China); Shuo Shang (UESTC)"
+      },
+      {
+        "title": "Crafting Global Information in Mini-batches for Knowledge Tracing",
+        "authors": "Hui Zhao (Wangxuan Institute of Computer Technology, Peking University)*; Yanze Wang (Wangxuan Institute of Computer Technology, Peking University); Jun Sun (Peking University)"
+      },
+      {
+        "title": "Asking Diversified Reasonable Questions with External Commonsense Knowledge to Infer Inconsistency for Multi-modal Clickbait Detection",
+        "authors": "Jianxing Yu (Sun Yat-sen University)*; Shiqi Wang (Sun Yat-Sen University); Qi Chen (Sun Yat-sen University); Huaijie Zhu (Sun Yat-Sen University); Libin Zheng (Sun Yat-sen University); Wenqing Chen (Sun Yat-sen University); Jian Yin (Sun Yat-Sen University)"
+      },
+      {
+        "title": "MVIC: Multi-View Information Collaborative Fusion for Drug-Drug Interaction Prediction",
+        "authors": "Xianxian Zhao (Sichuan University)*; Chengxin He (Sichuan University); Lei Duan (Sichuan University)"
+      },
+      {
+        "title": "Enabling Efficient and Authenticated Trajectory Similarity Retrieval on Blockchain-assisted Cloud",
+        "authors": "Yiping Teng (Shenyang Aerospace University)*; Haochun Pan (Shenyang Aerospace University); Jiajia Li (Shenyang Aerospace University); Yuyao Tang (Shenyang Aerospace University); Chunlong Fan (Shenyang Aerospace University); Liang Zhao (Shenyang Aerospace University)"
+      },
+      {
+        "title": "CyberLLM: Enable Mapping CVE to Tactics and Techniques of Cyber Threats via LLM",
+        "authors": "Ziming Zhao (Zhejiang University)*; Zhaoxuan Li (The State Key Laboratory of Information Security, Institute of Information Engineering, CAS); Tingting Li (Zhejiang University); Fan Zhang (Zhejiang University)"
+      },
+      {
+        "title": "Compress Time Series with Smaller Error Tolerances",
+        "authors": "Juntao Yu (NingboTech University)*; Fangyu Wu (Xi’an Jiaotong-Liverpool University); Huanyu Zhao (Donghua University); Shi-ting Wen (NingboTech University); Tongliang LI (Hebei Academy of Sciences); chaoyi Pang (NingboTech University )"
+      },
+      {
+        "title": "Learnable Relational Knowledge Distillation For Language Model Compression",
+        "authors": "Feng Hu (University of Science and Technology of China)*; Kai Zhang (University of Science and Technology of China); Ye Liu (University of Science and Technology of China); Meikai Bao (University of Science and Technology of China); Xukai Liu (University of Science and Technology of China); Yanjiang Chen (University of Science and Technology of China); Gang Zhou (Information Engineering University); Qi Liu (University of Science and Technology of China)"
+      },
+      {
+        "title": "FHGE: A Fast Heterogeneous Graph Embedding with Ad-hoc Meta-paths",
+        "authors": "Xuqi Mao (Fudan University)*; Xiaoyang Wang (Fudan University); Zhenying He (Fudan University)"
+      },
+      {
+        "title": "Design and Implementation of Decentralized Data Protection Protocol for Generative AI",
+        "authors": "Bingxue ZHANG (University of Shanghai for Science and Technology); Yang Shi (University of Shanghai for Science and Technology)*; Feida Zhu (Singapore Management University); Wang-Chien  Lee (Pennsylvania State University, USA)"
+      },
+      {
+        "title": "Subset Discovery for Entity Matching",
+        "authors": "Zheng Liang (Harbin Institute of Technology); Yafeng Tang (Harbin Institute of Technology); Hongzhi Wang (Harbin Institute of Technology)*; Haifeng Cheng (Harbin Institute of Technology); Xiaoou Ding (Harbin Institute of Technology)"
+      },
+      {
+        "title": "STM: A Spatio-Temporal Model for Dynamic Graph Fraud Detection",
+        "authors": "Yuxiang Wang (HangZhou Dianzi University); Runhuai Chen (Hangzhou Dianzi University); Bin Chen (Hangzhou Dianzi university); Zhiyuan Yu (Hangzhou Dianzi University); Yuxiang Wang (Hangzhou Dianzi University)*; Tianxing Wu (Southeast University)"
+      },
+      {
+        "title": "ExBoost: Out-of-Box Co-Optimization of Machine Learning and Join Queries",
+        "authors": "Kanchan Chowdhury (Arizona State University)*; Lulu Xie (Arizona State University); Lixi Zhou (Arizona State University); Jia Zou (Arizona State University)"
+      },
+      {
+        "title": "Gaussian Regularization in Neural Graph Learning",
+        "authors": "Azmine Toushik Wasi (Shahjalal University of Science and Technology ); Taki Hasan Rafi (Hanyang University ); Dong-Kyu Chae (Hanyang University)*"
+      },
+      {
+        "title": "LegalTwin: Enhancing Legal Judgment Prediction via Dual-Reasoning-Chain Representation Learning",
+        "authors": "Pengjie Liu (Southern University of Science and Technology)*; Xiaoqing Zhang (Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences); Yulong Ding (Southern University of Science and Technology); Shuang-hua Yang (Southern University of Science and Technology)"
+      },
+      {
+        "title": "Learning Distance-Aware Space Partitions for Approximate Nearest Neighbor Search",
+        "authors": "zhenyu zhang (East China Normal University)*; junlin shang (East China Normal University); kailing li (East China Normal University); jiannan li (East China Normal University); mengqi tian (East China Normal University); xiaoling wang (East China Normal University)"
+      },
+      {
+        "title": "DRENet: A Dual-branch Road Extraction Network for Enhanced Connectivity",
+        "authors": "Yao Yang (Soochow University); Pingfu Chao (Soochow University)*; Qiao Kun (Soochow University); Junhua Fang (Soochow University)"
+      },
+      {
+        "title": "WorthyPar: A Workload-Aware Data Hybrid Partitioning Advisor with Deep Reinforcement Learning",
+        "authors": "Shuangshuang Cui (Harbin Institute of Technology); Hongzhi Wang (Harbin Institute of Technology)*; Jinghan Lin (Harbin Institute of Technology); Xiaoou  Ding (Harbin Institute of Technology); Donghua Yang (Harbin Institute of Technology)"
+      },
+      {
+        "title": "FHCF: Fully-Hyperbolic Symmetric Graph Learning for Collaborative Filtering",
+        "authors": "Guanghui  Zhu (Nanjing University)*; 陆 旺 (南京大学); Chunfeng Yuan (Nanjing University); Yihua Huang (Nanjing University)"
+      }
+    ],
+    "Short Papers": [
+      {
+        "title": "Who is Undercover? Guiding LLMs to Explore Multi-Perspective Team Tactic in the Game",
+        "authors": "Ruiqi Dong (South China Normal University)*; Zhixuan  Liao (South China Normal University); Yuhan Ma (South China Normal University); Danni Ma (South China Normal University); Chenyou Fan (South China Normal University )"
+      },
+      {
+        "title": "Structural Denoising Contrastive Self-supervised Graph Meta-learning",
+        "authors": "Ningbo Huang (State Key Laboratory of Mathematical Engineering and Advanced Computing)*; Gang Zhou (State Key Laboratory of Mathematical Engineering and Advanced Computing\t); Meng Zhang (State Key Laboratory of Mathematical Engineering and Advanced Computing); Shiyu Wang (State Key Laboratory of Mathematical Engineering and Advanced Computing); Shunhang Li (State Key Laboratory of Mathematical Engineering and Advanced Computing)"
+      },
+      {
+        "title": "MoEPlan: A Lazy Learned Query-Selection Optimizer via Mixture of Optimizer Experts",
+        "authors": "Suchen Liu (Peking University)*; Jun Gao (Peking University); Yinjun Han (ZTE Corporation); Yang Lin (ZTE Corporation)"
+      },
+      {
+        "title": "MCTM: Multi-Chord Distributed System for Efficient Trajectory Data Management in Mobile Edge Computing",
+        "authors": "Yucheng Tao (Shanghai Jiao Tong university); Haopeng Chen (Shanghai Jiao Tong University)*; Zihong Lin (Shanghai Jiao Tong University); jiahao xu (shanghai jiao tong university); Xiaojian Gao (Shanghai Jiao Tong University); Jinghao Wang (Shanghai Jiao Tong University); Jiao yan (ShangHai Shapere Information Technology Co.,Ltd.); Xu yongming (ShangHai Shapere Information Technology Co.,Ltd.)"
+      },
+      {
+        "title": "Time-Optimal Route Planning for Non-Linear Recharging Electric Vehicles on Road Networks",
+        "authors": "Qinzhou Xiao (East China Normal University)*; Yu Shao (East China Normal University); Peng Cheng (East China Normal University); Lei Chen (HKUST & HKUST(GZ)); Wangze Ni (HKUST); Wenjie Zhang (University of New South Wales); Hengtao Shen (Tongji University); Xuemin Lin (Shanghai Jiaotong University); Liping Wang (East China Normal University)"
+      },
+      {
+        "title": "Ignite Forecasting with SPARK: An Efficient Generative Framework for Refining LLMs in Temporal Knowledge Graph Forecasting",
+        "authors": "Gongzhu Yin (Harbin Institute  of Technology)*; Hongli Zhang (Harbin Institute of Technology); Luo Yi (\tHarbin Institute of Technology); Yuchen Yang (Harbin Institute of Technology); Kun Lu (Harbin Institute of Technology); Chao Meng (Harbin Institute of Technology)"
+      },
+      {
+        "title": "Semi-supervised Anomaly Detection with Extremely Limited Labels in Dynamic Graphs",
+        "authors": "Jiazhen Chen (University of Waterloo); Sichao Fu (Huazhong University of Science and Technology)*; Zheng Ma (Univertsity of Waterloo); Mingbin Feng (University of Waterloo); Tony Wirjanto (University of Waterloo); Qinmu Peng (Huazhong University of Science and Technology)"
+      },
+      {
+        "title": "Durable Community Search on Temporal Graphs",
+        "authors": "Jianhua Wang (Inner Mongolia University)*; Jianye  Yang (Guangzhou University); Wu Yao (Hunan university); Ziyi Ma (Hebei University of Technology); Zhaoquan Gu (Harbin Institute of Technology (Shenzhen)); Chengyuan Zhang (Hunan University)"
+      },
+      {
+        "title": "A Large Language Model Guided Topic Refinement Mechanism for Short Text Modeling",
+        "authors": "Shuyu Chang (Nanjing University of Posts and Telecommunications)*; Rui Wang (Nanjing University of Post and Telecommunications); peng ren (Nanjing University of Posts and Telecommunications); qi wang (Nanjing university of posts and telecommunications ); Haiping Huang (Nanjing University of Posts and Telecommunications)"
+      },
+      {
+        "title": "FLeW: Facet-Level and Adaptive Weighted Representation Learning of Scientific Documents",
+        "authors": "Zheng Dou (Beihang University)*; deqing wang (beihang University); Fuzhen Zhuang (Institute of Artificial Intelligence, Beihang University); Jian Ren (Beihang University); Yanlin Hu (National Computer Network Emergency Response Technical Team/Coordination Center of China)"
+      },
+      {
+        "title": "FairDP-GNN: Graph Neural Network with Group Fairness and Differential Privacy",
+        "authors": "Fengrui Hao (Jinan University); Shiyi  Zhao (Jinan University); Tianlong Gu (Jinan University)*; Xuemin Wang (Guilin University Of Electronic Technology); Xiaoli Liu (Jinan University); Yuanfeng Liu (Guangzhou Research Institute of Information Technology)"
+      },
+      {
+        "title": "Transcending Conventional Binary Labels: Revamping Knowledge Tracing with VAE-Generated Image Representation",
+        "authors": "Hui Zhao (Wangxuan Institute of Computer Technology, Peking University)*; Yanze Wang (Wangxuan Institute of Computer Technology, Peking University); Jun Sun (Wangxuan Institute of Computer Technology, Peking University)"
+      },
+      {
+        "title": "CausalScaler: A Causality-Driven Autoscaling Framework for the Cloud",
+        "authors": "Zhemeng Yu (Shanghai Jiao Tong University); Yang Luo (Shanghai Jiao Tong University); Yucen Gao (Shanghai Jiao Tong University); Yinbo sun (antgroup); Xiaofeng Gao (Shanghai Jiaotong University)*; Lintao Ma (Ant Group ); Guihai Chen (Shanghai Jiao Tong University)"
+      },
+      {
+        "title": "Resolving Embedding-Ignoring Conflict in Graph Contrastive Learning-Based Rumor Detection",
+        "authors": "Jiachen Ma (Heilongjiang University); jing dai (Heilongjiang University); Wei Zhang (Heilongjiang University); Yong Liu (Heilongjiang university)*"
+      },
+      {
+        "title": "OFTEN: Graph Invariant Learning via Soft Environment Inference",
+        "authors": "Yang Liu (Institute of Computing Technology, Chinese Academy of Sciences)*; Zikun Zhang (University of Chinese Academy of Sciences); Xiang Ao (Institute of Computing Technology, CAS ); Lingxiang Tian (University of Chinese Academy of Sciences); Qing He (Institute of Computing Technology, Chinese Academy of Sciences)"
+      },
+      {
+        "title": "LLM-Driven Evidence Retrieval and Graph Learning for Explainable Rumor Detection",
+        "authors": "Jiafu Yang (Heilongjiang University)*; Junyan Chen (Heilongjiang University); Wei Zhang (Heilongjiang University); Yong Liu (Heilongjiang University)"
+      },
+      {
+        "title": "Alignment-Uniformity Aware Feature Representation Learning for CTR Prediction",
+        "authors": "Fangye Wang (Zhejiang Lab)*; Xiaoran Yan (Zhejiang Lab)"
+      },
+      {
+        "title": "Meta Relation Assisted Explanatory Model for Heterogeneous Graph Neural Networks",
+        "authors": "Yibowen Zhao (Shandong University)*; Yonghui Xu (Shandong University); Yu Zhang (Shandong University); Qingzhong Li (\" Shandong University, China\"); Xudong Lu (Shandong University); Wei He (Shandong University); Lizhen Cui (ShanDong University)"
+      },
+      {
+        "title": "SCFormer: Structured Channel-wise Transformer with Cumulative Historical State for Multivariate Time Series Forecasting",
+        "authors": "Shiwei Guo (University of Chinese Academy of Sciences)*; Ziang Chen (University of Chinese Academy of Sciences); Yupeng Ma (The Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences); Yunfei Han (The Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences); Yi Wang (The Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences)"
+      },
+      {
+        "title": "Personalized Federated Multi-Center Medical Data Analysis with Local and Global Uncertainty",
+        "authors": "Shengrong Li (Nanjing University of Aeronautics and Astronautics); Mingming Wang (Nanjing University of Aeronautics and Astronautics); Shuai Xu (Nanjing University of Aeronautics and Astronautics); Daoqiang Zhang (Nanjing University of Aeronautics and Astronautics, China); Qi Zhu (Nanjing University of Aeronautics and Astronautics)*"
+      },
+      {
+        "title": "Content-based vs. Similarity-based Deep Learning Approaches for Walkability Assessment",
+        "authors": "Ankita Kadam (Seattle University); Felix Vu (Seattle University); Siddheshwari Bankar (Seattle University); Alivia Zhao (Seattle University); Garland Lau (Seattle University); Wan Bae (Seattle University)*; Shayma Alkobaisi (United Arab Emirates University)"
+      },
+      {
+        "title": "TSALockMark: An Asymmetric and Robust Watermarking Scheme for Relational Databases with Distortion Constraints",
+        "authors": "Ke Yang (\tKey Laboratory of Cyberspace Security Defense; Institute of Information Engineering Chinese Academy of Science; School of Cyber Security, University of Chinese Academy of Sciences)*; Shuguang Yuan (Key Laboratory of Cyberspace Security Defense; Institute of Information Engineering Chinese Academy of Science); Yu Jing (Key Laboratory of Cyberspace Security Defense; Institute of Information Engineering Chinese Academy of Science; School of Cyber Security, University of Chinese Academy of Sciences); Zhaochen Li (\tKey Laboratory of Cyberspace Security Defense; Institute of Information Engineering Chinese Academy of Science; School of Cyber Security, University of Chinese Academy of Sciences); Yuyang Wang (Key Laboratory of Cyberspace Security Defense; Institute of Information Engineering Chinese Academy of Science; School of Cyber Security, University of Chinese Academy of Sciences); Chi Chen (Key Laboratory of Cyberspace Security Defense; Institute of Information Engineering Chinese Academy of Science;School of Cyber Security, University of Chinese Academy of Sciences)"
+      },
+      {
+        "title": "ECPIR : Efficient and Controllable Privacy-Preserving Image Retrieval in Cloud-assisted System",
+        "authors": "Mingyue Li (HeBei University); Yuntao Li (HeBei University)*; Ruizhong Du (HeBei University); Chunfu Jia (Nankai University); Wei Shao (Qilu University of Technology)"
+      },
+      {
+        "title": "Knowledge Hierarchy Guided Biological-Medical Database Distillation for Domain LLM Training",
+        "authors": "Xunxin Cai (CNIC); Chengrui Wang (Computer Network Information Center,Chinese Academy of Science); Qingqing Long (Computer Network Information Center, Chinese Academy of Sciences); Yuanchun Zhou (Computer Network Information Center, Chinese Academy of Sciences); Meng Xiao (Computer Network Information Center, Chinese Academy of Sciences; University of Chinese Academy of Sciences)*"
+      },
+      {
+        "title": "Tackling Non-IID Graphs via Decoupled Structure and Feature in Federated Graph Learning",
+        "authors": "Longwen Wang (Xidian University); Jianchun Liu ( University of Science and Technology of China)*; Xianjun Gao (University of Science and Technology of China); Zhi Liu (The University of Electro-Communications); Jinyang Huang (Hefei University of Technology)"
+      },
+      {
+        "title": "Aspect-Aware Affective Focus Network For Joint Multimodal Aspect Sentiment Analysis",
+        "authors": "Xiangbo Ji (Inner Mongolia University)*; Haoyu Shi (Inner Mongolia University); Wei Wu (Inner Mongolia University); Na Li (Inner Mongolia University); Jinyang Wang (Inner Mongolia University)"
+      },
+      {
+        "title": "RDSA: A Robust Deep Graph Clustering Framework via Dual Soft Assignment",
+        "authors": "Yang Xiang (Xi'an Jiaotong-Liverpool University); Li Fan (Xi'an Jiaotong-Liverpool University); Tulika Saha (International Institute of Information Technology Bengaluru); Xiaoying Pang (Xi’an Jiaotong Liverpool University ); Yushan Pan (Xi'an Jiaotong-Liverpool University); Haiyang Zhang (Xi'an Jiaotong-liverpool University); Chengtao Ji (Xi'an Jiaotong Liverpool University)*"
+      },
+      {
+        "title": "Enriching Complex Event Forecasting with Nested Patterns",
+        "authors": "Yuhui Chen (Fujian Normal University); Ruihong Huang (Fujian Normal University)*; Jinbo Xiong (Fujian Normal University); Li Lin (Fujian Normal University); Jiayin Lin (Fujian Normal University)"
+      },
+      {
+        "title": "Demand-oriented Route Recommendation for Shared Mobility Services",
+        "authors": "zhijia chen (SUN YET-SEN UNIVERSITY); Chen Zhang (The Hong Kong Polytechnic University); Rui Meng (BNU-HKBU United International College); Peng Cheng (East China Normal University); Libin Zheng (Sun Yat-sen University)*; Jian Yin (Sun Yat-Sen University)"
+      },
+      {
+        "title": "EPMC: An Enhanced Pre-training Model for Cellular Trajectory Representation Learning",
+        "authors": "Xu Haihui (Soochow University)*; Zhou jiarong (China Mobile Cloud Capability Center, Suzhou, China); Hu Hai (China Mobile Cloud Capability Center, Suzhou, China); Tu jingwei (China Mobile Cloud Capability Center, Suzhou, China); Lv xiaoxiao (China Mobile Cloud Capability Center, Suzhou, China); Xu chu (China Mobile Cloud Capability Center, Suzhou, China); He yuhong (China Mobile Cloud Capability Center, Suzhou, China); Hao mengting (China Mobile Cloud Capability Center, Suzhou, China)"
+      },
+      {
+        "title": "Unsupervised Fact Error Correction Modeling by Using Span-Level Contrastive Learning",
+        "authors": "Yuqing Lan (Northeastern University)*; Zhenghao Liu (东北大学); Yu Gu (东北大学); Xinze Li (东北大学); Ge Yu (东北大学)"
+      },
+      {
+        "title": "Structural Entropy Based Spatio-temporal Sequence Forecasting",
+        "authors": "Daliang Liu (Yunnan University); Kun Yue (School of Information and Engineering, Yunnan University, Kunming, China); Wenjie Liu (Yunnan University); Xiang Chen (Yunnan University); Liang Duan (Yunnan University)*"
+      },
+      {
+        "title": "ROME : Memorization Insights from Text, Logits and Representation",
+        "authors": "Bo Li (Baidu Inc.)*; Qinghua Zhao (Beihang University); Lijie Wen (Tsinghua University)"
+      },
+      {
+        "title": "MR-SQL: Multi-Level Retrieval Enhances Inference for LLM in Text-to-SQL",
+        "authors": "Zhenhe Wu (beihang university)*; Zhongqiu Li (School of Computer Science and Computing, Soochow University); Mengxiang Li (China Telecom Communication Corp Ltd); Jie Zhang (chinatelecom); He Zhongjiang (chinatelecom); Jian Yang (Alibaba DAMO Academy); Yu Zhao (China Telecom Corporation Ltd. Data&AI Technology Company); 瑞玉 方 (chinatelecom); Li Yongxiang (chinatelecom); Zhoujun Li (Beihang University); Shuangyong Song (China Telecom Corporation Ltd)"
+      },
+      {
+        "title": "KMMN: Knowledge Enhanced Multimodal Multi-grained Network for Fake News Detection",
+        "authors": "Liyuan Zhang (Heilongjiang University)*; Zeyun Cheng (Heilongjiang University); Zhongyan Gui (Heilongjiang University); Yan Yang (Heilongjiang University); Yong Liu (HeiLongJiang University)"
+      },
+      {
+        "title": "Cross-modal Reasoning-based Unsupervised Multi-modal Entity Linking",
+        "authors": "Yongtao Tang (国防科技大学)*; Shasha Li (\t国防科技大学); Jun Ma (\t国防科技大学); Bin Ji (\t国防科技大学); Xiaodong Liu (\t国防科技大学); Jie Yu (\t国防科技大学)"
+      },
+      {
+        "title": "Decompose then Discriminate: LLMs-Grounded In-Context Learning for Few-Shot Knowledge Base Question Answering",
+        "authors": "Shengze Shi (Institute of Software Chinese Academy of Sciences)*; Tao Ren (Institute of Software Chinese Academy of Sciences); Xu Lan (Queen Mary University of London); Jun Hu (The Institute of Software, Chinese Academy of Sciences)"
+      },
+      {
+        "title": "Comprehensive Interest Modeling and Relational  Mining for Multi-modal Recommendation",
+        "authors": "HaoYu Wang (Jiangnan University)*; Hongbin Xia (jiangnan univsersity)"
+      },
+      {
+        "title": "Rule Mining from Text: A Semantic-Relational Logic Approach",
+        "authors": "Jingbin Li (Tianjin University)*; Xueli liu (Tianjin University); Mingyu Gao (Tianjin University); Jian Yu (Tianjin University); Wenjun Wang (Tianjin University)"
+      },
+      {
+        "title": "Private Multi-Party Neural Network Training over $\\mathbb{Z}_{2^k}$ via Galois Rings",
+        "authors": "Hengcheng Zhou (Shanghai Jiao Tong University)*"
+      },
+      {
+        "title": "CoopKG: An Academic Knowledge Graph for Question Answering Systems",
+        "authors": "Muyuan Niu (Xidian University); Tian Cong (XidianUniversity)*; Qing Li (Xidian University)"
+      },
+      {
+        "title": "BRIDGE-Embed: A Novel LLM-based Document and Sentence Retrieval Method",
+        "authors": "Tianzhe Ning (Donghua University)*; YiFei Wu (Donghua University); Guohua LIU (School of Computer Science and Technology, Donghua University)"
+      },
+      {
+        "title": "CELLM: Curvature Enhanced Large Language Models for Graph Structure Learning",
+        "authors": "Xin Ding (Shanghai Jiaotong University); Jiaxin Ding (Shanghai Jiao Tong University)*; Haochen Han (\tShanghai Jiaotong University); Haoxiang Zhang (Shanghai Jiaotong University); Yule Xie (Shanghai Jiaotong University); Luoyi \tFu (Shanghai Jiao Tong University); Xinbing Wang (\tShanghai Jiao Tong University)"
+      },
+      {
+        "title": "Mining Denoising Complementarity and Consistent Consensus for Unsupervised Multiplex Graph Representation Learning",
+        "authors": "Chang Liu (Tianjin University)*; Zengyi Wo (Tianjin University); Minglai Shao (Tianjin University); Wenjun Wang (Tianjin University); Qin Tian (Tianjin university)"
+      },
+      {
+        "title": "Efficient Computation of k Representative Regret Minimization G-Skyline Groups",
+        "authors": "Kangao Wang (Harbin Institute of Technology); Xixian Han (Harbin Institute of Technology)*; Xiaolong Wan (Harbin Institute of Technology); Yan Wang (Macquarie University, Austrilia)"
+      },
+      {
+        "title": "KG-TS: Knowledge Graph-driven Thompson  Sampling for Online Recommendation",
+        "authors": "Cairong Yan (Donghua University)*; Hualu Xu (Donghua University); Yanting Zhang (Donghua University); Zijian Wang (Donghua University); Xuan Shao (DONGHUA UNIVERSITY)"
+      },
+      {
+        "title": "Boost Dynamic Community Detection via Exploiting Member Transition Information",
+        "authors": "Zhongyu Pan (South China Normal University)*; Junwei Cheng (South China Normal University); Weixiong Liu (South China Normal University); Chaobo He (South China Normal University); Quanlong Guan (Jinan University); Xuequan Lin (South China Normal University)"
+      },
+      {
+        "title": "Sketch-Based Poetry Retrieval with Unsupervised Vision-and-Language Pre-training",
+        "authors": "Yuqing Li (Beijing University of Posts and Telecommunications); Yuting Wei (Beijing University of Posts and Telecommunications); Yangfu Zhu (School of Computer Science, Beijing University of Posts and Telecommunications); Bin Wu (Beijing University of Posts and Telecommunications)*"
+      },
+      {
+        "title": "REKGC: Learning Re-coupled Representations for Knowledge Graph Completion",
+        "authors": "Qingyu Zhang (Hefei University of Technology)*; Min Hu (Hefei University of Technology); Wenlong Fei (Hefei University of Technology); Xiaohua Wang (Hefei University of Technology); Hongbo Li (Hefei University of Technology)"
+      },
+      {
+        "title": "Efficient Noise-reducing Neural Network for Cross-Domain Sequential Recommendation",
+        "authors": "Kaiwei Xu (Xihua University); Yongquan Fan (Xihua University)*; Tang Jing (Southwest petroleum university )"
+      },
+      {
+        "title": "Enhancing Knowledge Graph Completion with Entity Neighborhood and Relation Context",
+        "authors": "Jianfang Chen (University of Science and Technology of China)*; Kai Zhang (University of Science and Technology of China); Aoran Gan (University of Science and Technology of China); Shiwei Tong (University of Science and Technology of China); Shuanghong Shen (Institute of Artificial Intelligence, Hefei Comprehensive National Science Center); Qi Liu (University of Science and Technology of China)"
+      },
+      {
+        "title": "Data-Driven Regional Weather Forecasting Guided by Global Context",
+        "authors": "NingZi Hu (China University of Petroleum(East))*; Guang Yu (National University of Defense Technology); Yi Han (National University of Defense Technology); Ying Wang (China University of Petroleum (East China) ); Cui Xuerong (university of  petroleum); Junxing Zhu (National University of Defense Technology); Xiang Wang (National University of Defense Technology)"
+      },
+      {
+        "title": "Test-Time Training for Graph Neural Networks",
+        "authors": "Yiqi Wang (Michigan State University)*; Chaozhuo Li (Microsoft Research Asia); Rui Li ( Dalian University of Technology); Jianan Zhao (University of Notre Dame)"
+      },
+      {
+        "title": "A Benchmark Dataset and Instruction Fine-Tuning Methods for Metaphorical Comprehension and Explanation",
+        "authors": "senqi yang (Dalian University of Technology); Dongyu zhang (\tDalian University of Technology)*; wei guo (Dalian University of Technology); mingshuo pan (\tDalian University of Technology); haojia li (Dalian University of Technology); liang yang (\tDalian University of Technology); hongfei lin (\tDalian University of Technology)"
+      },
+      {
+        "title": "MPPG: Pluggable Multi-Periodic Pattern-Guided Approach for Multivariate Time Series Anomaly Detection",
+        "authors": "Zongxia Xie (Tianjin University)*; Zhaobin Meng (Tianjin University)"
+      },
+      {
+        "title": "Enhancing Explanations of Graph Neural Networks via Bridging Model-level and Instance-level Explainers",
+        "authors": "Youmin Zhang (Chongqing Key Laboratory of Computational Intelligence, Chongqing University of Posts and Telecommunications); Qun Liu (Chongqing Key Laboratory of Computational Intelligence;Chongqing University of Posts and Telecommunications )*; Guoyin Wang (National Center for Applied Mathematics in Chongqing, Chongqing Normal University); Lili Yang (Southern University of Science and Technology); Li Liu (Chongqing Key Laboratory of Computational Intelligence, Chongqing University of Posts and Telecommunications)"
+      },
+      {
+        "title": "Chain-of-Thought Prompting with Causal Intervention for Multimodal Aspect-based Sentiment Analysis",
+        "authors": "Maolin Li (Guangdong University of Technology)*; Zhuopan Yang (Guangdong University of Technology); Haoran Xie (Lingnan University); Lap-Kei Lee (Hong Kong Metropolitan University); Fu Lee Wang (Hong Kong Metropolitan University); Yi Yu (NII); Zhenguo Yang (Guangdong University of Technology)"
+      },
+      {
+        "title": "MASS: Mitigating Aspect-oriented Semantic Sparsity for Fine-grained Sentiment Analysis",
+        "authors": "Yanjiang Chen (University of Science and Technology of China)*; Kai Zhang (University of Science and Technology of China); Zhe Yang (University of Science and Technology of China); Linan Yue (University of Science and Technology of China); Xinjie Sun (University of Science and Technology of China); Kun Zhang (Hefei University of Technology); Qi Liu (\" University of Science and Technology of China, China\")"
+      },
+      {
+        "title": "Heterogeneous Feature-Aware Graph Neural Network for Tabular Data",
+        "authors": "HongXiao FEI (central south university); hu jinqi (Central South University); Liu Yang (School of Computer Science and Engineering, Central South University)*; Tingxuan Chen (Central South University); Huayou Su (National University of Defense Technology); Liu ZanQun (School of Civil Engineering ,Central South University )"
+      },
+      {
+        "title": "HF-Mamba: Improving Multimodal Classification via Hierarchical Fusion based on Mamba",
+        "authors": "Yimo Ren (Beijing Haidian)*; Jinfa Wang (Institute of Information engineering,CAS); Hong Li (Institute of Information engineering,CAS); Rongrong Xi (Institute of Information engineering,CAS); Haiqiang Fei (Institute of Information engineering,CAS); Hongsong Zhu (Institute of Information engineering,CAS)"
+      },
+      {
+        "title": "ShareDP: Finding k Disjoint Paths for Multiple Vertex Pairs",
+        "authors": "Zhiqiu Yuan (Peking University)*; Youhuan Li (Hunan University); Lei Zou (Peking University); linglin yang (Peking University)"
+      },
+      {
+        "title": "Log Parsing with LLMs Featuring Self-Reflection and Continuous Refining",
+        "authors": "XiaoLei Chen (Fudan University); Jia Chen (Fudan University)*; Jie Shi (Fudan University); Peng Wang (Fudan University); Wei Wang (Fudan University)"
+      },
+      {
+        "title": "CoCoB: Adaptive Collaborative Combinatorial Bandits for Online Recommendation",
+        "authors": "Cairong Yan (Donghua University)*; Jinyi Han (East China Normal University); Jin Ju (Donghua University); Yanting Zhang (Donghua University); Zijian Wang (Donghua University); Xuan Shao (DONGHUA UNIVERSITY)"
+      },
+      {
+        "title": "Towards Confidential and Efficient LLM Inference with Dual Privacy Protection",
+        "authors": "Honglan Yu (Institute  of  Information  Engineering,Chinese  Academy  of  Sciences;Key  Laboratory  of  Cyberspace  Security  Defense;School  of  Cyber  Security,  University  of  Chinese  Academy  of  Sciences)*; Wang Yibin (University of Chine Academy of Sciences); Feifei Dai (School of Cyber Security, University of Chinese Academy of Sciences; Institute of Information Engineering，Chinese Academy of Sciences); dong Liu (Institute of Information Engineering, Chinese Academy of Sciences Beijing, China); Haihui Fan (Institute of Information Engineering, Chinese Academy of Sciences); Xiaoyan Gu (Institute of Information Engineering, Chinese Academy of Sciences; School of Cyber Security, University of Chinese Academy of Sciences)"
+      },
+      {
+        "title": "Predicting Enterprise Users' Consuming Potential for Cloud Services",
+        "authors": "Yunlong Cheng (Shanghai Jiao Tong University)*; Tianyao Shi (Shanghai Jiao Tong University); Xiuyuan Wei (\tShanghai Jiao Tong University); Yulong Song (Shanghai Jiao Tong University, Shanghai, China); Xiaofeng Gao (Shanghai Jiaotong University); Zhipeng Bian (Huawei Technologies); Zhenli Sheng (Huawei Technologies Co., Ltd.)"
+      },
+      {
+        "title": "Correlation-Aware Reordered Scanning Mamba for Multivariate Time Series Forecasting",
+        "authors": "Zihao Yao (Tongji University); Qi Zheng (Tongji University); Yaying Zhang (Tongji University)*"
+      },
+      {
+        "title": "Accelerating DeepWalk via Context-Level Parameter Update and Huffman Tree Pruning",
+        "authors": "Chang Gong (Fudan University); Weiguo Zheng (Fudan University)*; Hongwei Feng (Fudan University)"
+      },
+      {
+        "title": "Breaking Free from Label Limitations: A Novel Unsupervised Attack Method for Graph Classification",
+        "authors": "Yadong Wang (Beijing Institute of Technology)*; Zhiwei Zhang (Beijing Institute of Technology); Pengpeng Qiao (Beijing Institute of Technology); Ye Yuan ( Beijing Institute of Technology); Hao Zhang (Huawei); Guoren Wang (Beijing Institute of Technology)"
+      },
+      {
+        "title": "Enhancing Time Series Forecasting via Multi-Level Text Alignment with Large Language Models",
+        "authors": "Taibiao Zhao (Louisianan State University); Xiaobing Chen (Louisianan State University); Mingxuan Sun (Louisianan State University)*"
+      },
+      {
+        "title": "rFedKD: A Reverse Federated Knowledge Distillation Method for Communication Efficiency",
+        "authors": "Weijia Feng (Tianjin Normal University); Ruojia Zhang (Tianjin Normal University); Yichen Zhu (Tianjin Normal University); Chenyang Wang (Shenzhen University)*; Xiaobao Wang (Tianjin University); Tarik Taleb (Ruhr University Bochum)"
+      },
+      {
+        "title": "HierLLM: Hierarchical Large Language Model for Question Recommendation",
+        "authors": "Yuxuan Liu (Jilin University)*; Haipeng Liu (Jilin University); Ting Long (Jilin University)"
+      },
+      {
+        "title": "Personalized Education with Ranking Alignment Recommendation",
+        "authors": "Haipeng Liu (Jilin University)*; Yuxuan Liu (Jilin University); Ting Long (Jilin University)"
+      },
+      {
+        "title": "Perspective-based Multi-task Learning for Outlier Interpretation",
+        "authors": "Zhuoling Li (Sichuan University)*; Lili Guan (Sichuan University); Xinye Wang (Sichuan University); Zhengyong Pan (JD.com); Lei Duan (Sichuan University)"
+      },
+      {
+        "title": "SELVA: A Reliable and Fast Selectivity Estimation Method for Query Plan Optimization in Video Analytics",
+        "authors": "Guang Lu (Northeastern University, China); Jing Zhang (Shenyang Aerospace University); Ji Li (Northeastern University); Jiaquan Li (Northeastern University); Chuanwen Li (Northeastern University)*"
+      },
+      {
+        "title": "Instance-Aware Test-Time Adaptation for Domain Generalization",
+        "authors": "Taki Hasan Rafi (Hanyang University ); Karlo Šerbetar (University of Cambridge); Amit Agarwal (Oracle); Hitesh Laxmichand Patel (Oracle); Bhargava Kumar (TD Securities); Dong-Kyu Chae (Hanyang University)*"
+      },
+      {
+        "title": "Grayscale Image-based Top-k Spatial Dataset Search Processing",
+        "authors": "Mingyue Zhang (Nanjing University of Posts and Telecommunications); Hua Dai (Nanjing University of Posts and Telecommunications)*; Pengyue Li (Nanjing University of Posts and Telecommunications); Sheng Wang (Wuhan University); Bohan Li (Nanjing University of Aeronautics and Astronautics); Hao Zhou (Nanjing University of Posts and Telecommunications); Geng Yang (Jiangsu Key Laboratory of Big Data Security & Intelligent Processing)"
+      },
+      {
+        "title": "Mitigating Linguistic Bias between Malay and Indonesian Languages using Masked Language models",
+        "authors": "Ferdinand Lenchau Bit (Hanyang University); Iman Khaleda binti Zamri (Hanyang University); Azmine Toushik Wasi (Shahjalal University of Science and Technology ); Taki Hasan Rafi (Hanyang University ); Dong-Kyu Chae (Hanyang University)*"
+      },
+      {
+        "title": "SimRe: A Simulation of Memes Recreation for Memes Category Detection",
+        "authors": "Lin Li (Wuhan University of Technology)*; Leqi Zhong (Wuhan University of Technology); Jian Cui (Artifcial Intelligence Research Institute, iFLYTEK Co.); Shaopeng Tang (Wuhan Unversity of Technology); Xiaohui Tao (The University of Southern Queensland)"
+      },
+      {
+        "title": "Continuous Dynamic Modeling via Neural ODEs for Popularity Trajectory Prediction",
+        "authors": "SongBo Yang (University of Science and Technology of China)*; Ziwei Zhao (University of Science and Technology of China); Zihang Chen (University of Science and Technology of China); Haotian Zhang (University of Science and Technology of China); Tong Xu (University of Science and Technology of China); Mengxiao Zhu (University of Science and Technology of China)"
+      },
+      {
+        "title": "Augmenting Transformers with Enhanced Dependency Structures by Treating Relations as New Words",
+        "authors": "Jyun-Wei Chen (National Cheng Kung University); Shiou-Chi Li (National Cheng Kung University)*; Jen-Wei Huang (National Cheng Kung University)"
+      },
+      {
+        "title": "TS-FourierLLM: Frozen Frequency-Domain Large Language Blocks for Enhancing Time-Series Modeling",
+        "authors": "Pengfei Wang (East China Normal University )*; huanran zheng (East China Normal University); Wenjing Yue (East China Normal University); Xiaoling Wang (East China Normal University)"
+      },
+      {
+        "title": "Privacy-preserving Image Generation Based on Self-Attention",
+        "authors": "Zhihui Wang (Fudan University)*; Zijian Li (Fudan)"
+      },
+      {
+        "title": "Diffusion Based Data Augmentation for Multi-behavior Sequential Recommendation",
+        "authors": "Tingting ZHENG (School of Computer Science, South China Normal University); Zhilong SHAN (School of Computer Science, South China Normal University)*; Zhengyang Wu (South China Normal University); Xiaoyong  HU (Institute of Artificial Intelligence in Education, South China Normal University)"
+      },
+      {
+        "title": "Killing two birds with one stone: A Spatio-Temporal Prompt for the Inductive Spatio-Temporal Extrapolation",
+        "authors": "Leilei Ding (University of Science and Technology of China)*; Zhipeng Tang (University of Science and Technology of China); Le Zhang (Baidu Research); Dazhong Shen (Shanghai Artificial Intelligence Laboratory,); Chao Wang (University of Science and Technology of China); Ziyang Tao (University of Science and Technology of China); Jingbo Zhou (Baidu Research); Yanyong Zhang (University of Science and Technology of China); Hui Xiong (Hong Kong University of Science and Tech)"
+      },
+      {
+        "title": "Enhancing Cross-Lingual Dialogue Summarization through Interpretable Chain-of-Thought",
+        "authors": "Zhongtian Bao (Nankai University)*; Yao Zhang (Nankai University); Jun Wang (Ludong University); Adam Jatowt (University of Innsbruck, Austria); Zhenglu Yang (Nankai University)"
+      },
+      {
+        "title": "Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems",
+        "authors": "Michael Faerber (ScaDS.AI/TU Dresden)*; David Lamprecht (metaphacts); Yuni Susanti (Fujitsu LTD.)"
+      },
+      {
+        "title": "Anticipating Retractions in Scientific Databases using LLM-Based Citation Analysis",
+        "authors": "Muhammad Usman (TU Braunschweig)*; Mayukh Das (TU Braunschweig); Wolf-Tilo Balke (TU Braunschweig)"
+      },
+      {
+        "title": "Semantic Gaussian Mixture Variational Autoencoder for Sequential Recommendation",
+        "authors": "Beibei Li (College of Computer Science, Chongqing University)*; Tao Xiang (Chongqing University); Beihong Jin (Institute of Software, Chinese Academy of Sciences); Yiyuan Zheng (Institute of Software Chinese Academy of Sciences); Rui Zhao (University of Chinese Academy of Sciences, Beijing, China)"
+      },
+      {
+        "title": "Tuning Vision-Language Models with Candidate Labels by Prompt Alignment",
+        "authors": "Zhifang Zhang (Chongqing University); Yuwei Niu (Chongqiqng University); Xin  Liu  (Southeast University); BeiBei Li (Chongqing University)*"
+      }
+    ]
+  },
+  "industry": {
+    "Short Papers": [
+      {
+        "title": "A Novel Parallel Graph Computing Model for Unsupervised Fraud Detection",
+        "authors": "Jiahui Wang (Shanghai Polytechnic University); Rui Sun (Shanghai Polytechnic University); Fangshu Chen (Shanghai Polytechnic University)*; Wei Zhang (Shanghai Polytechnic University); Panpan Feng (iQiyi Inc); Chengcheng Yu (Shanghai Polytechnic University)"
+      },
+      {
+        "title": "Driver Recipient Selection for Traffic Safety Education via Uplift Modeling",
+        "authors": "Mingqian Li (Zhejiang Lab); Mo Li (Nanyang Technological University)*; Panrong Tong (Alibaba Group); Zhongming Jin (Alibaba Group)"
+      },
+      {
+        "title": "CloudChurn: Optimizing Enterprise Customer Churn Prediction in Cloud Services for Huawei Cloud",
+        "authors": "Hengyu Ye (Shanghai Jiao Tong University); Yulong Song (Shanghai Jiao Tong University, Shanghai, China); Zhipeng Bian (Huawei Cloud Computing Technologies Co.); Xiaofeng Gao (Shanghai Jiaotong University)*; Guihai Chen (Shanghai Jiao Tong University); Xin Jin (Huawei Cloud Computing Technologies Co.); Zhenli Sheng (Huawei Technologies Co., Ltd.)"
+      },
+      {
+        "title": "ProRAG: Towards Reliable and Proficient AIGC based Digital Avatar",
+        "authors": "Yongkang Zhou  (East China Normal University ); Muyang Yan (East China Normal University); Junjie Yao (East China Normal University)*; Gang Xu (East China Normal University)"
+      },
+      {
+        "title": "Interpretable Word Representation Learning Framework for Modeling Semantic Relevance in E-commerce",
+        "authors": "Haoyue Zhang (University of Science and Technology Beijing)*; Zhiyuan Zeng (Alibaba Group); Guoliang Zhang (University of Science and Technology Beijing); Hui Zhao (alibaba group); Tianshu Wu (Alibaba Group); Pengjie Wang (Alibaba Group); Jian Xu (Alibaba Group); Bo Zheng (Alibaba Group); Baolin Liu (University of Science and Technology Beijing)"
+      },
+      {
+        "title": "ACA-Net: Future Graph Learning for Logistical Demand-Supply Forecasting",
+        "authors": "Jiacheng Shi (Alibaba Group); Haibin Wei (Alibaba Group)*; Jiang Wang (Alibaba Group); Xiaowei Xu (Alibaba Group); Longzhi Du (Alibaba Group); Taixu Jiang (Alibaba Group)"
+      },
+      {
+        "title": "When Multi-scenario Meets Multi-attribute: Scenario and Attribute-aware Recommendation with Contrastive Learning",
+        "authors": "Jin Huang (Dewu)*; Yu Qian (Dewu); Yang Zixu (Dewu); zhijun sun (Dewu)"
+      },
+      {
+        "title": "BAG-RAG: Bidirectional Retrieval-Augmented Generation Based on Multi-Layer Semantic Graphs for Budget Auditing QA",
+        "authors": "Gaofeng Xu (Southeast University)*; Runzhe Wang (Southeast University); Guilin Qi (Southeast University); Xiaolong Ye (China Mobile(Zhejiang) Research & Innovation Institute); Yongrui Chen (Southeast University); Yuxin  Zhang (Southeast University); Xinbang Dai (Southeast University); Yuan Meng (Southeast University); Shenwen  Zhong (China Mobile(Zhejiang) Research & Innovation Institute)"
+      },
+      {
+        "title": "Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs",
+        "authors": "Yu Li (Southeast University)*; Yi Huang (China Mobile Research Institute); Guilin Qi (Southeast University); Junlan Feng (China Mobile Research Institute); Nan Hu (Southeast University); Songlin Zhai (Southeast University); Haohan Xue (Southeast University); Yongrui Chen (Southeast University); Ruoyan Shen (Southeast University); Tongtong Wu (Monash University)"
+      },
+      {
+        "title": "A Predict-Then-Optimize Customer Allocation Framework for Online Fund Recommendation",
+        "authors": "Xing Tang (Tencent)*; Yunpeng Weng (FiT, Tencent); Fuyuan Lyu (McGill University); Dugang Liu (Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), Shenzhen University); Xiuqiang He (Tencent)"
+      },
+      {
+        "title": "Contrastive Scenario-Aware Meta Prompting for Multi-scenario Recommendation",
+        "authors": "Ang Li (antgroup)*; Jian Hu (Queen Mary University of London); Ke Ding (Ant Financial Services Group); Xiaolu Zhang (Ant Financial Services Group); Jun Zhou (Ant Financial); Yong He (antgroup)"
+      },
+      {
+        "title": "Relation Discovery via Graph Neural Networks in the Era of Large Language Model",
+        "authors": "Zhiqiang Wang (Institute of Automation，Chinese Academy of Sciences)*"
+      }
+    ],
+    "Long Papers": [
+      {
+        "title": "AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System",
+        "authors": "Yongchun Zhu (ByteDance)*; Jingwu Chen (ByteDance); Ling Chen (ByteDance); Yitan Li (ByteDance); Feng Zhang (ByteDance); Zuotao Liu (ByteDance)"
+      },
+      {
+        "title": "OLearning: A Geo-Distributed System for Device-Cloud Collaborative Computing",
+        "authors": "Min Fang (OPPO Research Institute)*; Zhihui Fu (OPPO Research Institute\t); Xiangmou Qu (OPPO Research Institute); Ruiguang Pei (OPPO Research Institute); Jun Wang (OPPO Research Institute); Lan Zhang (Independent Researcher)"
+      },
+      {
+        "title": "LLM-based Keyphrase-augmented Framework for Semantic Relevance Assessment in E-commerce",
+        "authors": "Guoliang Zhang (University of Science and Technology Beijing)*; Gang Zhao (Alibaba Group); Zhiyuan Zeng (\tAlibaba Group); Songyan Liu (Alibaba Group); Haoyue Zhang (University of Science and Technology Beijing); Hui Zhao (alibaba group); Tianshu Wu (Alibaba Group); Pengjie Wang (Alibaba Group); Jian Xu (Alibaba Group); Bo Zheng (Alibaba Group); Baolin Liu (University of Science and Technology Beijing)"
+      }
+    ]
+  },
+  "demo": {
+    "Accept": [
+      {
+        "title": "eBASE: Real-Time Battery Swap Recommendation System for eBike Users",
+        "authors": "Siwei Zhou (Zhejiang Normal University, Jinhua); Yongchun Gu (Zhejiang Normal University, Jinhua); Zhao Li (Hangzhou Yugu Technology Co.,Ltd, Hangzhou); Yangzhen Li (Hangzhou Yugu Technology Co.,Ltd, Hangzhou); Chengxiang Zhu (Hangzhou Yugu Technology Co.,Ltd, Hangzhou); Xuanwu Liu (Hangzhou Yugu Technology Co.,Ltd, Hangzhou); Jiaming Huang (Hangzhou Yugu Technology Co.,Ltd, Hangzhou); Ming Li (Zhejiang Normal University, Jinhua)*; Xuyun Zhang (Macquarie University, Sydney); Minglu Li (Zhejiang Normal University, Jinhua)"
+      },
+      {
+        "title": "KungfuDB: a low latency in-memory time series database for quantitative trading systems",
+        "authors": "Xiaodong Li (College of Computer Science and Software Engineering, Hohai University)*; Yan Zhou ( College of Computer Science and Software Engineering, Hohai University.); Wenkai Liu (Kungfu Origin Technology); Yizhi Zhang (Kungfu Origin Technology); Keren Dong (Kungfu Origin Technology)"
+      },
+      {
+        "title": "STAR: Spatio-Temporal Trajectory Recovery for Sparse and Uncertain Marine Trajectories",
+        "authors": "Xiaolin Han (Northwestern Polytechnical University)*; Songliang Bai (Northwestern Polytechnical University); Gaukhar ISSAYEVA (Northwestern Polytechnical University\t); Chenhao Ma (Chinese University of Hong Kong, Shenzhen); Fang Li (National Engineering Research Center of Parallel Computer Technology  ); Xuequn Shang (Northwestern Polytechnical University\t)"
+      },
+      {
+        "title": "GraphCBAL-Sys: A Class-Balanced Active Learning System for Graphs",
+        "authors": "Chengcheng Yu (Shanghai Polytechnic University)*; Wenqian Zhou (Shanghai Polytechnic University); Jiahui Wang (Shanghai Polytechnic University); Fangshu Chen (Shanghai Polytechnic University); Jiapeng Zhu (East China Normal University); Xiang Li (East China Normal University)"
+      },
+      {
+        "title": "MMKG-RAG: Retrieval-Augmented Generation with Multi-Modal Knowledge Graph",
+        "authors": "Shuaitao Zhao (Tongji University); Shijie Luo (Tongji University); Xinyuan Lu (Tongji University); Weixiong Rao (Tongji University)*"
+      },
+      {
+        "title": "Qibo Graph: A Knowledge Graph for Traditional Chinese Medicine",
+        "authors": "Haonan Yang (Tianjin University); Xiangyu  Ji (Tianjin University); Xin Wang (Tianjin University)*; Yongzhe Jia (Tianjin University); Dawei Xu (Tech Fantasy Co., Ltd.)"
+      },
+      {
+        "title": "STREAM: A Framework for Sequence Data Analysis, Modeling, and Anomaly Alerts",
+        "authors": "Wan Bae (Seattle University)*; Shayma Alkobaisi (United Arab Emirates University); Pavleen Kaur (Geospaces.org)"
+      },
+      {
+        "title": "Pharmaformer: A Transformer-based pharmacokinetic prediction system",
+        "authors": "Shen Linjie (Zhejiang Gongshang University); Li Zhao (Zhejiang Lab); Ma Kuifen (Department of Clinical Pharmacy, the First Affiliated Hospital, Zhejiang University School of Medicine); Jiang Saiping (Department of Clinical Pharmacy, the First Affiliated Hospital, Zhejiang University School of Medicine); Ma Wenrui (Zhejiang Gongshang University)*"
+      },
+      {
+        "title": "Declarative Privacy-Preserving Inference Queries",
+        "authors": "Hong Guan (Arizona State University); Ansh  Tiwari (Arizona State University); Summer Gautier (Arizona State University); Rajan Hari Ambrish (Arizona State University); Lixi Zhou (Arizona State University); Yancheng Wang (Arizona State University); Deepti Gupta (Texas A&M - Central Texas); Yingzhen Yang (Arizona State University); Chaowei Xiao (Arizona State University); Kanchan Chowdhury (Arizona State University); Jia Zou (Arizona State University)*"
+      }
+    ]
+  }
+}

@@ -12,6 +12,9 @@ import TutorialProposal from "./pages/calls/tutorial-proposal.tsx";
 import PhDConsortiumPaper from "./pages/calls/hpd-consortium-paper.tsx";
 import ImportantDates from "./pages/important-dates.tsx";
 import ProgramTutorials from "./pages/program/tutorials.tsx";
+import ProgramResearch from "./pages/program/research.tsx";
+import ProgramIndustrial from "./pages/program/industrial.tsx";
+import ProgramDemo from "./pages/program/demo.tsx";
 
 function App() {
   return (
@@ -49,6 +52,9 @@ function App() {
             element={<PhDConsortiumPaper />}
           />
           <Route path="/program/tutorials" element={<ProgramTutorials />} />
+          <Route path="/program/research" element={<ProgramResearch />} />
+          <Route path="/program/industrial" element={<ProgramIndustrial />} />
+          <Route path="/program/demo" element={<ProgramDemo />} />
           <Route path="/important-dates" element={<ImportantDates />} />
         </Routes>
       </HashRouter>

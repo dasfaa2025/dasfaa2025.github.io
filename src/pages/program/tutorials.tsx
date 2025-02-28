@@ -3,6 +3,7 @@ import PageBanner from "../../components/PageBanner";
 import { HashLink } from "react-router-hash-link";
 import { FloatButton } from "antd";
 import { useEffect } from "react";
+import { scrollWithOffset } from "./index.ts";
 
 const tutorials = [
   "Social Media Data Analytics for Disaster Management",
@@ -13,12 +14,6 @@ const tutorials = [
   "Neural Network Reprogrammability: A Unified Theme for Parameter-Efficient Model Adaptation",
   "AI for Database Optimization: Cardinality Estimation, Learned Query Execution, and Indexing",
 ];
-
-const scrollWithOffset = (el: HTMLElement) => {
-  const yCoordinate = el.getBoundingClientRect().top + window.pageYOffset;
-  const yOffset = -96;
-  window.scrollTo({ top: yCoordinate + yOffset, behavior: "smooth" });
-};
 
 const ProgramTutorials = () => {
   useEffect(() => {

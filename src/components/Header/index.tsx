@@ -117,6 +117,18 @@ const ProgramMenu = [
     href: "/program/tutorials",
     label: "Tutorials",
   },
+  {
+    href: "/program/research",
+    label: "Research Papers",
+  },
+  {
+    href: "/program/industrial",
+    label: "Industrial Papers",
+  },
+  {
+    href: "/program/demo",
+    label: "Demo Papers",
+  },
 ];
 const ParticipateMenu = [
   {
@@ -156,7 +168,10 @@ const Header = () => {
     >
       <div className="flex items-center justify-center px-0 py-3 space-x-0 mx-auto max-sm:justify-between max-sm:w-full max-sm:px-4">
         <Link to="/">
-          <img src={LogoDASFAA2025} className="block h-[18px] w-auto" />
+          <img
+            src={LogoDASFAA2025}
+            className="block h-[18px] min-w-[180px] w-auto object-contain"
+          />
         </Link>
         <div className="flex space-x-4 items-center max-sm:hidden pl-4">
           <Menu to="/" active={pathname === "/"}>
