@@ -118,16 +118,16 @@ const ProgramMenu = [
     label: "Tutorials",
   },
 ];
-// const ParticipateMenu = [
-//   {
-//     href: "https://eventregistration.smu.edu.sg/Q0WLmb/",
-//     label: "Registration",
-//     opts: {
-//       target: "_blank",
-//       rel: "noreferrer noopener",
-//     },
-//   },
-// ];
+const ParticipateMenu = [
+  {
+    href: "https://eventregistration.smu.edu.sg/Q0WLmb/",
+    label: "Registration",
+    opts: {
+      target: "_blank",
+      rel: "noreferrer noopener",
+    },
+  },
+];
 
 const Header = () => {
   const menuRef = useRef<HTMLDivElement>(null);
@@ -180,9 +180,9 @@ const Header = () => {
           <Menu to="/important-dates" active={pathname === "/important-dates"}>
             Important Dates
           </Menu>
-          {/*<Menu subMenu={ParticipateMenu} href={false}>*/}
-          {/*  Participate*/}
-          {/*</Menu>*/}
+          <Menu subMenu={ParticipateMenu} href={false}>
+            Participate
+          </Menu>
         </div>
         <div className="hidden max-sm:block pr-2">
           {mobileMenuVisible ? (
@@ -258,18 +258,18 @@ const Header = () => {
         <Menu to="/important-dates" active={pathname === "/important-dates"}>
           Important Dates
         </Menu>
-        {/*<Divider>*/}
-        {/*  <div className="text-black/40">Participate</div>*/}
-        {/*</Divider>*/}
-        {/*{ParticipateMenu.map((e) => (*/}
-        {/*  <Menu*/}
-        {/*    key={`mobile-${e.href}`}*/}
-        {/*    to={e.href}*/}
-        {/*    active={pathname === e.href}*/}
-        {/*  >*/}
-        {/*    {e.label}*/}
-        {/*  </Menu>*/}
-        {/*))}*/}
+        <Divider>
+          <div className="text-black/40">Participate</div>
+        </Divider>
+        {ParticipateMenu.map((e) => (
+          <Menu
+            key={`mobile-${e.href}`}
+            to={e.href}
+            active={pathname === e.href}
+          >
+            {e.label}
+          </Menu>
+        ))}
       </div>
     </div>
   );
