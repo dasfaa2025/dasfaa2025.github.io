@@ -5,7 +5,13 @@ export type ProgramPapersItem = {
   authors: string;
 };
 
-type ProgramPapersItemStatus = "Long Papers" | "Short Papers" | "Accept";
+type ProgramPapersItemStatus =
+  | "Long Papers"
+  | "Short Papers"
+  | "Accept"
+  | "group1"
+  | "group2"
+  | "group3";
 
 export type ProgramPapersDataType = {
   research: Record<ProgramPapersItemStatus, ProgramPapersItem[]>;

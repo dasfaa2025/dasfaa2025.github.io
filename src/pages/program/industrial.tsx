@@ -31,38 +31,57 @@ const ProgramIndustrial = () => {
             <HashLink
               smooth={true}
               className="text-[#936bff]"
-              to="#long-papers"
+              to="#group-1"
               scroll={(el) => scrollWithOffset(el)}
             >
-              Long Papers
+              Group 1: Recommendation Systems and E-commerce
             </HashLink>
           </li>
           <li>
             <HashLink
               smooth={true}
               className="text-[#936bff]"
-              to="#short-papers"
+              to="#group-2"
               scroll={(el) => scrollWithOffset(el)}
             >
-              Short Papers
+              Group 2: LLMs and Knowledge Graphs
+            </HashLink>
+          </li>
+          <li>
+            <HashLink
+              smooth={true}
+              className="text-[#936bff]"
+              to="#group-3"
+              scroll={(el) => scrollWithOffset(el)}
+            >
+              Group 3: Distributed Computing and Prediction
             </HashLink>
           </li>
         </ul>
-        <h2 className="mb-0" id="long-papers">
-          Long Papers
+        <h2 className="mb-0" id="group-1">
+          Group 1: Recommendation Systems and E-commerce
         </h2>
         <Table<ProgramPapersItem>
           columns={columns}
-          dataSource={ProgramPapersData.industry["Long Papers"]}
+          dataSource={ProgramPapersData.industry.group1}
           pagination={false}
         />
 
-        <h2 className="mb-0" id="short-papers">
-          Short Papers
+        <h2 className="mb-0" id="group-2">
+          Group 2: LLMs and Knowledge Graphs
         </h2>
         <Table<ProgramPapersItem>
           columns={columns}
-          dataSource={ProgramPapersData.industry["Short Papers"]}
+          dataSource={ProgramPapersData.industry.group2}
+          pagination={false}
+        />
+
+        <h2 className="mb-0" id="group-3">
+          Group 3: Distributed Computing and Prediction
+        </h2>
+        <Table<ProgramPapersItem>
+          columns={columns}
+          dataSource={ProgramPapersData.industry.group3}
           pagination={false}
         />
       </article>

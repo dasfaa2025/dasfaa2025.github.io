@@ -906,68 +906,70 @@
     ]
   },
   "industry": {
-    "Short Papers": [
+    "group1": [
       {
-        "title": "A Novel Parallel Graph Computing Model for Unsupervised Fraud Detection",
-        "authors": "Jiahui Wang (Shanghai Polytechnic University); Rui Sun (Shanghai Polytechnic University); Fangshu Chen (Shanghai Polytechnic University)*; Wei Zhang (Shanghai Polytechnic University); Panpan Feng (iQiyi Inc); Chengcheng Yu (Shanghai Polytechnic University)"
-      },
-      {
-        "title": "Driver Recipient Selection for Traffic Safety Education via Uplift Modeling",
-        "authors": "Mingqian Li (Zhejiang Lab); Mo Li (Nanyang Technological University)*; Panrong Tong (Alibaba Group); Zhongming Jin (Alibaba Group)"
-      },
-      {
-        "title": "CloudChurn: Optimizing Enterprise Customer Churn Prediction in Cloud Services for Huawei Cloud",
-        "authors": "Hengyu Ye (Shanghai Jiao Tong University); Yulong Song (Shanghai Jiao Tong University, Shanghai, China); Zhipeng Bian (Huawei Cloud Computing Technologies Co.); Xiaofeng Gao (Shanghai Jiaotong University)*; Guihai Chen (Shanghai Jiao Tong University); Xin Jin (Huawei Cloud Computing Technologies Co.); Zhenli Sheng (Huawei Technologies Co., Ltd.)"
-      },
-      {
-        "title": "ProRAG: Towards Reliable and Proficient AIGC based Digital Avatar",
-        "authors": "Yongkang Zhou  (East China Normal University ); Muyang Yan (East China Normal University); Junjie Yao (East China Normal University)*; Gang Xu (East China Normal University)"
-      },
-      {
-        "title": "Interpretable Word Representation Learning Framework for Modeling Semantic Relevance in E-commerce",
-        "authors": "Haoyue Zhang (University of Science and Technology Beijing)*; Zhiyuan Zeng (Alibaba Group); Guoliang Zhang (University of Science and Technology Beijing); Hui Zhao (alibaba group); Tianshu Wu (Alibaba Group); Pengjie Wang (Alibaba Group); Jian Xu (Alibaba Group); Bo Zheng (Alibaba Group); Baolin Liu (University of Science and Technology Beijing)"
-      },
-      {
-        "title": "ACA-Net: Future Graph Learning for Logistical Demand-Supply Forecasting",
-        "authors": "Jiacheng Shi (Alibaba Group); Haibin Wei (Alibaba Group)*; Jiang Wang (Alibaba Group); Xiaowei Xu (Alibaba Group); Longzhi Du (Alibaba Group); Taixu Jiang (Alibaba Group)"
-      },
-      {
-        "title": "When Multi-scenario Meets Multi-attribute: Scenario and Attribute-aware Recommendation with Contrastive Learning",
-        "authors": "Jin Huang (Dewu)*; Yu Qian (Dewu); Yang Zixu (Dewu); zhijun sun (Dewu)"
-      },
-      {
-        "title": "BAG-RAG: Bidirectional Retrieval-Augmented Generation Based on Multi-Layer Semantic Graphs for Budget Auditing QA",
-        "authors": "Gaofeng Xu (Southeast University)*; Runzhe Wang (Southeast University); Guilin Qi (Southeast University); Xiaolong Ye (China Mobile(Zhejiang) Research & Innovation Institute); Yongrui Chen (Southeast University); Yuxin  Zhang (Southeast University); Xinbang Dai (Southeast University); Yuan Meng (Southeast University); Shenwen  Zhong (China Mobile(Zhejiang) Research & Innovation Institute)"
-      },
-      {
-        "title": "Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs",
-        "authors": "Yu Li (Southeast University)*; Yi Huang (China Mobile Research Institute); Guilin Qi (Southeast University); Junlan Feng (China Mobile Research Institute); Nan Hu (Southeast University); Songlin Zhai (Southeast University); Haohan Xue (Southeast University); Yongrui Chen (Southeast University); Ruoyan Shen (Southeast University); Tongtong Wu (Monash University)"
-      },
-      {
-        "title": "A Predict-Then-Optimize Customer Allocation Framework for Online Fund Recommendation",
-        "authors": "Xing Tang (Tencent)*; Yunpeng Weng (FiT, Tencent); Fuyuan Lyu (McGill University); Dugang Liu (Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), Shenzhen University); Xiuqiang He (Tencent)"
-      },
-      {
-        "title": "Contrastive Scenario-Aware Meta Prompting for Multi-scenario Recommendation",
-        "authors": "Ang Li (antgroup)*; Jian Hu (Queen Mary University of London); Ke Ding (Ant Financial Services Group); Xiaolu Zhang (Ant Financial Services Group); Jun Zhou (Ant Financial); Yong He (antgroup)"
-      },
-      {
-        "title": "Relation Discovery via Graph Neural Networks in the Era of Large Language Model",
-        "authors": "Zhiqiang Wang (Institute of Automation，Chinese Academy of Sciences)*"
-      }
-    ],
-    "Long Papers": [
-      {
-        "title": "AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System",
+        "title": "AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System (Long Paper)",
         "authors": "Yongchun Zhu (ByteDance)*; Jingwu Chen (ByteDance); Ling Chen (ByteDance); Yitan Li (ByteDance); Feng Zhang (ByteDance); Zuotao Liu (ByteDance)"
       },
       {
-        "title": "OLearning: A Geo-Distributed System for Device-Cloud Collaborative Computing",
+        "title": "When Multi-scenario Meets Multi-attribute: Scenario and Attribute-aware Recommendation with Contrastive Learning (Short Paper)",
+        "authors": "Jin Huang (Dewu)*; Yu Qian (Dewu); Yang Zixu (Dewu); zhijun sun (Dewu)"
+      },
+      {
+        "title": "A Predict-Then-Optimize Customer Allocation Framework for Online Fund Recommendation (Short Paper)",
+        "authors": "Xing Tang (Tencent)*; Yunpeng Weng (FiT, Tencent); Fuyuan Lyu (McGill University); Dugang Liu (Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), Shenzhen University); Xiuqiang He (Tencent)"
+      },
+      {
+        "title": "Interpretable Word Representation Learning Framework for Modeling Semantic Relevance in E-commerce (Short Paper)",
+        "authors": "Haoyue Zhang (University of Science and Technology Beijing)*; Zhiyuan Zeng (Alibaba Group); Guoliang Zhang (University of Science and Technology Beijing); Hui Zhao (alibaba group); Tianshu Wu (Alibaba Group); Pengjie Wang (Alibaba Group); Jian Xu (Alibaba Group); Bo Zheng (Alibaba Group); Baolin Liu (University of Science and Technology Beijing)"
+      },
+      {
+        "title": "Contrastive Scenario-Aware Meta Prompting for Multi-scenario Recommendation (Short Paper)",
+        "authors": "Ang Li (antgroup)*; Jian Hu (Queen Mary University of London); Ke Ding (Ant Financial Services Group); Xiaolu Zhang (Ant Financial Services Group); Jun Zhou (Ant Financial); Yong He (antgroup)"
+      }
+    ],
+    "group2": [
+      {
+        "title": "LLM-based Keyphrase-augmented Framework for Semantic Relevance Assessment in E-commerce (Long Paper)",
+        "authors": "Guoliang Zhang (University of Science and Technology Beijing)*; Gang Zhao (Alibaba Group); Zhiyuan Zeng (\tAlibaba Group); Songyan Liu (Alibaba Group); Haoyue Zhang (University of Science and Technology Beijing); Hui Zhao (alibaba group); Tianshu Wu (Alibaba Group); Pengjie Wang (Alibaba Group); Jian Xu (Alibaba Group); Bo Zheng (Alibaba Group); Baolin Liu (University of Science and Technology Beijing)"
+      },
+      {
+        "title": "Relation Discovery via Graph Neural Networks in the Era of Large Language Model (Short Paper)",
+        "authors": "Zhiqiang Wang (Institute of Automation，Chinese Academy of Sciences)*"
+      },
+      {
+        "title": "Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs (Short Paper)",
+        "authors": "Yu Li (Southeast University)*; Yi Huang (China Mobile Research Institute); Guilin Qi (Southeast University); Junlan Feng (China Mobile Research Institute); Nan Hu (Southeast University); Songlin Zhai (Southeast University); Haohan Xue (Southeast University); Yongrui Chen (Southeast University); Ruoyan Shen (Southeast University); Tongtong Wu (Monash University)"
+      },
+      {
+        "title": "ProRAG: Towards Reliable and Proficient AIGC based Digital Avatar (Short Paper)",
+        "authors": "Yongkang Zhou  (East China Normal University ); Muyang Yan (East China Normal University); Junjie Yao (East China Normal University)*; Gang Xu (East China Normal University)"
+      },
+      {
+        "title": "BAG-RAG: Bidirectional Retrieval-Augmented Generation Based on Multi-Layer Semantic Graphs for Budget Auditing QA (Short Paper)",
+        "authors": "Gaofeng Xu (Southeast University)*; Runzhe Wang (Southeast University); Guilin Qi (Southeast University); Xiaolong Ye (China Mobile(Zhejiang) Research & Innovation Institute); Yongrui Chen (Southeast University); Yuxin  Zhang (Southeast University); Xinbang Dai (Southeast University); Yuan Meng (Southeast University); Shenwen  Zhong (China Mobile(Zhejiang) Research & Innovation Institute)"
+      }
+    ],
+    "group3": [
+      {
+        "title": "OLearning: A Geo-Distributed System for Device-Cloud Collaborative Computing (Long Paper)",
         "authors": "Min Fang (OPPO Research Institute)*; Zhihui Fu (OPPO Research Institute\t); Xiangmou Qu (OPPO Research Institute); Ruiguang Pei (OPPO Research Institute); Jun Wang (OPPO Research Institute); Lan Zhang (Independent Researcher)"
       },
       {
-        "title": "LLM-based Keyphrase-augmented Framework for Semantic Relevance Assessment in E-commerce",
-        "authors": "Guoliang Zhang (University of Science and Technology Beijing)*; Gang Zhao (Alibaba Group); Zhiyuan Zeng (\tAlibaba Group); Songyan Liu (Alibaba Group); Haoyue Zhang (University of Science and Technology Beijing); Hui Zhao (alibaba group); Tianshu Wu (Alibaba Group); Pengjie Wang (Alibaba Group); Jian Xu (Alibaba Group); Bo Zheng (Alibaba Group); Baolin Liu (University of Science and Technology Beijing)"
+        "title": "Driver Recipient Selection for Traffic Safety Education via Uplift Modeling (Short Paper)",
+        "authors": "Mingqian Li (Zhejiang Lab); Mo Li (Nanyang Technological University)*; Panrong Tong (Alibaba Group); Zhongming Jin (Alibaba Group)"
+      },
+      {
+        "title": "A Novel Parallel Graph Computing Model for Unsupervised Fraud Detection (Short Paper)",
+        "authors": "Jiahui Wang (Shanghai Polytechnic University); Rui Sun (Shanghai Polytechnic University); Fangshu Chen (Shanghai Polytechnic University)*; Wei Zhang (Shanghai Polytechnic University); Panpan Feng (iQiyi Inc); Chengcheng Yu (Shanghai Polytechnic University)"
+      },
+      {
+        "title": "ACA-Net: Future Graph Learning for Logistical Demand-Supply Forecasting (Short Paper)",
+        "authors": "Jiacheng Shi (Alibaba Group); Haibin Wei (Alibaba Group)*; Jiang Wang (Alibaba Group); Xiaowei Xu (Alibaba Group); Longzhi Du (Alibaba Group); Taixu Jiang (Alibaba Group)"
+      },
+      {
+        "title": "CloudChurn: Optimizing Enterprise Customer Churn Prediction in Cloud Services for Huawei Cloud (Short Paper)",
+        "authors": "Hengyu Ye (Shanghai Jiao Tong University); Yulong Song (Shanghai Jiao Tong University, Shanghai, China); Zhipeng Bian (Huawei Cloud Computing Technologies Co.); Xiaofeng Gao (Shanghai Jiaotong University)*; Guihai Chen (Shanghai Jiao Tong University); Xin Jin (Huawei Cloud Computing Technologies Co.); Zhenli Sheng (Huawei Technologies Co., Ltd.)"
       }
     ]
   },
