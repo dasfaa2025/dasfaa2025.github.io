@@ -68,11 +68,10 @@ const TutorialProposal = () => {
           of coverage and depth of contents. Acceptance notifications will be
           sent. Tutorials will be presented during the main DASFAA 2025
           conference as parallel sessions. The tutorial slides will be made
-          available on the conference website. The conference registration fee
-          will be waived for tutorial speakers. An honorarium will also be paid
-          for the tutorial presenter(s). The topics of accepted tutorials and
-          the names of the presenters will be included in the conference
-          proceedings.
+          available on the conference website. Tutorial speaker support: SGD700
+          for each tutorial (Tutorial speakers should pay for the conference
+          registration fee). The topics of accepted tutorials and the names of
+          the presenters will be included in the conference proceedings.
         </p>
 
         <h2>Submission Website</h2>
