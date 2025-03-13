@@ -10,6 +10,17 @@ import { HashLink } from "react-router-hash-link";
 
 const columns: TableProps<ProgramPapersItem>["columns"] = [
   {
+    title: "Serial No",
+    dataIndex: "index",
+    key: "index",
+    render: (_text, _record, index) => index + 1,
+  },
+  {
+    title: "Paper ID",
+    dataIndex: "id",
+    key: "id",
+  },
+  {
     title: "Title",
     dataIndex: "title",
     key: "title",
@@ -62,6 +73,7 @@ const ProgramIndustrial = () => {
           Group 1: Recommendation Systems and E-commerce
         </h2>
         <Table<ProgramPapersItem>
+          rowKey="id"
           columns={columns}
           dataSource={ProgramPapersData.industry.group1}
           pagination={false}
@@ -71,6 +83,7 @@ const ProgramIndustrial = () => {
           Group 2: LLMs and Knowledge Graphs
         </h2>
         <Table<ProgramPapersItem>
+          rowKey="id"
           columns={columns}
           dataSource={ProgramPapersData.industry.group2}
           pagination={false}
@@ -80,6 +93,7 @@ const ProgramIndustrial = () => {
           Group 3: Distributed Computing and Prediction
         </h2>
         <Table<ProgramPapersItem>
+          rowKey="id"
           columns={columns}
           dataSource={ProgramPapersData.industry.group3}
           pagination={false}

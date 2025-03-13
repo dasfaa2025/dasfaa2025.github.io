@@ -5,18 +5,10 @@ export type ProgramPapersItem = {
   authors: string;
 };
 
-type ProgramPapersItemStatus =
-  | "Long Papers"
-  | "Short Papers"
-  | "Accept"
-  | "group1"
-  | "group2"
-  | "group3";
-
 export type ProgramPapersDataType = {
-  research: Record<ProgramPapersItemStatus, ProgramPapersItem[]>;
-  industry: Record<ProgramPapersItemStatus, ProgramPapersItem[]>;
-  demo: Record<ProgramPapersItemStatus, ProgramPapersItem[]>;
+  research: Record<string, ProgramPapersItem[]>;
+  industry: Record<string, ProgramPapersItem[]>;
+  demo: Record<string, ProgramPapersItem[]>;
 };
 
 const ProgramPapersData = _ProgramPapersData as ProgramPapersDataType;
