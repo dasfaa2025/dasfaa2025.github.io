@@ -7,7 +7,7 @@ const Workshops = () => {
   return (
     <>
       <PageBanner title="Call for Workshops" image={Banner2} />
-      <article className="prose">
+      <article className="prose w-full">
         <p>
           We invite workshop proposals on topics related to database systems and
           their applications. We solicit proposals for workshops that explore

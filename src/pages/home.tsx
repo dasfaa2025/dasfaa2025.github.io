@@ -48,7 +48,7 @@ const Home = () => {
           />
         </div>
       </div>
-      <article className="prose">
+      <article className="prose w-full">
         <h2 className="text-justify">
           <FadeText
             text="Welcome to the 30th International Conference on Database Systems for

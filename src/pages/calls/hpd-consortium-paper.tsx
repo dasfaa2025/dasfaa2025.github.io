@@ -7,7 +7,7 @@ const PhDConsortiumPaper = () => {
   return (
     <>
       <PageBanner title="Call for PhD Consortium Paper" image={Banner2} />
-      <article className="prose">
+      <article className="prose w-full">
         <p>
           The DASFAA PhD Consortium provides a platform for PhD students to
           present their PhD proposals and to seek comments and suggestions from

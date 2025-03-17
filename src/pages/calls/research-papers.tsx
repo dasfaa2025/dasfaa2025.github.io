@@ -7,7 +7,7 @@ const ResearchPapers = () => {
   return (
     <>
       <PageBanner title="Call for research papers" image={Banner2} />
-      <article className="prose">
+      <article className="prose w-full">
         <p>
           The International Conference on Database Systems for Advanced
           Applications (DASFAA) is a leading international forum for discussing

@@ -6,7 +6,7 @@ const SteeringCommittee = () => {
   return (
     <>
       <PageBanner title="Steering Committee Members" image={Banner3} />
-      <article className="prose">
+      <article className="prose w-full">
         <h2>Chair</h2>
         <ul>
           <li>

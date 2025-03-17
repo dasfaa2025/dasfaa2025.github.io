@@ -31,7 +31,7 @@ const ProgramDemo = () => {
   return (
     <>
       <PageBanner title="Demo Papers" image={Banner4} />
-      <article className="prose">
+      <article className="prose w-full">
         <Table<ProgramPapersItem>
           rowKey="id"
           columns={columns}

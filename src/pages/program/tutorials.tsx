@@ -38,7 +38,7 @@ const ProgramTutorials = () => {
   return (
     <>
       <PageBanner title="Tutorials" image={Banner4} />
-      <article className="prose">
+      <article className="prose w-full">
         <h2>Selected Tutorials</h2>
         <ul>
           {tutorials.map((e, index) => (

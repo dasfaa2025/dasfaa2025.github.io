@@ -6,7 +6,7 @@ const ImportantDates = () => {
   return (
     <>
       <PageBanner title="Important Dates" image={Banner1} />
-      <article className="prose">
+      <article className="prose w-full">
         <h2>Conference Dates</h2>
         <DateTable
           values={[

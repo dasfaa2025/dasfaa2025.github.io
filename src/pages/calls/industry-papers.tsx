@@ -7,7 +7,7 @@ const IndustryPapers = () => {
   return (
     <>
       <PageBanner title="Call For Industry Papers" image={Banner2} />
-      <article className="prose">
+      <article className="prose w-full">
         <p>
           The Industrial & Practitioner Track of the 30th International
           Conference on Database Systems for Advanced Applications (DASFAA-2025)

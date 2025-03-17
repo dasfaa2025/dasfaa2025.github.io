@@ -9,7 +9,7 @@ const OrganizingCommittee = () => {
   return (
     <>
       <PageBanner title="Organizing Committee" image={Banner3} />
-      <article className="prose">
+      <article className="prose w-full">
         <h2>General Co-Chairs</h2>
         <div className={memberlistClassName}>
           <MemberCard

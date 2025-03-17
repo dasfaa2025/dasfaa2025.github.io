@@ -7,7 +7,7 @@ const TutorialProposal = () => {
   return (
     <>
       <PageBanner title="Call for Tutorial Proposal" image={Banner2} />
-      <article className="prose">
+      <article className="prose w-full">
         <p>
           The goal of the DASFAA 2025 tutorial track is to offer the conference
           attendees an introduction to the state-of-the-art topics in research,

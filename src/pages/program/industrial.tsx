@@ -36,7 +36,7 @@ const ProgramIndustrial = () => {
   return (
     <>
       <PageBanner title="Industrial Papers" image={Banner4} />
-      <article className="prose">
+      <article className="prose w-full">
         <ul>
           <li>
             <HashLink
