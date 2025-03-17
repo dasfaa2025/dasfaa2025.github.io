@@ -114,6 +114,10 @@ const WorkshopsMenu = [
 ];
 const ProgramMenu = [
   {
+    href: "/program/keynotes",
+    label: "Keynotes",
+  },
+  {
     href: "/program/tutorials",
     label: "Tutorials",
   },

@@ -15,6 +15,7 @@ import ProgramTutorials from "./pages/program/tutorials.tsx";
 import ProgramResearch from "./pages/program/research.tsx";
 import ProgramIndustrial from "./pages/program/industrial.tsx";
 import ProgramDemo from "./pages/program/demo.tsx";
+import ProgramKeynotes from "./pages/program/keynotes.tsx";
 
 function App() {
   return (
@@ -51,6 +52,7 @@ function App() {
             path="/calls/hpd-consortium-paper"
             element={<PhDConsortiumPaper />}
           />
+          <Route path="/program/keynotes" element={<ProgramKeynotes />} />
           <Route path="/program/tutorials" element={<ProgramTutorials />} />
           <Route path="/program/research" element={<ProgramResearch />} />
           <Route path="/program/industrial" element={<ProgramIndustrial />} />

@@ -21,6 +21,9 @@ import AvatarYiYu from "./avatars/Yi Yu.jpg";
 import AvatarYuchenLI from "./avatars/Yuchen LI.jpg";
 import AvatarYangShi from "./avatars/Yang Shi.jpg";
 import AvatarZeyiWen from "./avatars/Zeyi Wen.jpg";
+import AvatarJianPei from "./avatars/Jian Pei.jpg";
+import AvatarMeeyoungCha from "./avatars/Meeyoung Cha.jpg";
+import AvatarXingXie from "./avatars/Xing Xie.jpg";
 
 const Avatars = {
   AvatarAkiyoNADAMOTO,
@@ -40,5 +43,8 @@ const Avatars = {
   AvatarYuchenLI,
   AvatarYangShi,
   AvatarZeyiWen,
+  AvatarJianPei,
+  AvatarMeeyoungCha,
+  AvatarXingXie,
 };
 export { LogoDASFAA2025, Banner1, Banner2, Banner3, Banner4, Avatars };
