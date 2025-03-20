@@ -143,6 +143,10 @@ const ParticipateMenu = [
       rel: "noreferrer noopener",
     },
   },
+  {
+    href: "/participate/hotel-information",
+    label: "Hotel Information",
+  },
 ];
 
 const Header = () => {

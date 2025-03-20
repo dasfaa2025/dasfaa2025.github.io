@@ -16,6 +16,7 @@ import ProgramResearch from "./pages/program/research.tsx";
 import ProgramIndustrial from "./pages/program/industrial.tsx";
 import ProgramDemo from "./pages/program/demo.tsx";
 import ProgramKeynotes from "./pages/program/keynotes.tsx";
+import HotelInformation from "./pages/participate/hotel-information.tsx";
 
 function App() {
   return (
@@ -58,6 +59,10 @@ function App() {
           <Route path="/program/industrial" element={<ProgramIndustrial />} />
           <Route path="/program/demo" element={<ProgramDemo />} />
           <Route path="/important-dates" element={<ImportantDates />} />
+          <Route
+            path="/participate/hotel-information"
+            element={<HotelInformation />}
+          />
         </Routes>
       </HashRouter>
     </>
