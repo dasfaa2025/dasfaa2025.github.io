@@ -1,0 +1,92 @@
+[
+    {
+        "session": "1. Recommendation Systems and E-commerce ",
+        "papers": [
+            {
+                "paper_id": "564",
+                "paper_title": "AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System (Long Paper)",
+                "presentation_time": "20"
+            },
+            {
+                "paper_id": "550",
+                "paper_title": "When Multi-scenario Meets Multi-attribute: Scenario and Attribute-aware Recommendation with Contrastive Learning (Short Paper)",
+                "presentation_time": "15"
+            },
+            {
+                "paper_id": "591",
+                "paper_title": "A Predict-Then-Optimize Customer Allocation Framework for Online Fund Recommendation (Short Paper)",
+                "presentation_time": "15"
+            },
+            {
+                "paper_id": "687",
+                "paper_title": "Interpretable Word Representation Learning Framework for Modeling Semantic Relevance in E-commerce (Short Paper)",
+                "presentation_time": "15"
+            },
+            {
+                "paper_id": "874",
+                "paper_title": "Contrastive Scenario-Aware Meta Prompting for Multi-scenario Recommendation (Short Paper)",
+                "presentation_time": "15"
+            }
+        ]
+    },
+    {
+        "session": "2. LLMs and Knowledge Graphs",
+        "papers": [
+            {
+                "paper_id": "692",
+                "paper_title": "LLM-based Keyphrase-augmented Framework for Semantic Relevance Assessment in E-commerce (Long Paper)",
+                "presentation_time": "20"
+            },
+            {
+                "paper_id": "871",
+                "paper_title": "ProRAG: Towards Reliable and Proficient AIGC based Digital Avatar (Short Paper)",
+                "presentation_time": "15"
+            },
+            {
+                "paper_id": "910",
+                "paper_title": "BAG-RAG: Bidirectional Retrieval-Augmented Generation Based on Multi-Layer Semantic Graphs for Budget Auditing QA (Short Paper)",
+                "presentation_time": "15"
+            },
+            {
+                "paper_id": "933",
+                "paper_title": "Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs (Short Paper)",
+                "presentation_time": "15"
+            },
+            {
+                "paper_id": "937",
+                "paper_title": "Relation Discovery via Graph Neural Networks in the Era of Large Language Model (Short Paper)",
+                "presentation_time": "15"
+            }
+        ]
+    },
+    {
+        "session": "3. Distributed Computing and Prediction ",
+        "papers": [
+            {
+                "paper_id": "845",
+                "paper_title": "OLearning: A Geo-Distributed System for Device-Cloud Collaborative Computing (Long Paper)",
+                "presentation_time": "20"
+            },
+            {
+                "paper_id": "69",
+                "paper_title": "Driver Recipient Selection for Traffic Safety Education via Uplift Modeling (Short Paper)",
+                "presentation_time": "15"
+            },
+            {
+                "paper_id": "474",
+                "paper_title": "CloudChurn: Optimizing Enterprise Customer Churn Prediction in Cloud Services for Huawei Cloud (Short Paper)",
+                "presentation_time": "15"
+            },
+            {
+                "paper_id": "496",
+                "paper_title": "ACA-Net: Future Graph Learning for Logistical Demand-Supply Forecasting (Short Paper)",
+                "presentation_time": "15"
+            },
+            {
+                "paper_id": "684",
+                "paper_title": "A Novel Parallel Graph Computing Model for Unsupervised Fraud Detection (Short Paper)",
+                "presentation_time": "15"
+            }
+        ]
+    }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "2025-05-26",
+    "data": [
+      {
+        "time": "08:00 - 09:00",
+        "empress_1": "Registration desk opens",
+        "empress_2": "",
+        "empress_3": ""
+      },
+      {
+        "time": "09:00 - 10:30",
+        "empress_1": "GDMA Workshop",
+        "empress_2": "Tutorial 1",
+        "empress_3": "Tutorial 2"
+      },
+      {
+        "time": "10:30 - 11:00",
+        "empress_1": "Coffee break",
+        "empress_2": "",
+        "empress_3": ""
+      },
+      {
+        "time": "11:00 - 12:30",
+        "empress_1": "GDMA Workshop",
+        "empress_2": "Tutorial 3",
+        "empress_3": "Tutorial 4"
+      },
+      {
+        "time": "12:30 - 13:30",
+        "empress_1": "Lunch",
+        "empress_2": "",
+        "empress_3": ""
+      },
+      {
+        "time": "13:30 - 15:00",
+        "empress_1": "BDMS Workshop",
+        "empress_2": "Tutorial 5",
+        "empress_3": "Tutorial 6"
+      },
+      {
+        "time": "15:00 - 15:30",
+        "empress_1": "Coffee break",
+        "empress_2": "",
+        "empress_3": ""
+      },
+      {
+        "time": "15:30 - 17:00",
+        "empress_1": "",
+        "empress_2": "Tutorial 7",
+        "empress_3": ""
+      }
+    ]
+  },
+  {
+    "id": "2025-05-27",
+    "data": [
+      {
+        "time": "08:00 - 09:00",
+        "empress_hall": "Registration desk opens",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": "",
+        "istana": "",
+        "connaught": ""
+      },
+      {
+        "time": "09:00 - 09:30",
+        "empress_hall": "Opening (Empress Hall 4 & 5)",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": "",
+        "istana": "",
+        "connaught": ""
+      },
+      {
+        "time": "09:30 - 10:30",
+        "empress_hall": "Keynote 1  (Empress Hall 4 & 5)",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": "",
+        "istana": "",
+        "connaught": ""
+      },
+      {
+        "time": "10:30 - 11:00",
+        "empress_hall": "Coffee break",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": "",
+        "istana": "",
+        "connaught": ""
+      },
+      {
+        "time": "11:00 - 12:30",
+        "empress_hall": "Session 1 Recommendation (I)",
+        "empress_3": "Session 2 Machine Learning (I)",
+        "empress_1": "Session 3 NLP (I)",
+        "empress_2": "Session 4 Security & Privacy (I)",
+        "istana": "Session 5 Emerging Application (I)",
+        "connaught": ""
+      },
+      {
+        "time": "12:30 - 13:30",
+        "empress_hall": "Lunch",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": "",
+        "istana": "",
+        "connaught": ""
+      },
+      {
+        "time": "13:30 - 15:00",
+        "empress_hall": "",
+        "empress_3": "",
+        "empress_1": "Session 6 Spatial-Temporal",
+        "empress_2": "Session 7 Language Model (I)",
+        "istana": "Industry Session 1",
+        "connaught": "Session 8 Recommendation (II)"
+      },
+      {
+        "time": "15:00 - 15:30",
+        "empress_hall": "Coffee break",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": "",
+        "istana": "",
+        "connaught": ""
+      },
+      {
+        "time": "15:30 - 17:00",
+        "empress_hall": "",
+        "empress_3": "",
+        "empress_1": "Session 9 Graph (I)",
+        "empress_2": "Session 10 Knowledge Graph (I)",
+        "istana": "Session 11 Language Model (II)",
+        "connaught": "Session 12 Machine Learning (II)"
+      },
+      {
+        "time": "17:30 - 18:00",
+        "empress_hall": "Poster Preparation  (Empress Hall 3, 4 & 5)",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": "",
+        "istana": "",
+        "connaught": ""
+      },
+      {
+        "time": "18:00 - 21:00",
+        "empress_hall": "Welcome Reception  (Empress Hall 3, 4 & 5)",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": "",
+        "istana": "",
+        "connaught": ""
+      }
+    ]
+  },
+  {
+    "id": "2025-05-28",
+    "data": [
+      {
+        "time": "08:00 - 09:00",
+        "empress_hall": "Registration desk opens",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": "",
+        "istana": "",
+        "connaught": ""
+      },
+      {
+        "time": "09:00 - 09:30",
+        "empress_hall": "Announcements  (Empress Hall 4 & 5)",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": "",
+        "istana": "",
+        "connaught": ""
+      },
+      {
+        "time": "09:30 - 10:30",
+        "empress_hall": "Keynote 2 (Empress Hall 4 & 5)",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": "",
+        "istana": "",
+        "connaught": ""
+      },
+      {
+        "time": "10:30 - 11:00",
+        "empress_hall": "Coffee break",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": "",
+        "istana": "",
+        "connaught": ""
+      },
+      {
+        "time": "11:00 - 12:30",
+        "empress_hall": "Industry Session 2",
+        "empress_3": "Session 13 Federated Learning",
+        "empress_1": "Session 14 Recommendation (III)",
+        "empress_2": "Session 15 Security & Privacy (II)",
+        "istana": "Session 16 Graph (II)",
+        "connaught": ""
+      },
+      {
+        "time": "12:30 - 13:30",
+        "empress_hall": "Lunch",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": "",
+        "istana": "",
+        "connaught": ""
+      },
+      {
+        "time": "13:30 - 15:00",
+        "empress_hall": "Session 17 Social",
+        "empress_3": "Session 18 Database Core (I)",
+        "empress_1": "Session 19 Emerging Application (II)",
+        "empress_2": "Demo Session",
+        "istana": "Session 20 Language Model (III)",
+        "connaught": ""
+      },
+      {
+        "time": "15:00 - 15:30",
+        "empress_hall": "Coffee break",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": "",
+        "istana": "",
+        "connaught": ""
+      },
+      {
+        "time": "15:30 - 17:00",
+        "empress_hall": "",
+        "empress_3": "",
+        "empress_1": "Session 21 Streams & Time Series",
+        "empress_2": "Session 22 NLP (II)",
+        "istana": "Session 23 Machine Learning (III)",
+        "connaught": "Session 24 Database Core (II)"
+      },
+      {
+        "time": "18:00 - 21:00",
+        "empress_hall": "Banquet dinner (Empress Hall 3, 4 & 5)",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": "",
+        "istana": "",
+        "connaught": ""
+      }
+    ]
+  },
+  {
+    "id": "2025-05-29",
+    "data": [
+      {
+        "time": "08:00 - 09:00",
+        "empress_hall": "Registration desk opens",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": ""
+      },
+      {
+        "time": "09:00 - 09:30",
+        "empress_hall": "Announcements (Empress Hall 4 & 5)",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": ""
+      },
+      {
+        "time": "09:30 - 10:30",
+        "empress_hall": "Keynote 3  (Empress Hall 4 & 5)",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": ""
+      },
+      {
+        "time": "10:30 - 11:00",
+        "empress_hall": "Coffee break",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": ""
+      },
+      {
+        "time": "11:00 - 12:30",
+        "empress_hall": "Panel session (Empress Hall 4 & 5)",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": ""
+      },
+      {
+        "time": "12:30 - 13:30",
+        "empress_hall": "Lunch",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": ""
+      },
+      {
+        "time": "13:30 - 15:00",
+        "empress_hall": "Session 25 Recommendation (IV)",
+        "empress_3": "Session 26 Text",
+        "empress_1": "Health Day",
+        "empress_2": "Trust Day"
+      },
+      {
+        "time": "15:00 - 15:30",
+        "empress_hall": "Coffee break",
+        "empress_3": "",
+        "empress_1": "",
+        "empress_2": ""
+      },
+      {
+        "time": "15:30 - 17:00",
+        "empress_hall": "Session 27 Graph(III)",
+        "empress_3": "Industry Session 3",
+        "empress_1": "Health Day",
+        "empress_2": "Trust Day"
+      }
+    ]
+  }
+]

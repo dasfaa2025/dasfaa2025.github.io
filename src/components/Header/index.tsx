@@ -114,6 +114,14 @@ const WorkshopsMenu = [
 ];
 const ProgramMenu = [
   {
+    href: "/program/program-at-a-glance",
+    label: "Program at a Glance",
+  },
+  {
+    href: "/program/session-details",
+    label: "Session Details",
+  },
+  {
     href: "/program/keynotes",
     label: "Keynotes",
   },

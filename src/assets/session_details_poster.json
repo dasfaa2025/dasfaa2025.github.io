@@ -1,0 +1,358 @@
+[
+    {
+        "paper_id": "1",
+        "paper_title": "Knowledge Hierarchy Guided Biological-Medical Database Distillation for Domain LLM Training"
+    },
+    {
+        "paper_id": "42",
+        "paper_title": "Alignment-Uniformity Aware Feature Representation Learning for CTR Prediction"
+    },
+    {
+        "paper_id": "77",
+        "paper_title": "Diffusion Based Data Augmentation for Multi-behavior Sequential Recommendation"
+    },
+    {
+        "paper_id": "89",
+        "paper_title": "Killing two birds with one stone: A Spatio-Temporal Prompt for the Inductive Spatio-Temporal Extrapolation"
+    },
+    {
+        "paper_id": "90",
+        "paper_title": "Semi-supervised Anomaly Detection with Extremely Limited Labels in Dynamic Graphs"
+    },
+    {
+        "paper_id": "101",
+        "paper_title": "RDSA: A Robust Deep Graph Clustering Framework via Dual Soft Assignment"
+    },
+    {
+        "paper_id": "102",
+        "paper_title": "Durable Community Search on Temporal Graphs"
+    },
+    {
+        "paper_id": "121",
+        "paper_title": "Anticipating Retractions in Scientific Databases using LLM-Based Citation Analysis"
+    },
+    {
+        "paper_id": "159",
+        "paper_title": "Meta Relation Assisted Explanatory Model for Heterogeneous Graph Neural Networks"
+    },
+    {
+        "paper_id": "163",
+        "paper_title": "Enhancing Explanations of Graph Neural Networks via Bridging Model-level and Instance-level Explainers"
+    },
+    {
+        "paper_id": "179",
+        "paper_title": "Mining Denoising Complementarity and Consistent Consensus for Unsupervised Multiplex Graph Representation Learning"
+    },
+    {
+        "paper_id": "181",
+        "paper_title": "Boost Dynamic Community Detection via Exploiting Member Transition Information"
+    },
+    {
+        "paper_id": "205",
+        "paper_title": "Perspective-based Multi-task Learning for Outlier Interpretation"
+    },
+    {
+        "paper_id": "215",
+        "paper_title": "Decompose then Discriminate: LLMs-Grounded In-Context Learning for Few-Shot Knowledge Base Question Answering"
+    },
+    {
+        "paper_id": "222",
+        "paper_title": "ShareDP: Finding k Disjoint Paths for Multiple Vertex Pairs"
+    },
+    {
+        "paper_id": "224",
+        "paper_title": "Personalized Federated Multi-Center Medical Data Analysis with Local and Global Uncertainty"
+    },
+    {
+        "paper_id": "236",
+        "paper_title": "Rule Mining from Text: A Semantic-Relational Logic Approach"
+    },
+    {
+        "paper_id": "243",
+        "paper_title": "MR-SQL: Multi-Level Retrieval Enhances Inference for LLM in Text-to-SQL"
+    },
+    {
+        "paper_id": "245",
+        "paper_title": "SELVA: A Reliable and Fast Selectivity Estimation Method for Query Plan Optimization in Video Analytics"
+    },
+    {
+        "paper_id": "261",
+        "paper_title": "Heterogeneous Feature-Aware Graph Neural Network for Tabular Data"
+    },
+    {
+        "paper_id": "270",
+        "paper_title": "Tackling Non-IID Graphs via Decoupled Structure and Feature in Federated Graph Learning"
+    },
+    {
+        "paper_id": "304",
+        "paper_title": "Data-Driven Regional Weather Forecasting Guided by Global Context"
+    },
+    {
+        "paper_id": "338",
+        "paper_title": "MCTM: Multi-Chord Distributed System for Efficient Trajectory Data Management in Mobile Edge Computing"
+    },
+    {
+        "paper_id": "350",
+        "paper_title": "Continuous Dynamic Modeling via Neural ODEs for Popularity Trajectory Prediction"
+    },
+    {
+        "paper_id": "375",
+        "paper_title": "Structural Entropy Based Spatio-temporal Sequence Forecasting"
+    },
+    {
+        "paper_id": "381",
+        "paper_title": "Structural Denoising Contrastive Self-supervised Graph Meta-learning"
+    },
+    {
+        "paper_id": "396",
+        "paper_title": "Breaking Free from Label Limitations: A Novel Unsupervised Attack Method for Graph Classification"
+    },
+    {
+        "paper_id": "444",
+        "paper_title": "Instance-Aware Test-Time Adaptation for Domain Generalization"
+    },
+    {
+        "paper_id": "494",
+        "paper_title": "TSALockMark: An Asymmetric and Robust Watermarking Scheme for Relational Databases with Distortion Constraints"
+    },
+    {
+        "paper_id": "501",
+        "paper_title": "Sketch-Based Poetry Retrieval with Unsupervised Vision-and-Language Pre-training"
+    },
+    {
+        "paper_id": "517",
+        "paper_title": "Transcending Conventional Binary Labels: Revamping Knowledge Tracing with VAE-Generated Image Representation"
+    },
+    {
+        "paper_id": "518",
+        "paper_title": "FLeW: Facet-Level and Adaptive Weighted Representation Learning of Scientific Documents"
+    },
+    {
+        "paper_id": "537",
+        "paper_title": "Efficient Computation of k Representative Regret Minimization G-Skyline Groups"
+    },
+    {
+        "paper_id": "539",
+        "paper_title": "BRIDGE-Embed: A Novel LLM-based Document and Sentence Retrieval Method"
+    },
+    {
+        "paper_id": "542",
+        "paper_title": "Mitigating Linguistic Bias between Malay and Indonesian Languages using Masked Language models"
+    },
+    {
+        "paper_id": "545",
+        "paper_title": "Towards Confidential and Efficient LLM Inference with Dual Privacy Protection"
+    },
+    {
+        "paper_id": "552",
+        "paper_title": "CausalScaler: A Causality-Driven Autoscaling Framework for the Cloud"
+    },
+    {
+        "paper_id": "560",
+        "paper_title": "Semantic Gaussian Mixture Variational Autoencoder for Sequential Recommendation"
+    },
+    {
+        "paper_id": "579",
+        "paper_title": "Test-Time Training for Graph Neural Networks"
+    },
+    {
+        "paper_id": "592",
+        "paper_title": "OFTEN: Graph Invariant Learning via Soft Environment Inference"
+    },
+    {
+        "paper_id": "599",
+        "paper_title": "Personalized Education with Ranking Alignment Recommendation"
+    },
+    {
+        "paper_id": "608",
+        "paper_title": "HierLLM: Hierarchical Large Language Model for Question Recommendation"
+    },
+    {
+        "paper_id": "612",
+        "paper_title": "Resolving Embedding-Ignoring Conflict in Graph Contrastive Learning-Based Rumor Detection"
+    },
+    {
+        "paper_id": "617",
+        "paper_title": "Correlation-Aware Reordered Scanning Mamba for Multivariate Time Series Forecasting"
+    },
+    {
+        "paper_id": "625",
+        "paper_title": "CoopKG: An Academic Knowledge Graph for Question Answering Systems"
+    },
+    {
+        "paper_id": "627",
+        "paper_title": "Chain-of-Thought Prompting with Causal Intervention for Multimodal Aspect-based Sentiment Analysis"
+    },
+    {
+        "paper_id": "634",
+        "paper_title": "Comprehensive Interest Modeling and Relational Mining for Multi-modal Recommendation"
+    },
+    {
+        "paper_id": "636",
+        "paper_title": "Grayscale Image-based Top-k Spatial Dataset Search Processing"
+    },
+    {
+        "paper_id": "637",
+        "paper_title": "A Large Language Model Guided Topic Refinement Mechanism for Short Text Modeling"
+    },
+    {
+        "paper_id": "640",
+        "paper_title": "Demand-oriented Route Recommendation for Shared Mobility Services"
+    },
+    {
+        "paper_id": "648",
+        "paper_title": "ROME : Memorization Insights from Text, Logits and Representation"
+    },
+    {
+        "paper_id": "650",
+        "paper_title": "FairDP-GNN: Graph Neural Network with Group Fairness and Differential Privacy"
+    },
+    {
+        "paper_id": "655",
+        "paper_title": "ECPIR : Efficient and Controllable Privacy-Preserving Image Retrieval in Cloud-assisted System"
+    },
+    {
+        "paper_id": "667",
+        "paper_title": "CoCoB: Adaptive Collaborative Combinatorial Bandits for Online Recommendation"
+    },
+    {
+        "paper_id": "673",
+        "paper_title": "Accelerating DeepWalk via Context-Level Parameter Update and Huffman Tree Pruning"
+    },
+    {
+        "paper_id": "674",
+        "paper_title": "KG-TS: Knowledge Graph-driven Thompson Sampling for Online Recommendation"
+    },
+    {
+        "paper_id": "689",
+        "paper_title": "Efficient Noise-reducing Neural Network for Cross-Domain Sequential Recommendation"
+    },
+    {
+        "paper_id": "697",
+        "paper_title": "MASS: Mitigating Aspect-oriented Semantic Sparsity for Fine-grained Sentiment Analysis"
+    },
+    {
+        "paper_id": "708",
+        "paper_title": "LLM-Driven Evidence Retrieval and Graph Learning for Explainable Rumor Detection"
+    },
+    {
+        "paper_id": "726",
+        "paper_title": "SimRe: A Simulation of Memes Recreation for Memes Category Detection"
+    },
+    {
+        "paper_id": "728",
+        "paper_title": "KMMN: Knowledge Enhanced Multimodal Multi-grained Network for Fake News Detection"
+    },
+    {
+        "paper_id": "738",
+        "paper_title": "Predicting Enterprise Users' Consuming Potential for Cloud Services"
+    },
+    {
+        "paper_id": "754",
+        "paper_title": "EPMC: An Enhanced Pre-training Model for Cellular Trajectory Representation Learning"
+    },
+    {
+        "paper_id": "763",
+        "paper_title": "HF-Mamba: Improving Multimodal Classification via Hierarchical Fusion based on Mamba"
+    },
+    {
+        "paper_id": "765",
+        "paper_title": "Who is Undercover? Guiding LLMs to Explore Multi-Perspective Team Tactic in the Game"
+    },
+    {
+        "paper_id": "785",
+        "paper_title": "Augmenting Transformers with Enhanced Dependency Structures by Treating Relations as New Words"
+    },
+    {
+        "paper_id": "788",
+        "paper_title": "Cross-modal Reasoning-based Unsupervised Multi-modal Entity Linking"
+    },
+    {
+        "paper_id": "789",
+        "paper_title": "Tuning Vision-Language Models with Candidate Labels by Prompt Alignment"
+    },
+    {
+        "paper_id": "792",
+        "paper_title": "Privacy-preserving Image Generation Based on Self-Attention"
+    },
+    {
+        "paper_id": "796",
+        "paper_title": "Enhancing Time Series Forecasting via Multi-Level Text Alignment with Large Language Models"
+    },
+    {
+        "paper_id": "803",
+        "paper_title": "MoEPlan: A Lazy Learned Query-Selection Optimizer via Mixture of Optimizer Experts"
+    },
+    {
+        "paper_id": "809",
+        "paper_title": "Enriching Complex Event Forecasting with Nested Patterns"
+    },
+    {
+        "paper_id": "813",
+        "paper_title": "A Benchmark Dataset and Instruction Fine-Tuning Methods for Metaphorical Comprehension and Explanation"
+    },
+    {
+        "paper_id": "815",
+        "paper_title": "rFedKD: A Reverse Federated Knowledge Distillation Method for Communication Efficiency"
+    },
+    {
+        "paper_id": "824",
+        "paper_title": "Content-based vs. Similarity-based Deep Learning Approaches for Walkability Assessment"
+    },
+    {
+        "paper_id": "853",
+        "paper_title": "SCFormer: Structured Channel-wise Transformer with Cumulative Historical State for Multivariate Time Series Forecasting"
+    },
+    {
+        "paper_id": "855",
+        "paper_title": "Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems"
+    },
+    {
+        "paper_id": "870",
+        "paper_title": "Log Parsing with LLMs Featuring Self-Reflection and Continuous Refining"
+    },
+    {
+        "paper_id": "875",
+        "paper_title": "MPPG: Pluggable Multi-Periodic Pattern-Guided Approach for Multivariate Time Series Anomaly Detection"
+    },
+    {
+        "paper_id": "886",
+        "paper_title": "Unsupervised Fact Error Correction Modeling by Using Span-Level Contrastive Learning"
+    },
+    {
+        "paper_id": "889",
+        "paper_title": "Enhancing Knowledge Graph Completion with Entity Neighborhood and Relation Context"
+    },
+    {
+        "paper_id": "895",
+        "paper_title": "CELLM: Curvature Enhanced Large Language Models for Graph Structure Learning"
+    },
+    {
+        "paper_id": "896",
+        "paper_title": "Enhancing Cross-Lingual Dialogue Summarization through Interpretable Chain-of-Thought"
+    },
+    {
+        "paper_id": "902",
+        "paper_title": "Ignite Forecasting with SPARK: An Efficient Generative Framework for Refining LLMs in Temporal Knowledge Graph Forecasting"
+    },
+    {
+        "paper_id": "903",
+        "paper_title": "REKGC: Learning Re-coupled Representations for Knowledge Graph Completion"
+    },
+    {
+        "paper_id": "904",
+        "paper_title": "Time-Optimal Route Planning for Non-Linear Recharging Electric Vehicles on Road Networks"
+    },
+    {
+        "paper_id": "907",
+        "paper_title": "Aspect-Aware Affective Focus Network For Joint Multimodal Aspect Sentiment Analysis"
+    },
+    {
+        "paper_id": "911",
+        "paper_title": "Private Multi-Party Neural Network Training over $\\mathbb{Z}_{2^k}$ via Galois Rings"
+    },
+    {
+        "paper_id": "916",
+        "paper_title": "TS-FourierLLM: Frozen Frequency-Domain Large Language Blocks for Enhancing Time-Series Modeling"
+    }
+]

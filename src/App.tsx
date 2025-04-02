@@ -17,6 +17,8 @@ import ProgramIndustrial from "./pages/program/industrial.tsx";
 import ProgramDemo from "./pages/program/demo.tsx";
 import ProgramKeynotes from "./pages/program/keynotes.tsx";
 import HotelInformation from "./pages/participate/hotel-information.tsx";
+import ProgramGlance from "./pages/program/program-glance.tsx";
+import ProgramSessionDetails from "./pages/program/session-details.tsx";
 
 function App() {
   return (
@@ -52,6 +54,14 @@ function App() {
           <Route
             path="/calls/hpd-consortium-paper"
             element={<PhDConsortiumPaper />}
+          />
+          <Route
+            path="/program/program-at-a-glance"
+            element={<ProgramGlance />}
+          />
+          <Route
+            path="/program/session-details"
+            element={<ProgramSessionDetails />}
           />
           <Route path="/program/keynotes" element={<ProgramKeynotes />} />
           <Route path="/program/tutorials" element={<ProgramTutorials />} />
