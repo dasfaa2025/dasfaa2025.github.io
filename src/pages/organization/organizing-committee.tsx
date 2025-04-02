@@ -156,8 +156,8 @@ const OrganizingCommittee = () => {
           />
         </div>
 
-        <h2>Ph.D. Consortium Chairs</h2>
-        <h2>Publication Chair</h2>
+        {/*<h2>Ph.D. Consortium Chairs</h2>*/}
+        {/*<h2>Publication Chair</h2>*/}
 
         <h2>Publicity Chair</h2>
         <div className={memberlistClassName}>
@@ -171,9 +171,9 @@ const OrganizingCommittee = () => {
           />
         </div>
 
-        <h2>Local Arrangement Chair</h2>
-        <h2>Local Arrangement Committee</h2>
-        <h2>Registration Chair</h2>
+        {/*<h2>Local Arrangement Chair</h2>*/}
+        {/*<h2>Local Arrangement Committee</h2>*/}
+        {/*<h2>Registration Chair</h2>*/}
 
         <h2>Web Co-Chairs</h2>
         <div className={memberlistClassName}>
