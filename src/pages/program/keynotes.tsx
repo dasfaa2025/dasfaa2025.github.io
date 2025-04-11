@@ -156,20 +156,24 @@ const ProgramKeynotes = () => {
         </p>
         <h4>Bio</h4>
         <p>
-          Dr Jeffrey Xu Yu is a Professor in the Department of Systems
-          Engineering and Engineering Management, The Chinese University of Hong
-          Kong. His current main research interests include graph algorithms,
-          graph processing systems, graph neural networks, and query processing
-          in database systems. Dr. Yu served as an Information Director and a
-          member in ACM SIGMOD executive committee (2007-2011), an associate
-          editor of IEEE TKDE (2004-2008), and an associate editor in VLDB
-          Journal (2007-2013). Currently he serves as an associate editor of ACM
-          TODS, WWW Journal, etc. Dr. Yu served/serves in many organization
-          committees and program committees in international
-          conferences/workshops including PC Co-chair of APWeb'04, WAIM'06,
-          APWeb/WAIM'07, WISE'09, PAKDD'10, DASFAA'11, ICDM'12, NDBC'13,
-          ADMA'14, CIKM'15, Bigcomp17, DSAA'19, CIKM'19, and DASFAA'20, and
-          conference general Co-chair of APWeb'13, ICDM'18, and ADC'22.
+          Dr. Xing Xie is a partner research manager at Microsoft Research Asia.
+          He received his B.S. and Ph.D. in Computer Science from the University
+          of Science and Technology of China in 1996 and 2001, respectively.
+          Since joining Microsoft Research Asia in July 2001, Dr. Xie has
+          focused on data mining, social computing, and responsible AI. His work
+          has been recognized with several prestigious awards, including the
+          IEEE MDM 2023 Test-of-Time Award, ACM SIGKDD 2022 Test-of-Time Award,
+          ACM SIGKDD China 2021 Test-of-Time Award, ACM SIGSPATIAL 2020 10-Year
+          Impact Award Honorable Mention, and ACM SIGSPATIAL 2019 10-Year Impact
+          Award. He has delivered keynote speeches at notable conferences such
+          as MDM 2019, ASONAM 2017, and W2GIS 2011. Dr. Xie serves on the
+          editorial boards of ACM Transactions on Social Computing, ACM
+          Transactions on Intelligent Systems and Technology, and CCF
+          Transactions on Pervasive Computing and Interaction. He served as
+          program co-chair of ACM Ubicomp 2011, PCC 2012, UIC 2015, SMP 2017,
+          ACM SIGSPATIAL 2021, ACM SIGSPATIAL 2022, IEEE MDM 2022, and PAKDD
+          2024. Dr. Xie is a Fellow of the ACM, IEEE, and China Computer
+          Federation.
         </p>
       </article>
     </>
