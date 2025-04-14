@@ -64,10 +64,6 @@ const ProgramTutorials = () => {
         <h3>Social Media Data Analytics for Disaster Management</h3>
         <h4>Speaker</h4>
         <p>Sanjay K. Madria (Missouri University of Science and Technology)</p>
-        <h4>Place</h4>
-        <p>TBA</p>
-        <h4>Date and Time</h4>
-        <p>TBA</p>
         <h4>Brief Outline of the Tutorial</h4>
         <p>
           A disaster can refer to an effect and result of natural hazards like
@@ -120,10 +116,6 @@ const ProgramTutorials = () => {
           <li>Zemin Chao (Harbin Institute of Technology)</li>
           <li>Hongzhi Wang (Harbin Institute of Technology)</li>
         </ul>
-        <h4>Place</h4>
-        <p>TBA</p>
-        <h4>Date and Time</h4>
-        <p>TBA</p>
         <h4>Brief Outline of the Tutorial</h4>
         <p>
           With the advancement of transportation infrastructure intelligence, it
@@ -210,10 +202,6 @@ const ProgramTutorials = () => {
           <li>Ling Cheng (Singapore Management University)</li>
           <li>Feida Zhu (Singapore Management University)</li>
         </ul>
-        <h4>Place</h4>
-        <p>TBA</p>
-        <h4>Date and Time</h4>
-        <p>TBA</p>
         <h4>Brief Outline of the Tutorial</h4>
         <p>
           Cryptocurrencies are a fundamental part of Web3, bringing native
@@ -266,10 +254,6 @@ const ProgramTutorials = () => {
           <li>Yi Cai (South China University of Technology)</li>
           <li>Xin Wu (South China University of Technology)</li>
         </ul>
-        <h4>Place</h4>
-        <p>TBA</p>
-        <h4>Date and Time</h4>
-        <p>TBA</p>
         <h4>Brief Outline of the Tutorial</h4>
         <p>
           Natural Language Processing (NLP) is a key branch of artificial
@@ -334,10 +318,6 @@ const ProgramTutorials = () => {
           <li>Conghui He (Shanghai Artificial Intelligence Laboratory)</li>
           <li>Bin Cui (Peking University)</li>
         </ul>
-        <h4>Place</h4>
-        <p>TBA</p>
-        <h4>Date and Time</h4>
-        <p>TBA</p>
         <h4>Brief Outline of the Tutorial</h4>
         <p>
           High-quality data is the cornerstone of the performance and
@@ -402,10 +382,6 @@ const ProgramTutorials = () => {
           </li>
           <li>Zesheng Ye (The University of Melbourne)</li>
         </ul>
-        <h4>Place</h4>
-        <p>TBA</p>
-        <h4>Date and Time</h4>
-        <p>TBA</p>
         <h4>Brief Outline of the Tutorial</h4>
         <p>
           Modern foundation models, e.g., vision-language models (VLMs) and
@@ -466,10 +442,6 @@ const ProgramTutorials = () => {
           <li>Zhifeng Bao (RMIT University)</li>
           <li>Gao Cong (Nanyang Technological University)</li>
         </ul>
-        <h4>Place</h4>
-        <p>TBA</p>
-        <h4>Date and Time</h4>
-        <p>TBA</p>
         <h4>Brief Outline of the Tutorial</h4>
         <p>
           Database systems serve as the backbone of modern data-driven
