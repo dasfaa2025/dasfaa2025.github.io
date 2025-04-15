@@ -19,6 +19,7 @@ import ProgramKeynotes from "./pages/program/keynotes.tsx";
 import HotelInformation from "./pages/participate/hotel-information.tsx";
 import ProgramGlance from "./pages/program/program-glance.tsx";
 import ProgramSessionDetails from "./pages/program/session-details.tsx";
+import PresenterInstructions from "./pages/participate/presenter-instructions.tsx";
 
 function App() {
   return (
@@ -72,6 +73,10 @@ function App() {
           <Route
             path="/participate/hotel-information"
             element={<HotelInformation />}
+          />
+          <Route
+            path="/participate/presenter-instructions"
+            element={<PresenterInstructions />}
           />
         </Routes>
       </HashRouter>
