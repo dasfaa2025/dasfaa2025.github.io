@@ -16,7 +16,7 @@ const columns: TableProps<HealthDayItem>["columns"] = [
     dataIndex: "time",
     key: "time",
     width:200,
-    onCell: (_, index)=>({
+    onCell: ()=>({
       style: {
         background: "#FCE4D6",
       }
@@ -68,7 +68,7 @@ const ProgramHealthDay = () => {
         />
         <h2>Invited Talk I</h2>
         <h3>
-          Expediting Next-Generatio	n AI for Health via KG and LLM Co-Learning
+          Expediting Next-Generation AI for Health via KG and LLM Co-Learning
         </h3>
         <Figure src={Avatars.AvatarCarlYang} />
         <h4>Speaker</h4>
