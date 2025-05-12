@@ -1,0 +1,38 @@
+[
+    {
+        "time": "13:30 - 13:40 PM",
+        "title": "Opening Address",
+        "desc": "Organizers"
+    },
+    {
+        "time": "13:40 - 14:10 PM",
+        "title": "Invited Talk I: AI for Health with KG and LLM Co-Learning",
+        "desc": "Prof. Carl Yang, Emory University"
+    },
+    {
+        "time": "14:10 - 14:40 PM",
+        "title": "Invited Talk II: ",
+        "desc": "Prof. Daniel Ting, Director, AI Health Program SingHealth"
+    },
+    {
+        "time": "14:40 - 15:10 PM",
+        "title": "Invited Talk III:",
+        "desc": "Dr. Kun Qian, Director, Intelligence Health Division, Shanghai Zhongshan Hospital"
+    },
+    {
+        "time": "15:10 - 15:40 PM",
+        "title": "Coffee Break",
+        "desc": ""
+    },
+    {
+        "time": "15:40 - 16:10 PM",
+        "title": "Invited Talk IV:",
+        "desc": "Prof. Keng Leng Siau, School of Computing and Information Systems, SMU"
+    },
+    {
+        "time": "16:10 - 17:00 PM",
+        "title": "Panel: ",
+        "desc": "Moderator: Dr. Wei Yang Cheong, Vice Provost (Strategic Research Partnerships), SMU Prof. Carl Yang, Emory University Prof. Daniel Ting, Director, AI Health Program SingHealth Dr.  Kun Qian, Director, Intelligence Health Division, Shanghai Zhongshan Hospital Prof. Keng Leng Siau, School of Computing and Information Systems, SMU"
+    }
+]
+

@@ -141,6 +141,10 @@ const ProgramMenu = [
     href: "/program/demo",
     label: "Demo Papers",
   },
+  {
+    href: "/program/health-day",
+    label: "Health Day",
+  },
 ];
 const ParticipateMenu = [
   {

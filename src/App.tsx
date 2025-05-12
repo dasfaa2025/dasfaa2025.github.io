@@ -15,6 +15,7 @@ import ProgramTutorials from "./pages/program/tutorials.tsx";
 import ProgramResearch from "./pages/program/research.tsx";
 import ProgramIndustrial from "./pages/program/industrial.tsx";
 import ProgramDemo from "./pages/program/demo.tsx";
+import ProgramHealthDay from "./pages/program/health-day.tsx";
 import ProgramKeynotes from "./pages/program/keynotes.tsx";
 import HotelInformation from "./pages/participate/hotel-information.tsx";
 import ProgramGlance from "./pages/program/program-glance.tsx";
@@ -69,6 +70,7 @@ function App() {
           <Route path="/program/research" element={<ProgramResearch />} />
           <Route path="/program/industrial" element={<ProgramIndustrial />} />
           <Route path="/program/demo" element={<ProgramDemo />} />
+          <Route path="/program/health-day" element={<ProgramHealthDay />} />
           <Route path="/important-dates" element={<ImportantDates />} />
           <Route
             path="/participate/hotel-information"
