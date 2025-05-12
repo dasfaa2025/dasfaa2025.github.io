@@ -7,6 +7,7 @@ import ProgramGalanceData from "../../assets/program_galance.json";
 
 const CELL_YELLOW = "#ffffb8";
 const CELL_GREEN = "#d9f7be";
+const CELL_LIME = "#eaff8f";
 const CELL_PURPLE = "#efdbff";
 const CELL_MAGENTA = "#ffd6e7";
 const CELL_BLUE = "#bae0ff";
@@ -222,7 +223,7 @@ const columns3: TableProps["columns"] = [
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7, 9].includes(index) ? 0 : 1,
       style: {
-        background: index === 6 ? CELL_ORANGE : CELL_PURPLE,
+        background: index === 6 ? "none" : CELL_PURPLE,
       },
     }),
   },
@@ -246,7 +247,8 @@ const columns3: TableProps["columns"] = [
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7, 9].includes(index) ? 0 : 1,
       style: {
-        background: index === 8 ? CELL_PURPLE : "none",
+        background:
+          index === 6 ? CELL_ORANGE : index === 8 ? CELL_PURPLE : "none",
       },
     }),
   },
@@ -266,7 +268,7 @@ const columns4: TableProps["columns"] = [
     key: "empress_hall",
     align: "center",
     onCell: (_, index = 0) => ({
-      colSpan: [0, 1, 2, 3, 4, 5, 7].includes(index) ? 6 : 1,
+      colSpan: [0, 1, 2, 3, 5, 7].includes(index) ? 6 : 1,
       style: {
         background: [
           CELL_GREY,
@@ -275,9 +277,9 @@ const columns4: TableProps["columns"] = [
           CELL_YELLOW,
           CELL_CYAN,
           CELL_YELLOW,
-          CELL_PURPLE,
+          CELL_LIME,
           CELL_YELLOW,
-          CELL_PURPLE,
+          CELL_LIME,
         ][index],
       },
     }),
@@ -288,9 +290,9 @@ const columns4: TableProps["columns"] = [
     key: "empress_3",
     align: "center",
     onCell: (_, index = 0) => ({
-      colSpan: [0, 1, 2, 3, 4, 5, 7].includes(index) ? 0 : 1,
+      colSpan: [0, 1, 2, 3, 5, 7].includes(index) ? 0 : 1,
       style: {
-        background: index === 8 ? CELL_RED : CELL_PURPLE,
+        background: index === 4 ? CELL_CYAN : CELL_PURPLE,
       },
     }),
   },
@@ -300,9 +302,9 @@ const columns4: TableProps["columns"] = [
     key: "empress_1",
     align: "center",
     onCell: (_, index = 0) => ({
-      colSpan: [0, 1, 2, 3, 4, 5, 7].includes(index) ? 0 : 1,
+      colSpan: [0, 1, 2, 3, 5, 7].includes(index) ? 0 : 1,
       style: {
-        background: CELL_GREEN,
+        background: index === 6 ? CELL_PURPLE : index === 8 ? CELL_RED : "none",
       },
     }),
   },
@@ -312,9 +314,9 @@ const columns4: TableProps["columns"] = [
     key: "empress_2",
     align: "center",
     onCell: (_, index = 0) => ({
-      colSpan: [0, 1, 2, 3, 4, 5, 7].includes(index) ? 0 : 1,
+      colSpan: [0, 1, 2, 3, 5, 7].includes(index) ? 0 : 1,
       style: {
-        background: CELL_GREEN,
+        background: index === 4 ? CELL_CYAN : "none",
       },
     }),
   },

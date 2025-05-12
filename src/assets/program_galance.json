@@ -46,7 +46,7 @@
       },
       {
         "time": "15:30 - 17:00",
-        "empress_1": "",
+        "empress_1": "BDMS Workshop",
         "empress_2": "Tutorial 7",
         "empress_3": ""
       }
@@ -218,9 +218,9 @@
         "empress_hall": "Session 17 Social",
         "empress_3": "Session 18 Database Core (I)",
         "empress_1": "Session 19 Emerging Application (II)",
-        "empress_2": "Demo Session",
+        "empress_2": "",
         "istana": "Session 20 Language Model (III)",
-        "connaught": ""
+        "connaught": "Demo Session"
       },
       {
         "time": "15:00 - 15:30",
@@ -285,9 +285,9 @@
       {
         "time": "11:00 - 12:30",
         "empress_hall": "Panel session (Empress Hall 4 & 5)",
-        "empress_3": "",
+        "empress_3": "Trust Day Poster Session",
         "empress_1": "",
-        "empress_2": ""
+        "empress_2": "Health Day Poster Session"
       },
       {
         "time": "12:30 - 13:30",
@@ -298,10 +298,10 @@
       },
       {
         "time": "13:30 - 15:00",
-        "empress_hall": "Session 25 Recommendation (IV)",
-        "empress_3": "Session 26 Text",
-        "empress_1": "Health Day",
-        "empress_2": "Trust Day"
+        "empress_hall": "Trust Day: Empress Hall 4\nHealth Day: Empress Hall 5",
+        "empress_3": "Session 25\nRecommendation (IV)",
+        "empress_1": "Session 26\nText",
+        "empress_2": ""
       },
       {
         "time": "15:00 - 15:30",
@@ -312,10 +312,10 @@
       },
       {
         "time": "15:30 - 17:00",
-        "empress_hall": "Session 27 Graph(III)",
-        "empress_3": "Industry Session 3",
-        "empress_1": "Health Day",
-        "empress_2": "Trust Day"
+        "empress_hall": "Trust Day: Empress Hall 4\nHealth Day: Empress Hall 5",
+        "empress_3": "Session 27\nGraph(III)",
+        "empress_1": "Industry Session 3",
+        "empress_2": ""
       }
     ]
   }
