@@ -94,6 +94,18 @@ td:last-child {
   border-bottom-right-radius: 0.75rem;
   padding-right: 1rem;
 }
+.ant-table td:first-child {
+  /*width: 325px;*/
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  padding-left: 0;
+}
+.ant-table td:last-child {
+  /*font-weight: 500;*/
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  padding-right: 0;
+}
 
 tr.ant-table-row:hover {
   background-color: inherit;

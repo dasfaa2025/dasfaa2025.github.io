@@ -1,38 +1,51 @@
 [
-    {
-        "time": "13:30 - 13:40 PM",
-        "title": "Opening Address",
-        "desc": "Organizers"
-    },
-    {
-        "time": "13:40 - 14:10 PM",
-        "title": "Invited Talk I: AI for Health with KG and LLM Co-Learning",
-        "desc": "Prof. Carl Yang, Emory University"
-    },
-    {
-        "time": "14:10 - 14:40 PM",
-        "title": "Invited Talk II: ",
-        "desc": "Prof. Daniel Ting, Director, AI Health Program SingHealth"
-    },
-    {
-        "time": "14:40 - 15:10 PM",
-        "title": "Invited Talk III:",
-        "desc": "Dr. Kun Qian, Director, Intelligence Health Division, Shanghai Zhongshan Hospital"
-    },
-    {
-        "time": "15:10 - 15:40 PM",
-        "title": "Coffee Break",
-        "desc": ""
-    },
-    {
-        "time": "15:40 - 16:10 PM",
-        "title": "Invited Talk IV:",
-        "desc": "Prof. Keng Leng Siau, School of Computing and Information Systems, SMU"
-    },
-    {
-        "time": "16:10 - 17:00 PM",
-        "title": "Panel: ",
-        "desc": "Moderator: Dr. Wei Yang Cheong, Vice Provost (Strategic Research Partnerships), SMU Prof. Carl Yang, Emory University Prof. Daniel Ting, Director, AI Health Program SingHealth Dr.  Kun Qian, Director, Intelligence Health Division, Shanghai Zhongshan Hospital Prof. Keng Leng Siau, School of Computing and Information Systems, SMU"
-    }
+  {
+    "time": "08:00 - 09:00",
+    "title": "<b>Registration</b>"
+  },
+  {
+    "time": "09:00 - 10:30",
+    "title": "<p><b>Keynote Talk: Societal AI: Research Challenges and Opportunities</b></p><p><b>Speaker: Xing Xie (Microsoft Research Asia)</b></p><p><b>Abstract:</b></p><p>Artificial intelligence is reshaping society at an unprecedented scale, influencing key domains such as education, labor, governance, and scientific discovery. As AI models, particularly large language models, become more capable and autonomous, their societal impact raises urgent questions regarding fairness, interpretability, alignment with human values, and regulatory governance. In this talk, I will introduce Societal AI — a multidisciplinary research agenda that examines the intersection of AI and societal well-being. By integrating insights from computer science, psychology, law, sociology, and philosophy, we identify ten critical research questions that address AI’s ethical, technical, and social implications. These challenges include ensuring AI safety and reliability, optimizing human-AI collaboration, evaluating AI’s cognitive and creative potential, and establishing robust regulatory frameworks. Through interdisciplinary collaboration, we aim to develop AI systems that are not only powerful but also aligned with societal values, fostering a future where AI serves as a trusted and beneficial partner to humanity.</p>"
+  },
+  {
+    "time": "10:30 - 11:00",
+    "title": "<b>Coffee break</b>"
+  },
+  {
+    "time": "11:00 - 12:30",
+    "title": "<b>Poster session: AI in Healthcare (10 poster & demos)</b>"
+  },
+  {
+    "time": "12:30 - 13:30",
+    "title": "<b>Lunch</b>"
+  },
+  {
+    "time": "13:30 - 13:40 PM",
+    "title": "<p><b>Opening Address</b></p><p>Organizers</p>"
+  },
+  {
+    "time": "13:40 - 14:10 PM",
+    "title": "<b>Invited Talk I: AI for Health with KG and LLM Co-Learning</b><p>Prof. Carl Yang, Emory University</p>"
+  },
+  {
+    "time": "14:10 - 14:40 PM",
+    "title": "<p><b>Invited Talk II: AI Innovation in Health: 2025 and Beyond</b></p><p><b>Speaker:</b> Prof. Daniel Ting, Director, AI Health Program SingHealth</p>"
+  },
+  {
+    "time": "14:40 - 15:10 PM",
+    "title": "<p><b>Invited Talk III: Harnessing AI for Improved Healthcare Outcomes</b></p><p><b>Speaker:</b> Prof. Kun Qian, Associate Professor, Artificial Intelligence Innovation and Incubation (Als) Institute of Fudan University</p>"
+  },
+  {
+    "time": "15:10 - 15:40 PM",
+    "title": "<b>Coffee Break</b>",
+    "desc": ""
+  },
+  {
+    "time": "15:40 - 16:10 PM",
+    "title": "<p><b>Invited Talk IV: Happy Ageing with AI</b></p><p><b>Speaker:</b> Prof. Keng Leng Siau, School of Computing and Information Systems, SMU</p>"
+  },
+  {
+    "time": "16:10 - 17:00 PM",
+    "title": "<p><b>Panel: </b></p><p><b>Moderator:</b> Dr. Wei Yang Cheong, Vice Provost (Strategic Research Partnerships), SMU</p><b>Panelists:</b><p>Prof. Carl Yang, Emory University</p><p>Prof. Daniel Ting, Director, AI Health Program SingHealth</p><p>Prof.  Kun Qian, Associate Professor, Artificial Intelligence Innovation and Incubation (Als) Institute of Fudan University</p><p>Prof. Keng Leng Siau, School of Computing and Information Systems, SMU</p>"
+  }
 ]
-

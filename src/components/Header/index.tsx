@@ -145,6 +145,10 @@ const ProgramMenu = [
     href: "/program/health-day",
     label: "Health Day",
   },
+  {
+    href: "/program/trust-day",
+    label: "Trust Day",
+  },
 ];
 const ParticipateMenu = [
   {

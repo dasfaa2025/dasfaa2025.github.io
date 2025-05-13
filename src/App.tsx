@@ -21,6 +21,7 @@ import HotelInformation from "./pages/participate/hotel-information.tsx";
 import ProgramGlance from "./pages/program/program-glance.tsx";
 import ProgramSessionDetails from "./pages/program/session-details.tsx";
 import PresenterInstructions from "./pages/participate/presenter-instructions.tsx";
+import ProgramTrustDay from "./pages/program/trust-day.tsx";
 
 function App() {
   return (
@@ -71,6 +72,7 @@ function App() {
           <Route path="/program/industrial" element={<ProgramIndustrial />} />
           <Route path="/program/demo" element={<ProgramDemo />} />
           <Route path="/program/health-day" element={<ProgramHealthDay />} />
+          <Route path="/program/trust-day" element={<ProgramTrustDay />} />
           <Route path="/important-dates" element={<ImportantDates />} />
           <Route
             path="/participate/hotel-information"

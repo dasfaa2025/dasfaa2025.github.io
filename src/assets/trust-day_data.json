@@ -1,0 +1,63 @@
+[
+  {
+    "time": "08:00 - 09:00",
+    "title": "<b>Registration</b>"
+  },
+  {
+    "time": "09:00 - 10:30\nEmpress 4 & 5",
+    "title": "<p><b>Keynote Talk: Societal AI: Research Challenges and Opportunities</b></p><p><b>Speaker: Xing Xie (Microsoft Research Asia)</b></p><p><b>Abstract:</b></p><p>Artificial intelligence is reshaping society at an unprecedented scale, influencing key domains such as education, labor, governance, and scientific discovery. As AI models, particularly large language models, become more capable and autonomous, their societal impact raises urgent questions regarding fairness, interpretability, alignment with human values, and regulatory governance. In this talk, I will introduce Societal AI — a multidisciplinary research agenda that examines the intersection of AI and societal well-being. By integrating insights from computer science, psychology, law, sociology, and philosophy, we identify ten critical research questions that address AI’s ethical, technical, and social implications. These challenges include ensuring AI safety and reliability, optimizing human-AI collaboration, evaluating AI’s cognitive and creative potential, and establishing robust regulatory frameworks. Through interdisciplinary collaboration, we aim to develop AI systems that are not only powerful but also aligned with societal values, fostering a future where AI serves as a trusted and beneficial partner to humanity.</p>"
+  },
+  {
+    "time": "10:30 - 11:00",
+    "title": "<b>Coffee break</b>"
+  },
+  {
+    "time": "11:00 - 12:30\nEmpress 1 & 2",
+    "title": "<b>Poster session: Trust-by-Design for Data, AI and Blockchain Applications</b>"
+  },
+  {
+    "time": "12:30 - 13:30",
+    "title": "<b>Lunch</b>"
+  },
+  {
+    "time": "13:30 - 13:40 PM\nEmpress 2",
+    "title": "<p><b>Opening Address</b></p><p>Trust Day Organizers</p>"
+  },
+  {
+    "time": "13:40 – 14:00 PM\nEmpress 2",
+    "title": "<b>Invited Talk I: Trust Isn't Universal: Why Online Safety Must Speak the Local Language</b><p>Prof. Roy Lee, SUTD; Smart Nation Fellow, GovTech</p>"
+  },
+  {
+    "time": "14:00 – 14:20 PM\nEmpress 2",
+    "title": "<p><b>Invited Talk II: Crypto Stablecoin: Concepts and Security Risks</b></p><p><b>Speaker:</b> Prof. Yajin Zhou, Professor, Zhejiang University; Founder, BlockSec</p>"
+  },
+  {
+    "time": "14:20 - 15:10 PM\nEmpress 2",
+    "title": "<p><b>Panel: Stable Coin Safety, Security and Compliance</b></p><p><b>Moderator:</b> Ruby Xu, BlockSec</p><p><b>Panelists:</b></p><p>Yajin(Andy) Zhou , CEO, BlockSec</p><p>Tony Chen , Head of Product,  FOMO Pay</p><p>Alex Zuo , VP, Cobo</p>"
+  },
+  {
+    "time": "15:10 - 15:30 PM",
+    "title": "<b>Coffee Break</b>",
+    "desc": ""
+  },
+  {
+    "time": "15:30 - 15:50 PM\nEmpress 2",
+    "title": "<p><b>Invited Talk III: Graph learning and program analysis for smart contract vulnerability detection</b></p><p>Prof. Lingxiao Jiang, Professor of Computer Science, SMU </p>"
+  },
+  {
+    "time": "15:50 - 16:10 PM\nEmpress 2",
+    "title": "<p><b>Invited Talk IV: Visual Analytics for Cryptocurrency Fraud Detection</b></p><p>Prof. Yong Wang, Assistant Professor, NTU </p>"
+  },
+  {
+    "time": "16:10 - 16:30 PM\nEmpress 2",
+    "title": "<p><b>Invited Talk V: Towards Context-Aware Traffic Classification via Time-Wavelet Fusion Network</b></p><p>Prof. Fan Zhang, Professor, Zhejiang University</p>"
+  },
+  {
+    "time": "16:30 - 16:50 PM\nEmpress 2",
+    "title": "<p><b>Invited Talk VI: Towards Practical Vertical Federated Learning Systems</b></p><p>Prof. Bingsheng He, Professor & Vice Dean, NUS</p>"
+  },
+  {
+    "time": "16:50 - 17:10 PM\nEmpress 2",
+    "title": "<p><b>Invited Talk VII: Resource Decoupled Federated Learning for Data Assetization</b></p><p>Prof. Jianzhe Zhao, Associate Professor, Northeastern University</p>"
+  }
+]
