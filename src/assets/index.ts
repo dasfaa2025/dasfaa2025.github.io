@@ -25,7 +25,7 @@ import AvatarJianPei from "./avatars/Jian Pei.jpg";
 import AvatarMeeyoungCha from "./avatars/Meeyoung Cha.jpg";
 import AvatarXingXie from "./avatars/Xing Xie.jpg";
 import AvatarCarlYang from "./avatars/Carl Yang.jpg";
-import AvatarKlsiau from "./avatars/Klsiau.png";
+import AvatarKlsiau from "./avatars/Klsiau.jpg";
 import AvatarRoyKaWeiLee from "./avatars/Roy Ka-Wei Lee.png";
 
 const Avatars = {
