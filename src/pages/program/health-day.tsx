@@ -2,6 +2,7 @@ import PageBanner from "../../components/PageBanner/index.tsx";
 import { Avatars, Banner4 } from "../../assets/index.ts";
 import { BackTop, Table, TableProps } from "antd";
 import _data from "../../assets/health-day_data.json";
+import LogoSMU from "../../assets/logo-smu.svg";
 interface HealthDayItem {
   time: string;
   title: string;
@@ -15,6 +16,9 @@ const columns: TableProps<HealthDayItem>["columns"] = [
     dataIndex: "time",
     key: "time",
     width: 200,
+    render: (_text, _record) => (
+      <div className="whitespace-pre-wrap">{_record.time}</div>
+    ),
     onCell: () => ({
       style: {
         background: "#FCE4D6",
@@ -27,14 +31,13 @@ const columns: TableProps<HealthDayItem>["columns"] = [
     render: (_text, _record) => (
       <div dangerouslySetInnerHTML={{ __html: _record.title }}></div>
     ),
-    onCell: (_, index) => ({
+    onCell: (_, index = 0) => ({
       style: {
-        background:
-          index === 0
-            ? "#FCE4D6"
-            : index === data.length - 1
-              ? "#F8CDAE"
-              : "#BDD7EE",
+        background: [0, 2, 4, 9].includes(index)
+          ? "#FCE4D6"
+          : index === data.length - 1
+            ? "#F8CDAE"
+            : "#BDD7EE",
       },
     }),
   },
@@ -60,13 +63,35 @@ const ProgramHealthDay = () => {
         {/*<p>Empress 1</p>*/}
         <h4>Program</h4>
         <Table<HealthDayItem>
-          className="not-prose"
+          className="not-prose ant-table-cell-align-top"
           rowKey="time"
           columns={columns}
           dataSource={data}
           pagination={false}
           bordered
         />
+
+        <blockquote>
+          <div>
+            <b>
+              Health Day workshop is supported by Singapore Management
+              University.
+            </b>
+          </div>
+          <a
+            href="https://www.smu.edu.sg/"
+            rel="noreferrer noopener"
+            target="_blank"
+            className="inline-block"
+          >
+            <img
+              className="m-0 block h-20 max-h-20 min-h-20"
+              alt="SMU"
+              src={LogoSMU}
+            />
+          </a>
+        </blockquote>
+
         <h2>Invited Talk I</h2>
         <h3>
           Expediting Next-Generation AI for Health via KG and LLM Co-Learning
@@ -117,6 +142,39 @@ const ProgramHealthDay = () => {
           2023, and multiple Emory and external research awards.
         </p>
         <p>More details coming soon...</p>
+
+        <h2>Invited Talk IV</h2>
+        <h3>Happy Ageing with AI</h3>
+        <Figure src={Avatars.AvatarKlsiau} />
+        <h4>Speaker</h4>
+        <p>Keng Leng Siau (Professor of Singapore Management University)</p>
+        <h4>Abstract</h4>
+        <p>
+          Happy Ageing, or Happy and Successful Ageing, emphasizes physical,
+          mental, financial, and social well-being throughout the ageing
+          process. Happiness is shaped by factors such as individual beliefs,
+          cultural norms, and social relationships. This talk will focus on one
+          aspect of Happy Ageing, positive social relationships. Maintaining
+          strong social relationships is crucial for Happy Ageing. Research has
+          shown that positive social relationship is the number one factor for
+          happiness. Positive social relationships keep people happier and
+          healthier, prevent loneliness and isolation, and improve longevity. AI
+          has the potential to enhance and revolutionize the Happy Ageing
+          journey. This talk will present ongoing research on employing AI, such
+          as GenAI, Agentic AI, and AI-powered humanoid robots, to promote
+          positive interpersonal and human-AI relationships in Happy Ageing.
+        </p>
+        <h4>Biography</h4>
+        <p>
+          Professor Keng Siau is the Lee Kong Chian Professor of Information
+          Systems at the Singapore Management University. He is an AIS Fellow
+          and one of the top 2% scientists worldwide according to the Stanford's
+          list. Professor Siau received his Ph.D. degree from the University of
+          British Columbia. His current research interests are Digital
+          Transformation, AI and Machine Learning: Future of Work and Future of
+          Humanity, Business Analytics and Data Science, and Human-AI
+          Interaction.
+        </p>
       </article>
       <BackTop />
     </>

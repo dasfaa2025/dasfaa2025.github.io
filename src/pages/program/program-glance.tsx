@@ -3,7 +3,7 @@ import { Banner4 } from "../../assets";
 import { HashLink } from "react-router-hash-link";
 import { scrollWithOffset } from "./index.ts";
 import { BackTop, Table, TableProps } from "antd";
-import ProgramGalanceData from "../../assets/program_galance.json";
+import ProgramGlanceData from "../../assets/program_glance.json";
 
 const CELL_YELLOW = "#ffffb8";
 const CELL_GREEN = "#d9f7be";
@@ -12,7 +12,7 @@ const CELL_PURPLE = "#efdbff";
 const CELL_MAGENTA = "#ffd6e7";
 const CELL_BLUE = "#bae0ff";
 const CELL_GEEK_BLUE = "#d6e4ff";
-const CELL_ORANGE = "#ffe7ba";
+// const CELL_ORANGE = "#ffe7ba";
 const CELL_RED = "#ffccc7";
 const CELL_GREY = "#f5f5f5";
 const CELL_CYAN = "#b5f5ec";
@@ -173,6 +173,13 @@ const columns3: TableProps["columns"] = [
     dataIndex: "empress_hall",
     key: "empress_hall",
     align: "center",
+    // width: 140,
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7, 9].includes(index) ? 6 : 1,
       style: {
@@ -196,6 +203,12 @@ const columns3: TableProps["columns"] = [
     dataIndex: "empress_3",
     key: "empress_3",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7, 9].includes(index) ? 0 : 1,
       style: {
@@ -208,6 +221,12 @@ const columns3: TableProps["columns"] = [
     dataIndex: "empress_1",
     key: "empress_1",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7, 9].includes(index) ? 0 : 1,
       style: {
@@ -220,6 +239,12 @@ const columns3: TableProps["columns"] = [
     dataIndex: "empress_2",
     key: "empress_2",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7, 9].includes(index) ? 0 : 1,
       style: {
@@ -232,6 +257,12 @@ const columns3: TableProps["columns"] = [
     dataIndex: "istana",
     key: "istana",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7, 9].includes(index) ? 0 : 1,
       style: {
@@ -247,8 +278,7 @@ const columns3: TableProps["columns"] = [
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7, 9].includes(index) ? 0 : 1,
       style: {
-        background:
-          index === 6 ? CELL_ORANGE : index === 8 ? CELL_PURPLE : "none",
+        background: index === 8 ? CELL_PURPLE : "none",
       },
     }),
   },
@@ -375,7 +405,7 @@ const ProgramGlance = () => {
           className="not-prose"
           rowKey="time"
           columns={columns1}
-          dataSource={ProgramGalanceData[0].data}
+          dataSource={ProgramGlanceData[0].data}
           pagination={false}
           bordered
         />
@@ -385,7 +415,7 @@ const ProgramGlance = () => {
           className="not-prose"
           rowKey="time"
           columns={columns2}
-          dataSource={ProgramGalanceData[1].data}
+          dataSource={ProgramGlanceData[1].data}
           pagination={false}
           bordered
         />
@@ -395,7 +425,7 @@ const ProgramGlance = () => {
           className="not-prose"
           rowKey="time"
           columns={columns3}
-          dataSource={ProgramGalanceData[2].data}
+          dataSource={ProgramGlanceData[2].data}
           pagination={false}
           bordered
         />
@@ -405,7 +435,7 @@ const ProgramGlance = () => {
           className="not-prose"
           rowKey="time"
           columns={columns4}
-          dataSource={ProgramGalanceData[3].data}
+          dataSource={ProgramGlanceData[3].data}
           pagination={false}
           bordered
         />

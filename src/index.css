@@ -129,6 +129,10 @@ tr td:first-child {
   border-left-style: solid;
 }
 
+.ant-table-cell-align-top .ant-table-cell {
+  vertical-align: top;
+}
+
 .home-banner {
 }
 

@@ -159,6 +159,19 @@ const OrganizingCommittee = () => {
         {/*<h2>Ph.D. Consortium Chairs</h2>*/}
         {/*<h2>Publication Chair</h2>*/}
 
+        <h2>Local Arrangement Chair</h2>
+        <div className={memberlistClassName}>
+          <MemberCard
+            cover={Avatars.AvatarRoyKaWeiLee}
+            title={
+              <>
+                <b>Roy Ka-Wei Lee</b>, Assistant Professor, Singapore University
+                of Technology and Design
+              </>
+            }
+          />
+        </div>
+
         <h2>Publicity Chair</h2>
         <div className={memberlistClassName}>
           <MemberCard

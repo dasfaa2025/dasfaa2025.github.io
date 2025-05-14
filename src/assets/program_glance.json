@@ -215,12 +215,12 @@
       },
       {
         "time": "13:30 - 15:00",
-        "empress_hall": "Session 17 Social",
-        "empress_3": "Session 18 Database Core (I)",
-        "empress_1": "Session 19 Emerging Application (II)",
+        "empress_hall": "<div>Demo</div><div>Session: Hall 4</div><br/><div>Session 17</div><div>Social: Hall 5</div>",
+        "empress_3": "<div>Session 18</div><div>Database Core (I)</div>",
+        "empress_1": "<div>Session 19</div><div>Emerging Application (II)</div>",
         "empress_2": "",
-        "istana": "Session 20 Language Model (III)",
-        "connaught": "Demo Session"
+        "istana": "<div>Session 20</div><div>Language Model (III)</div>",
+        "connaught": ""
       },
       {
         "time": "15:00 - 15:30",
