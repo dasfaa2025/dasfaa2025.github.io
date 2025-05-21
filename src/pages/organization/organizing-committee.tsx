@@ -65,7 +65,8 @@ const OrganizingCommittee = () => {
             cover={Avatars.AvatarFeidaZhu}
             title={
               <>
-                <b>Feida Zhu</b>, Singapore Management University, Singapore
+                <b>Feida Zhu</b>, Singapore Management University, & CATOS,
+                A*Star, Singapore
               </>
             }
           />
@@ -178,7 +179,7 @@ const OrganizingCommittee = () => {
             cover={Avatars.AvatarLinheKong}
             title={
               <>
-                <b>Linhe KONG</b>, Shanghai Jiaotong University
+                <b>Linghe KONG</b>, Shanghai Jiaotong University
               </>
             }
           />
