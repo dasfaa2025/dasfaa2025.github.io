@@ -1,812 +1,947 @@
 [
-    {
-        "session": "1. Recommendation (I)",
-        "papers": [
-            {
-                "paper_id": "111",
-                "paper_title": "MHGCP:Multi-View Heterogeneous Graph with Cross-View Projection for Recommendation",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "189",
-                "paper_title": "Leave No One Behind: Enhancing Diversity While Maintaining Accuracy in Social Recommendation",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "190",
-                "paper_title": "Counterfactual Path Augmentation for Reinforcement Reasoning in Explainable Recommendation",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "311",
-                "paper_title": "Adaptive Personalized Federated Recommendation with Global Knowledge Distillation",
-                "presentation_time": "15"
-            }
-        ]
-    },
-    {
-        "session": "2. Machine Learning (I)",
-        "papers": [
-            {
-                "paper_id": "244",
-                "paper_title": "Bridging the Gap between Sparse Matrix Reordering and Factorization: A Deep Learning Framework for Fill-in Reduction",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "398",
-                "paper_title": "Making Local Models Learn Autonomously With Global Feature Tracking and Client Drift Releasing for Federated Learning",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "38",
-                "paper_title": "Less is More: Efficient Weight “Farcasting” with 1-Layer Neural Network",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "561",
-                "paper_title": "Subset Discovery for Entity Matching",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "238",
-                "paper_title": "JurisNexus: Enhancing Legal Judgment Prediction via Cross-Reasoning-Chain Representation Learning Mechanism",
-                "presentation_time": "15"
-            }
-        ]
-    },
-    {
-        "session": "3. NLP(I)",
-        "papers": [
-            {
-                "paper_id": "490",
-                "paper_title": "A Structure-aware Generative Model for Biomedical Event Extraction",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "700",
-                "paper_title": "From Memorization to Discovery: A Novel Benchmark for Relational Triple Extraction",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "729",
-                "paper_title": "T3SVFND: Towards an Evolving Fake News Detector for Emergencies with Test-time Training on Short Video Platforms",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "774",
-                "paper_title": "DlGR-KB: Dual-level Graph Reasoning with Key Block Decoupling for Multi-Party Dialogue Reading Comprehension",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "632",
-                "paper_title": "Multi-View Attention Syntactic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis",
-                "presentation_time": "15"
-            }
-        ]
-    },
-    {
-        "session": "4. Security & Privacy (I)",
-        "papers": [
-            {
-                "paper_id": "28",
-                "paper_title": "Lattice-based Forward Secure Certificateless Encryption Scheme for Cloud Data Management",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "50",
-                "paper_title": "Logarithmic-size Lattice-based Linkable Ring Signature for Cloud Data Management",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "300",
-                "paper_title": "Decoupled Self-Knowledge Distillation Makes Differentially Private Deep Learning Stronger",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "353",
-                "paper_title": "PriExRec: Defending Against Membership Inference Attacks in Federated Recommendation with Explicit Feedback",
-                "presentation_time": "15"
-            }
-        ]
-    },
-    {
-        "session": "5. Emerging Application",
-        "papers": [
-            {
-                "paper_id": "193",
-                "paper_title": "From Static to Dynamic: GNNs-Driven Clinical Decision-Making Assistance",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "840",
-                "paper_title": "Enhancing Protein-Ligand Binding Affinity Prediction via Parameter-Efficient Fine-Tuning of  Protein and Chemical Language Models",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "844",
-                "paper_title": "MVIC: Multi-View Information Collaborative Fusion for Drug-Drug Interaction Prediction",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "21",
-                "paper_title": "UFIN: Universal Feature Interaction Network for Multi-Domain Click-Through Rate Prediction",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "773",
-                "paper_title": "Design and Implementation of Decentralized Data Protection Protocol for Generative AI",
-                "presentation_time": "15"
-            }
-        ]
-    },
-    {
-        "session": "6. Spatial-Temporal",
-        "papers": [
-            {
-                "paper_id": "174",
-                "paper_title": "STGDPM:Vessel trajectory prediction with Spatio-temporal graph diffusion probabilistic model",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "884",
-                "paper_title": "STSC-Net: Leveraging Spatial, Temporal, and Semantic Context for Road Network Trajectory Prediction",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "214",
-                "paper_title": "DRENet: A Dual-branch Road Extraction Network for Enhanced Connectivity",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "290",
-                "paper_title": "Towards An Efficient and Effective En Route Travel Time Estimation Framework",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "881",
-                "paper_title": "Time-aware Meta-path Aggregation on Heterogeneous Temporal Graphs",
-                "presentation_time": "10"
-            }
-        ]
-    },
-    {
-        "session": "7. Language Model(I)",
-        "papers": [
-            {
-                "paper_id": "711",
-                "paper_title": "Annotating Table Metadata with Knowledge-Enhanced Pre-trained Language Model",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "556",
-                "paper_title": "Harnessing LLMs Explanations to Boost Surrogate Models in Tabular Data Classification",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "468",
-                "paper_title": "Improving Multi-Attribute Fairness in LLM-Based Recommenders through a Mixture-of-Experts Contrastive Learning Method",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "758",
-                "paper_title": "DRMR: An Immersing Oriented Role-Playing Framework with Duplex Relationship Modeling",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "867",
-                "paper_title": "Dual-path Transformer: Aligning Text Embeddings with Market Movements for a New Paradigm of Cross-modal Financial Time Series Prediction",
-                "presentation_time": "10"
-            }
-        ]
-    },
-    {
-        "session": "8. Recommendation (II)",
-        "papers": [
-            {
-                "paper_id": "607",
-                "paper_title": "Diffusion Multi-Behavior Recommender Model",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "703",
-                "paper_title": "HHGCN-DrugRec: Hierarchical HyperGraph Convolution Network for Drug Combination Recommendation",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "704",
-                "paper_title": "Emotion-based Conversational Recommendation by Inferring Implicit Users' Preferences from their Subjective Claims",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "706",
-                "paper_title": "CDIVR: Cognitive Dissonance-aware Interactive Video Recommendation",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "753",
-                "paper_title": "DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level",
-                "presentation_time": "15"
-            }
-        ]
-    },
-    {
-        "session": "9. Graph(I)",
-        "papers": [
-            {
-                "paper_id": "18",
-                "paper_title": "Scalable GNN Training via Parameter Freeze and Layer Detachment",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "147",
-                "paper_title": "STM: A Spatio-Temporal Model for Dynamic Graph Fraud Detection",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "431",
-                "paper_title": "Structure-aware Self-supervised Graph Representation Learning",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "530",
-                "paper_title": "Efficient Maximum (α, β)-Quasi Biclique Computation on Bipartite Graphs",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "822",
-                "paper_title": "FHGE: A Fast Heterogeneous Graph Embedding with Ad-hoc Meta-paths",
-                "presentation_time": "15"
-            }
-        ]
-    },
-    {
-        "session": "10. Knowledge Graph(I)",
-        "papers": [
-            {
-                "paper_id": "681",
-                "paper_title": "HBS-KGLLM: A General Framework for Generating Knowledge Graphs for Jailbreaking",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "531",
-                "paper_title": "Image Attribute Completion: A Novel Task for Multi-modal Knowledge Graph",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "741",
-                "paper_title": "Crafting Global Information in Mini-batches for Knowledge Tracing",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "418",
-                "paper_title": "TCompoundQ: Translation, Rotation, and Scaling in Quaternion Vector Space for Temporal Knowledge Graph Completion",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "841",
-                "paper_title": "A Dual-task Learning Model for Temporal Knowledge Graph Entity Alignment",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "892",
-                "paper_title": "Diffusion-based Hierarchical Negative Sampling for Multimodal Knowledge Graph Completion",
-                "presentation_time": "10"
-            }
-        ]
-    },
-    {
-        "session": "11. Language Model(II)",
-        "papers": [
-            {
-                "paper_id": "128",
-                "paper_title": "COOL: Comprehensive Knowledge Enhanced Prompt Learning for Domain Adaptive Few-shot Fake News Detection",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "621",
-                "paper_title": "RBLU: A benchmark to evaluate the reverse inference ability of large language models",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "748",
-                "paper_title": "An Evaluation Framework for Long-tail Senses in Large Language Models and Word Sense Disambiguation",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "622",
-                "paper_title": "Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs",
-                "presentation_time": "10"
-            }
-        ]
-    },
-    {
-        "session": "12. Machine Learning (II)",
-        "papers": [
-            {
-                "paper_id": "359",
-                "paper_title": "STPformer: Mutation-Aware Spatial-Temporal Pivotal Attention Networks for Transformer-based Traffic Forecasting",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "293",
-                "paper_title": "DySA-TGN: Dynamic Self-Adaptive Temporal Graph Neural Network for Multivariate Time Series Classification",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "432",
-                "paper_title": "Gaussian Regularization in Neural Graph Learning",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "666",
-                "paper_title": "Facial Features Enhanced Multi-Branch Graph Network for Driver Drowsiness Detection",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "107",
-                "paper_title": "UFMKSC: A Uniform Framework for Multiple Kernel Spectral Clustering Using a Noise-Free Laplacian Matrix",
-                "presentation_time": "10"
-            }
-        ]
-    },
-    {
-        "session": "13. Federated Learning",
-        "papers": [
-            {
-                "paper_id": "850",
-                "paper_title": "Information-agnostic Model Poisoning Attacks against Byzantine-robust Federated Learning",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "312",
-                "paper_title": "Heterogeneous federated learning via active-passive collaboration",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "25",
-                "paper_title": "RAP: Random Projection is What You Need for Vertical Federated Learning",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "223",
-                "paper_title": "VF-FD: Feature Deduplication for Vertical Federated Learning",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "240",
-                "paper_title": "VHFed: A Two-Tier Vertical and Horizontal Federated Learning Framework for Enhanced Model Performance",
-                "presentation_time": "10"
-            }
-        ]
-    },
-    {
-        "session": "14. Recommendation (III)",
-        "papers": [
-            {
-                "paper_id": "335",
-                "paper_title": "FHCF: Fully-Hyperbolic Symmetric Graph Learning for Collaborative Filtering",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "352",
-                "paper_title": "UGDA: A Unified Graph-based Method with Domain-specific Adaptation for Multi-domain Recommendation",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "383",
-                "paper_title": "Self-supervised Hierarchical Representation for Medication Recommendation",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "430",
-                "paper_title": "Exercise Recommendation Based on Feature-Aligned Knowledge Tracing",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "533",
-                "paper_title": "Joint User and Item Prototype Alignment for Cross-Platform Recommendation",
-                "presentation_time": "15"
-            }
-        ]
-    },
-    {
-        "session": "15. Security & Privacy (II)",
-        "papers": [
-            {
-                "paper_id": "182",
-                "paper_title": "CyberLLM: Enable Mapping CVE to Tactics and Techniques of Cyber Threats via LLM",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "288",
-                "paper_title": "Privacy-preserving Multi-Dimensional Range Query Optimization Across Multiple Sources",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "743",
-                "paper_title": "Enabling Efficient and Authenticated Trajectory Similarity Retrieval on Blockchain-assisted Cloud",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "403",
-                "paper_title": "OPOM: The Ordinal and Parallel  Optimization Method of Spark multi-query applications",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "921",
-                "paper_title": "InC: A Vertical Federated Learning Framework with Multiple Noisy Labels",
-                "presentation_time": "10"
-            }
-        ]
-    },
-    {
-        "session": "16. Graph(II)",
-        "papers": [
-            {
-                "paper_id": "589",
-                "paper_title": "Learning Accurate, Efficient, and Interpretable MLPs on Multiplex Graphs via Node-wise Multi-View Ensemble Distillation",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "620",
-                "paper_title": "An Enhanced Knowledge Graph Embedding for Small-scale Sparse Knowledge Graph",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "750",
-                "paper_title": "Efficient Maximal Frequent Clique Enumeration in Multilayer Networks",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "766",
-                "paper_title": "ADMatcher: Self-supervised Subgraph Matching via Adaptive Dense-Aware Graph Contrastive Learning",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "54",
-                "paper_title": "Dual-prompting based Event Anomaly Detection in Dynamic Graphs",
-                "presentation_time": "15"
-            }
-        ]
-    },
-    {
-        "session": "17. Social",
-        "papers": [
-            {
-                "paper_id": "613",
-                "paper_title": "Retrieval-Based Multimodal Data Augmentation for Multimodal Information Extraction in Social Media",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "96",
-                "paper_title": "Key Users Identification-based Heterogeneous Hypergraph for Group Recommendation",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "41",
-                "paper_title": "A Diffusion-based Triple Embedding Model for User Identity Linkage across Social Networks",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "252",
-                "paper_title": "PRIM: Encoding Propagation Probability and Role-Aware Representation for Influence Maximization",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "267",
-                "paper_title": "Clustering-Guided Dynamic Social Network Graph Partitioning",
-                "presentation_time": "10"
-            }
-        ]
-    },
-    {
-        "session": "18. Database Core (I)",
-        "papers": [
-            {
-                "paper_id": "61",
-                "paper_title": "Well-designed Query Optimization Based on Pattern Tree",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "492",
-                "paper_title": "HiCHT: High-performance Compact Hash Table",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "679",
-                "paper_title": "WorthyPar: A Workload-Aware Data Hybrid Partitioning Advisor with Deep Reinforcement Learning",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "801",
-                "paper_title": "GAS-DBSCAN: A Grid-based Adaptive Sampling Method for DBSCAN Clustering under Skewed Data Distribution",
-                "presentation_time": "15"
-            }
-        ]
-    },
-    {
-        "session": "19. Emerging Application (II)",
-        "papers": [
-            {
-                "paper_id": "192",
-                "paper_title": "Experts2team: Task Relevance-Induced Team Formation by Combining Global Cohesion with Local Decoupling",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "239",
-                "paper_title": "RasterPIP: Answering Point-in-polygon Query with GPU-native Transformation and Rasterization",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "258",
-                "paper_title": "A Universal Framework for Compressing Embeddings in CTR Prediction",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "22",
-                "paper_title": "MSAQE: A Large-scale Dataset for Multi-view Scenic Areas Quality Evaluation",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "663",
-                "paper_title": "Fairness-Aware Ride-sharing Assignment",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "749",
-                "paper_title": "RADIO: Effective and Efficient Anomalous Subgraph Discovery in Financial Networks",
-                "presentation_time": "10"
-            }
-        ]
-    },
-    {
-        "session": "20. Language Model(III)",
-        "papers": [
-            {
-                "paper_id": "848",
-                "paper_title": "SCM: Enhancing Large Language Model with Self-Controlled Memory Framework",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "458",
-                "paper_title": "SCRA-VQA: Summarized Caption-Rerank for Augmented Large Language Models in Visual Question Answering",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "888",
-                "paper_title": "Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "13",
-                "paper_title": "Collaborative Stance Detection via Small-Large Language Model Consistency Verification",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "752",
-                "paper_title": "Learnable Relational Knowledge Distillation For Language Model Compression",
-                "presentation_time": "15"
-            }
-        ]
-    },
-    {
-        "session": "21. Steams & Time Series",
-        "papers": [
-            {
-                "paper_id": "710",
-                "paper_title": "Compress Time Series with Smaller Error Tolerances",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "177",
-                "paper_title": "Memory-Augmented Short Time Series Forecasting",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "417",
-                "paper_title": "Dynamic Group Nearest Neighbor Group Query over Streaming Data",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "713",
-                "paper_title": "UniMixer: Unified Patch-Wise and Global Inter-Series Dependency Modeling for Multivariate Time Series Forecasting",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "802",
-                "paper_title": "Dynamic Multiple Continuous Top-k Queries Over Streaming Data",
-                "presentation_time": "15"
-            }
-        ]
-    },
-    {
-        "session": "22. NLP(II)",
-        "papers": [
-            {
-                "paper_id": "610",
-                "paper_title": "Asking Diversified Reasonable Questions with External Commonsense Knowledge to Infer Inconsistency for Multi-modal Clickbait Detection",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "672",
-                "paper_title": "GoT-R: Enhancing Large Language Models for Complex Question Answering with Graph-of-Thought Guided Reasoning",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "274",
-                "paper_title": "Breaking Size Barrier: Enhancing Reasoning for Large-size Table Question Answering",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "234",
-                "paper_title": "Enhancing Multi-turn Dialogue Consistency with Localized-Generalized Persona Expansion",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "180",
-                "paper_title": "Enhancing Zero-shot Emotion Perception in Conversation through the  Internal-to-External Chain-of-Thought",
-                "presentation_time": "10"
-            }
-        ]
-    },
-    {
-        "session": "23. Machine Learning (III)",
-        "papers": [
-            {
-                "paper_id": "820",
-                "paper_title": "ExBoost: Out-of-Box Co-Optimization of Machine Learning and Join Queries",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "722",
-                "paper_title": "CF-TS: A General Coarse-to-Fine Method for Trajectory Simplification",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "912",
-                "paper_title": "MAPN: Enhancing Heterogeneous Sparse Graph Representation by a Mamba-based Asynchronous Aggregation",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "160",
-                "paper_title": "LODC: A Lightweight Online Update Method for Density-Based Clustering ",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "45",
-                "paper_title": "FlexPie: Accelerate Distributed Inference on Edge Devices with Flexible Combinatorial Optimization",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "275",
-                "paper_title": "HESM: A Hyperedge Embedding-Based Subhypergraph Matching Method",
-                "presentation_time": "10"
-            }
-        ]
-    },
-    {
-        "session": "24. Database Core (II)",
-        "papers": [
-            {
-                "paper_id": "129",
-                "paper_title": "Separating Frozen Pages via Learning-based Recognition with ZNS SSD for Write Amplification Reduction in Database",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "382",
-                "paper_title": "LASE: A Learned Spatial Index for Dynamic Workloads",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "843",
-                "paper_title": "Learning Distance-Aware Space Partitions for Approximate Nearest Neighbor Search",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "283",
-                "paper_title": "OmniQO: An Adaptive Framework for Integrating ML and Traditional Query Optimizers",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "137",
-                "paper_title": "BlindChain: Keeping Query Privacy in Blockchain Out of Sight",
-                "presentation_time": "15"
-            }
-        ]
-    },
-    {
-        "session": "25. Recommendation (IV)",
-        "papers": [
-            {
-                "paper_id": "132",
-                "paper_title": "Towards Scenario-adaptive User Behavior Modeling for Multi-scenario Recommendation",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "52",
-                "paper_title": "Hypergraph Enhanced Knowledge Tree Prompt Learning for Next-Basket Recommendation",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "716",
-                "paper_title": "Modeling Personalized Short-term and Periodic Long-term Preferences for Enhanced Next POI Recommendation",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "877",
-                "paper_title": "Towards Unified Modeling for Positive and Negative Preferences in Sign-aware Recommendation",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "415",
-                "paper_title": "Self-Supervised Dual Graph and Intention Association for Session-based Recommendation",
-                "presentation_time": "10"
-            }
-        ]
-    },
-    {
-        "session": "26. Text",
-        "papers": [
-            {
-                "paper_id": "209",
-                "paper_title": "Enhancing Chinese Multimodal Entity Linking with CLIP-RoBERTa and Contrastive Learning",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "740",
-                "paper_title": "Unlocking Multimodal Potential for Few-Shot Semantic Segmentation with Vision-Enriched Text",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "237",
-                "paper_title": "Sentence Extraction Framework with High Relevance and Divergence for Document Summarization",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "777",
-                "paper_title": "AMR-GCC: Two-step Cross-Document Event Factuality Identification on Data Augmentation",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "544",
-                "paper_title": "Enhancing Chain-of-Thought Reasoning for Text-to-SQL with Effective Retrieval-Augmented Generation",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "819",
-                "paper_title": "NanoCSV: A High-Performance CSV Processing Framework with Hierarchical Finite-State Transducer",
-                "presentation_time": "10"
-            }
-        ]
-    },
-    {
-        "session": "27. Graph(III)",
-        "papers": [
-            {
-                "paper_id": "775",
-                "paper_title": "Enterprise Bankruptcy Prediction with Meta-Path Denoising and Capsule Network Modeling",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "866",
-                "paper_title": "CoANBR: A Collaborative Aggregation Model for Next Basket Recommendation with Time-independent Sequence Modeling",
-                "presentation_time": "15"
-            },
-            {
-                "paper_id": "164",
-                "paper_title": "ICFF-Net: Interlaced cross-attention feature fusion network for music genre classification",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "451",
-                "paper_title": "NodeNAS: Node-Specific Graph Neural Architecture Search for Out-of-Distribution Generalization",
-                "presentation_time": "10"
-            },
-            {
-                "paper_id": "724",
-                "paper_title": "FTDG: Fuzzing-Based Test Data Generation for Deep Neural Networks",
-                "presentation_time": "15"
-            }
-        ]
-    }
+  {
+    "session": "1. Recommendation (I)",
+    "papers": [
+      {
+        "paper_id": "111",
+        "paper_title": "MHGCP:Multi-View Heterogeneous Graph with Cross-View Projection for Recommendation",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_111_paper.pdf"
+      },
+      {
+        "paper_id": "189",
+        "paper_title": "Leave No One Behind: Enhancing Diversity While Maintaining Accuracy in Social Recommendation",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_189_paper.pdf"
+      },
+      {
+        "paper_id": "190",
+        "paper_title": "Counterfactual Path Augmentation for Reinforcement Reasoning in Explainable Recommendation",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_190_paper.pdf"
+      },
+      {
+        "paper_id": "311",
+        "paper_title": "Adaptive Personalized Federated Recommendation with Global Knowledge Distillation",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_311_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "2. Machine Learning (I)",
+    "papers": [
+      {
+        "paper_id": "244",
+        "paper_title": "Bridging the Gap between Sparse Matrix Reordering and Factorization: A Deep Learning Framework for Fill-in Reduction",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_244_paper.pdf"
+      },
+      {
+        "paper_id": "398",
+        "paper_title": "Making Local Models Learn Autonomously With Global Feature Tracking and Client Drift Releasing for Federated Learning",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_398_paper.pdf"
+      },
+      {
+        "paper_id": "38",
+        "paper_title": "Less is More: Efficient Weight “Farcasting” with 1-Layer Neural Network",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_38_paper.pdf"
+      },
+      {
+        "paper_id": "561",
+        "paper_title": "Subset Discovery for Entity Matching",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_561_paper.pdf"
+      },
+      {
+        "paper_id": "238",
+        "paper_title": "JurisNexus: Enhancing Legal Judgment Prediction via Cross-Reasoning-Chain Representation Learning Mechanism",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_238_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "3. NLP(I)",
+    "papers": [
+      {
+        "paper_id": "490",
+        "paper_title": "A Structure-aware Generative Model for Biomedical Event Extraction",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_490_paper.pdf"
+      },
+      {
+        "paper_id": "700",
+        "paper_title": "From Memorization to Discovery: A Novel Benchmark for Relational Triple Extraction",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_700_paper.pdf"
+      },
+      {
+        "paper_id": "729",
+        "paper_title": "T3SVFND: Towards an Evolving Fake News Detector for Emergencies with Test-time Training on Short Video Platforms",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_729_paper.pdf"
+      },
+      {
+        "paper_id": "774",
+        "paper_title": "DlGR-KB: Dual-level Graph Reasoning with Key Block Decoupling for Multi-Party Dialogue Reading Comprehension",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_774_paper.pdf"
+      },
+      {
+        "paper_id": "632",
+        "paper_title": "Multi-View Attention Syntactic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_632_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "4. Security & Privacy (I)",
+    "papers": [
+      {
+        "paper_id": "28",
+        "paper_title": "Lattice-based Forward Secure Certificateless Encryption Scheme for Cloud Data Management",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_28_paper.pdf"
+      },
+      {
+        "paper_id": "50",
+        "paper_title": "Logarithmic-size Lattice-based Linkable Ring Signature for Cloud Data Management",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_50_paper.pdf"
+      },
+      {
+        "paper_id": "300",
+        "paper_title": "Decoupled Self-Knowledge Distillation Makes Differentially Private Deep Learning Stronger",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_300_paper.pdf"
+      },
+      {
+        "paper_id": "353",
+        "paper_title": "PriExRec: Defending Against Membership Inference Attacks in Federated Recommendation with Explicit Feedback",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_353_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "5. Emerging Application",
+    "papers": [
+      {
+        "paper_id": "193",
+        "paper_title": "From Static to Dynamic: GNNs-Driven Clinical Decision-Making Assistance",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_193_paper.pdf"
+      },
+      {
+        "paper_id": "840",
+        "paper_title": "Enhancing Protein-Ligand Binding Affinity Prediction via Parameter-Efficient Fine-Tuning of  Protein and Chemical Language Models",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_840_paper.pdf"
+      },
+      {
+        "paper_id": "844",
+        "paper_title": "MVIC: Multi-View Information Collaborative Fusion for Drug-Drug Interaction Prediction",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_844_paper.pdf"
+      },
+      {
+        "paper_id": "21",
+        "paper_title": "UFIN: Universal Feature Interaction Network for Multi-Domain Click-Through Rate Prediction",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_21_paper.pdf"
+      },
+      {
+        "paper_id": "773",
+        "paper_title": "Design and Implementation of Decentralized Data Protection Protocol for Generative AI",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_773_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "6. Spatial-Temporal",
+    "papers": [
+      {
+        "paper_id": "174",
+        "paper_title": "STGDPM:Vessel trajectory prediction with Spatio-temporal graph diffusion probabilistic model",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_174_paper.pdf"
+      },
+      {
+        "paper_id": "884",
+        "paper_title": "STSC-Net: Leveraging Spatial, Temporal, and Semantic Context for Road Network Trajectory Prediction",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_884_paper.pdf"
+      },
+      {
+        "paper_id": "214",
+        "paper_title": "DRENet: A Dual-branch Road Extraction Network for Enhanced Connectivity",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_214_paper.pdf"
+      },
+      {
+        "paper_id": "290",
+        "paper_title": "Towards An Efficient and Effective En Route Travel Time Estimation Framework",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_290_paper.pdf"
+      },
+      {
+        "paper_id": "881",
+        "paper_title": "Time-aware Meta-path Aggregation on Heterogeneous Temporal Graphs",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_881_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "7. Language Model(I)",
+    "papers": [
+      {
+        "paper_id": "711",
+        "paper_title": "Annotating Table Metadata with Knowledge-Enhanced Pre-trained Language Model",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_711_paper.pdf"
+      },
+      {
+        "paper_id": "556",
+        "paper_title": "Harnessing LLMs Explanations to Boost Surrogate Models in Tabular Data Classification",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_556_paper.pdf"
+      },
+      {
+        "paper_id": "468",
+        "paper_title": "Improving Multi-Attribute Fairness in LLM-Based Recommenders through a Mixture-of-Experts Contrastive Learning Method",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_468_paper.pdf"
+      },
+      {
+        "paper_id": "758",
+        "paper_title": "DRMR: An Immersing Oriented Role-Playing Framework with Duplex Relationship Modeling",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_758_paper.pdf"
+      },
+      {
+        "paper_id": "867",
+        "paper_title": "Dual-path Transformer: Aligning Text Embeddings with Market Movements for a New Paradigm of Cross-modal Financial Time Series Prediction",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_867_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "8. Recommendation (II)",
+    "papers": [
+      {
+        "paper_id": "607",
+        "paper_title": "Diffusion Multi-Behavior Recommender Model",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_607_paper.pdf"
+      },
+      {
+        "paper_id": "703",
+        "paper_title": "HHGCN-DrugRec: Hierarchical HyperGraph Convolution Network for Drug Combination Recommendation",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_703_paper.pdf"
+      },
+      {
+        "paper_id": "704",
+        "paper_title": "Emotion-based Conversational Recommendation by Inferring Implicit Users' Preferences from their Subjective Claims",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_704_paper.pdf"
+      },
+      {
+        "paper_id": "706",
+        "paper_title": "CDIVR: Cognitive Dissonance-aware Interactive Video Recommendation",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_706_paper.pdf"
+      },
+      {
+        "paper_id": "753",
+        "paper_title": "DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_753_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "9. Graph(I)",
+    "papers": [
+      {
+        "paper_id": "18",
+        "paper_title": "Scalable GNN Training via Parameter Freeze and Layer Detachment",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_18_paper.pdf"
+      },
+      {
+        "paper_id": "147",
+        "paper_title": "STM: A Spatio-Temporal Model for Dynamic Graph Fraud Detection",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_147_paper.pdf"
+      },
+      {
+        "paper_id": "431",
+        "paper_title": "Structure-aware Self-supervised Graph Representation Learning",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_431_paper.pdf"
+      },
+      {
+        "paper_id": "530",
+        "paper_title": "Efficient Maximum (α, β)-Quasi Biclique Computation on Bipartite Graphs",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_530_paper.pdf"
+      },
+      {
+        "paper_id": "822",
+        "paper_title": "FHGE: A Fast Heterogeneous Graph Embedding with Ad-hoc Meta-paths",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_822_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "10. Knowledge Graph(I)",
+    "papers": [
+      {
+        "paper_id": "681",
+        "paper_title": "HBS-KGLLM: A General Framework for Generating Knowledge Graphs for Jailbreaking",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_681_paper.pdf"
+      },
+      {
+        "paper_id": "531",
+        "paper_title": "Image Attribute Completion: A Novel Task for Multi-modal Knowledge Graph",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_531_paper.pdf"
+      },
+      {
+        "paper_id": "741",
+        "paper_title": "Crafting Global Information in Mini-batches for Knowledge Tracing",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_741_paper.pdf"
+      },
+      {
+        "paper_id": "418",
+        "paper_title": "TCompoundQ: Translation, Rotation, and Scaling in Quaternion Vector Space for Temporal Knowledge Graph Completion",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_418_paper.pdf"
+      },
+      {
+        "paper_id": "841",
+        "paper_title": "A Dual-task Learning Model for Temporal Knowledge Graph Entity Alignment",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_841_paper.pdf"
+      },
+      {
+        "paper_id": "892",
+        "paper_title": "Diffusion-based Hierarchical Negative Sampling for Multimodal Knowledge Graph Completion",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_892_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "11. Language Model(II)",
+    "papers": [
+      {
+        "paper_id": "128",
+        "paper_title": "COOL: Comprehensive Knowledge Enhanced Prompt Learning for Domain Adaptive Few-shot Fake News Detection",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_128_paper.pdf"
+      },
+      {
+        "paper_id": "621",
+        "paper_title": "RBLU: A benchmark to evaluate the reverse inference ability of large language models",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_621_paper.pdf"
+      },
+      {
+        "paper_id": "748",
+        "paper_title": "An Evaluation Framework for Long-tail Senses in Large Language Models and Word Sense Disambiguation",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_748_paper.pdf"
+      },
+      {
+        "paper_id": "622",
+        "paper_title": "Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_622_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "12. Machine Learning (II)",
+    "papers": [
+      {
+        "paper_id": "359",
+        "paper_title": "STPformer: Mutation-Aware Spatial-Temporal Pivotal Attention Networks for Transformer-based Traffic Forecasting",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_359_paper.pdf"
+      },
+      {
+        "paper_id": "293",
+        "paper_title": "DySA-TGN: Dynamic Self-Adaptive Temporal Graph Neural Network for Multivariate Time Series Classification",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_293_paper.pdf"
+      },
+      {
+        "paper_id": "432",
+        "paper_title": "Gaussian Regularization in Neural Graph Learning",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_432_paper.pdf"
+      },
+      {
+        "paper_id": "666",
+        "paper_title": "Facial Features Enhanced Multi-Branch Graph Network for Driver Drowsiness Detection",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_666_paper.pdf"
+      },
+      {
+        "paper_id": "107",
+        "paper_title": "UFMKSC: A Uniform Framework for Multiple Kernel Spectral Clustering Using a Noise-Free Laplacian Matrix",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_107_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "13. Federated Learning",
+    "papers": [
+      {
+        "paper_id": "850",
+        "paper_title": "Information-agnostic Model Poisoning Attacks against Byzantine-robust Federated Learning",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_850_paper.pdf"
+      },
+      {
+        "paper_id": "312",
+        "paper_title": "Heterogeneous federated learning via active-passive collaboration",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_312_paper.pdf"
+      },
+      {
+        "paper_id": "25",
+        "paper_title": "RAP: Random Projection is What You Need for Vertical Federated Learning",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_25_paper.pdf"
+      },
+      {
+        "paper_id": "223",
+        "paper_title": "VF-FD: Feature Deduplication for Vertical Federated Learning",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_223_paper.pdf"
+      },
+      {
+        "paper_id": "240",
+        "paper_title": "VHFed: A Two-Tier Vertical and Horizontal Federated Learning Framework for Enhanced Model Performance",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_240_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "14. Recommendation (III)",
+    "papers": [
+      {
+        "paper_id": "335",
+        "paper_title": "FHCF: Fully-Hyperbolic Symmetric Graph Learning for Collaborative Filtering",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_335_paper.pdf"
+      },
+      {
+        "paper_id": "352",
+        "paper_title": "UGDA: A Unified Graph-based Method with Domain-specific Adaptation for Multi-domain Recommendation",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_352_paper.pdf"
+      },
+      {
+        "paper_id": "383",
+        "paper_title": "Self-supervised Hierarchical Representation for Medication Recommendation",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_383_paper.pdf"
+      },
+      {
+        "paper_id": "430",
+        "paper_title": "Exercise Recommendation Based on Feature-Aligned Knowledge Tracing",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_430_paper.pdf"
+      },
+      {
+        "paper_id": "533",
+        "paper_title": "Joint User and Item Prototype Alignment for Cross-Platform Recommendation",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_533_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "15. Security & Privacy (II)",
+    "papers": [
+      {
+        "paper_id": "182",
+        "paper_title": "CyberLLM: Enable Mapping CVE to Tactics and Techniques of Cyber Threats via LLM",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_182_paper.pdf"
+      },
+      {
+        "paper_id": "288",
+        "paper_title": "Privacy-preserving Multi-Dimensional Range Query Optimization Across Multiple Sources",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_288_paper.pdf"
+      },
+      {
+        "paper_id": "743",
+        "paper_title": "Enabling Efficient and Authenticated Trajectory Similarity Retrieval on Blockchain-assisted Cloud",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_743_paper.pdf"
+      },
+      {
+        "paper_id": "403",
+        "paper_title": "OPOM: The Ordinal and Parallel  Optimization Method of Spark multi-query applications",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_403_paper.pdf"
+      },
+      {
+        "paper_id": "921",
+        "paper_title": "InC: A Vertical Federated Learning Framework with Multiple Noisy Labels",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_921_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "16. Graph(II)",
+    "papers": [
+      {
+        "paper_id": "589",
+        "paper_title": "Learning Accurate, Efficient, and Interpretable MLPs on Multiplex Graphs via Node-wise Multi-View Ensemble Distillation",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_589_paper.pdf"
+      },
+      {
+        "paper_id": "620",
+        "paper_title": "An Enhanced Knowledge Graph Embedding for Small-scale Sparse Knowledge Graph",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_620_paper.pdf"
+      },
+      {
+        "paper_id": "750",
+        "paper_title": "Efficient Maximal Frequent Clique Enumeration in Multilayer Networks",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_750_paper.pdf"
+      },
+      {
+        "paper_id": "766",
+        "paper_title": "ADMatcher: Self-supervised Subgraph Matching via Adaptive Dense-Aware Graph Contrastive Learning",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_766_paper.pdf"
+      },
+      {
+        "paper_id": "54",
+        "paper_title": "Dual-prompting based Event Anomaly Detection in Dynamic Graphs",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_54_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "17. Social",
+    "papers": [
+      {
+        "paper_id": "613",
+        "paper_title": "Retrieval-Based Multimodal Data Augmentation for Multimodal Information Extraction in Social Media",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_613_paper.pdf"
+      },
+      {
+        "paper_id": "96",
+        "paper_title": "Key Users Identification-based Heterogeneous Hypergraph for Group Recommendation",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_96_paper.pdf"
+      },
+      {
+        "paper_id": "41",
+        "paper_title": "A Diffusion-based Triple Embedding Model for User Identity Linkage across Social Networks",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_41_paper.pdf"
+      },
+      {
+        "paper_id": "252",
+        "paper_title": "PRIM: Encoding Propagation Probability and Role-Aware Representation for Influence Maximization",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_252_paper.pdf"
+      },
+      {
+        "paper_id": "267",
+        "paper_title": "Clustering-Guided Dynamic Social Network Graph Partitioning",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_267_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "18. Database Core (I)",
+    "papers": [
+      {
+        "paper_id": "61",
+        "paper_title": "Well-designed Query Optimization Based on Pattern Tree",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_61_paper.pdf"
+      },
+      {
+        "paper_id": "492",
+        "paper_title": "HiCHT: High-performance Compact Hash Table",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_492_paper.pdf"
+      },
+      {
+        "paper_id": "679",
+        "paper_title": "WorthyPar: A Workload-Aware Data Hybrid Partitioning Advisor with Deep Reinforcement Learning",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_679_paper.pdf"
+      },
+      {
+        "paper_id": "801",
+        "paper_title": "GAS-DBSCAN: A Grid-based Adaptive Sampling Method for DBSCAN Clustering under Skewed Data Distribution",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_801_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "19. Emerging Application (II)",
+    "papers": [
+      {
+        "paper_id": "192",
+        "paper_title": "Experts2team: Task Relevance-Induced Team Formation by Combining Global Cohesion with Local Decoupling",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_192_paper.pdf"
+      },
+      {
+        "paper_id": "239",
+        "paper_title": "RasterPIP: Answering Point-in-polygon Query with GPU-native Transformation and Rasterization",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_239_paper.pdf"
+      },
+      {
+        "paper_id": "258",
+        "paper_title": "A Universal Framework for Compressing Embeddings in CTR Prediction",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_258_paper.pdf"
+      },
+      {
+        "paper_id": "22",
+        "paper_title": "MSAQE: A Large-scale Dataset for Multi-view Scenic Areas Quality Evaluation",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_22_paper.pdf"
+      },
+      {
+        "paper_id": "663",
+        "paper_title": "Fairness-Aware Ride-sharing Assignment",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_663_paper.pdf"
+      },
+      {
+        "paper_id": "749",
+        "paper_title": "RADIO: Effective and Efficient Anomalous Subgraph Discovery in Financial Networks",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_749_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "20. Language Model(III)",
+    "papers": [
+      {
+        "paper_id": "848",
+        "paper_title": "SCM: Enhancing Large Language Model with Self-Controlled Memory Framework",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_848_paper.pdf"
+      },
+      {
+        "paper_id": "458",
+        "paper_title": "SCRA-VQA: Summarized Caption-Rerank for Augmented Large Language Models in Visual Question Answering",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_458_paper.pdf"
+      },
+      {
+        "paper_id": "888",
+        "paper_title": "Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_888_paper.pdf"
+      },
+      {
+        "paper_id": "13",
+        "paper_title": "Collaborative Stance Detection via Small-Large Language Model Consistency Verification",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_13_paper.pdf"
+      },
+      {
+        "paper_id": "752",
+        "paper_title": "Learnable Relational Knowledge Distillation For Language Model Compression",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_752_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "21. Steams & Time Series",
+    "papers": [
+      {
+        "paper_id": "710",
+        "paper_title": "Compress Time Series with Smaller Error Tolerances",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_710_paper.pdf"
+      },
+      {
+        "paper_id": "177",
+        "paper_title": "Memory-Augmented Short Time Series Forecasting",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_177_paper.pdf"
+      },
+      {
+        "paper_id": "417",
+        "paper_title": "Dynamic Group Nearest Neighbor Group Query over Streaming Data",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_417_paper.pdf"
+      },
+      {
+        "paper_id": "713",
+        "paper_title": "UniMixer: Unified Patch-Wise and Global Inter-Series Dependency Modeling for Multivariate Time Series Forecasting",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_713_paper.pdf"
+      },
+      {
+        "paper_id": "802",
+        "paper_title": "Dynamic Multiple Continuous Top-k Queries Over Streaming Data",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_802_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "22. NLP(II)",
+    "papers": [
+      {
+        "paper_id": "610",
+        "paper_title": "Asking Diversified Reasonable Questions with External Commonsense Knowledge to Infer Inconsistency for Multi-modal Clickbait Detection",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_610_paper.pdf"
+      },
+      {
+        "paper_id": "672",
+        "paper_title": "GoT-R: Enhancing Large Language Models for Complex Question Answering with Graph-of-Thought Guided Reasoning",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_672_paper.pdf"
+      },
+      {
+        "paper_id": "274",
+        "paper_title": "Breaking Size Barrier: Enhancing Reasoning for Large-size Table Question Answering",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_274_paper.pdf"
+      },
+      {
+        "paper_id": "234",
+        "paper_title": "Enhancing Multi-turn Dialogue Consistency with Localized-Generalized Persona Expansion",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_234_paper.pdf"
+      },
+      {
+        "paper_id": "180",
+        "paper_title": "Enhancing Zero-shot Emotion Perception in Conversation through the  Internal-to-External Chain-of-Thought",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_180_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "23. Machine Learning (III)",
+    "papers": [
+      {
+        "paper_id": "820",
+        "paper_title": "ExBoost: Out-of-Box Co-Optimization of Machine Learning and Join Queries",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_820_paper.pdf"
+      },
+      {
+        "paper_id": "722",
+        "paper_title": "CF-TS: A General Coarse-to-Fine Method for Trajectory Simplification",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_722_paper.pdf"
+      },
+      {
+        "paper_id": "912",
+        "paper_title": "MAPN: Enhancing Heterogeneous Sparse Graph Representation by a Mamba-based Asynchronous Aggregation",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_912_paper.pdf"
+      },
+      {
+        "paper_id": "160",
+        "paper_title": "LODC: A Lightweight Online Update Method for Density-Based Clustering ",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_160_paper.pdf"
+      },
+      {
+        "paper_id": "45",
+        "paper_title": "FlexPie: Accelerate Distributed Inference on Edge Devices with Flexible Combinatorial Optimization",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_45_paper.pdf"
+      },
+      {
+        "paper_id": "275",
+        "paper_title": "HESM: A Hyperedge Embedding-Based Subhypergraph Matching Method",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_275_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "24. Database Core (II)",
+    "papers": [
+      {
+        "paper_id": "129",
+        "paper_title": "Separating Frozen Pages via Learning-based Recognition with ZNS SSD for Write Amplification Reduction in Database",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_129_paper.pdf"
+      },
+      {
+        "paper_id": "382",
+        "paper_title": "LASE: A Learned Spatial Index for Dynamic Workloads",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_382_paper.pdf"
+      },
+      {
+        "paper_id": "843",
+        "paper_title": "Learning Distance-Aware Space Partitions for Approximate Nearest Neighbor Search",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_843_paper.pdf"
+      },
+      {
+        "paper_id": "283",
+        "paper_title": "OmniQO: An Adaptive Framework for Integrating ML and Traditional Query Optimizers",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_283_paper.pdf"
+      },
+      {
+        "paper_id": "137",
+        "paper_title": "BlindChain: Keeping Query Privacy in Blockchain Out of Sight",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_137_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "25. Recommendation (IV)",
+    "papers": [
+      {
+        "paper_id": "132",
+        "paper_title": "Towards Scenario-adaptive User Behavior Modeling for Multi-scenario Recommendation",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_132_paper.pdf"
+      },
+      {
+        "paper_id": "52",
+        "paper_title": "Hypergraph Enhanced Knowledge Tree Prompt Learning for Next-Basket Recommendation",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_52_paper.pdf"
+      },
+      {
+        "paper_id": "716",
+        "paper_title": "Modeling Personalized Short-term and Periodic Long-term Preferences for Enhanced Next POI Recommendation",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_716_paper.pdf"
+      },
+      {
+        "paper_id": "877",
+        "paper_title": "Towards Unified Modeling for Positive and Negative Preferences in Sign-aware Recommendation",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_877_paper.pdf"
+      },
+      {
+        "paper_id": "415",
+        "paper_title": "Self-Supervised Dual Graph and Intention Association for Session-based Recommendation",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_415_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "26. Text",
+    "papers": [
+      {
+        "paper_id": "209",
+        "paper_title": "Enhancing Chinese Multimodal Entity Linking with CLIP-RoBERTa and Contrastive Learning",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_209_paper.pdf"
+      },
+      {
+        "paper_id": "740",
+        "paper_title": "Unlocking Multimodal Potential for Few-Shot Semantic Segmentation with Vision-Enriched Text",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_740_paper.pdf"
+      },
+      {
+        "paper_id": "237",
+        "paper_title": "Sentence Extraction Framework with High Relevance and Divergence for Document Summarization",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_237_paper.pdf"
+      },
+      {
+        "paper_id": "777",
+        "paper_title": "AMR-GCC: Two-step Cross-Document Event Factuality Identification on Data Augmentation",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_777_paper.pdf"
+      },
+      {
+        "paper_id": "544",
+        "paper_title": "Enhancing Chain-of-Thought Reasoning for Text-to-SQL with Effective Retrieval-Augmented Generation",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_544_paper.pdf"
+      },
+      {
+        "paper_id": "819",
+        "paper_title": "NanoCSV: A High-Performance CSV Processing Framework with Hierarchical Finite-State Transducer",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_819_paper.pdf"
+      }
+    ]
+  },
+  {
+    "session": "27. Graph(III)",
+    "papers": [
+      {
+        "paper_id": "775",
+        "paper_title": "Enterprise Bankruptcy Prediction with Meta-Path Denoising and Capsule Network Modeling",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_775_paper.pdf"
+      },
+      {
+        "paper_id": "866",
+        "paper_title": "CoANBR: A Collaborative Aggregation Model for Next Basket Recommendation with Time-independent Sequence Modeling",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_866_paper.pdf"
+      },
+      {
+        "paper_id": "164",
+        "paper_title": "ICFF-Net: Interlaced cross-attention feature fusion network for music genre classification",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_164_paper.pdf"
+      },
+      {
+        "paper_id": "451",
+        "paper_title": "NodeNAS: Node-Specific Graph Neural Architecture Search for Out-of-Distribution Generalization",
+        "presentation_time": "10",
+        "url": "https://dasfaa2025.github.io/paper/research/research_451_paper.pdf"
+      },
+      {
+        "paper_id": "724",
+        "paper_title": "FTDG: Fuzzing-Based Test Data Generation for Deep Neural Networks",
+        "presentation_time": "15",
+        "url": "https://dasfaa2025.github.io/paper/research/research_724_paper.pdf"
+      }
+    ]
+  }
 ]

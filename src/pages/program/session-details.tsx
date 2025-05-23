@@ -17,6 +17,15 @@ const columns1: TableProps["columns"] = [
     title: "Paper Title",
     dataIndex: "paper_title",
     key: "paper_title",
+    render: (text, record) => (
+      <a
+        href={record.url}
+        target="_blank"
+        className="link underline hover:underline"
+      >
+        {text}
+      </a>
+    ),
   },
   {
     title: "Presentation Time (Mins)",
@@ -35,6 +44,15 @@ const columns2: TableProps["columns"] = [
     title: "Paper Title",
     dataIndex: "paper_title",
     key: "paper_title",
+    render: (text, record) => (
+      <a
+        href={record.url}
+        target="_blank"
+        className="link underline hover:underline"
+      >
+        {text}
+      </a>
+    ),
   },
 ];
 

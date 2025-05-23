@@ -19,6 +19,15 @@ const columns: TableProps<ProgramPapersItem>["columns"] = [
     title: "Title",
     dataIndex: "title",
     key: "title",
+    render: (text, record) => (
+      <a
+        href={`https://dasfaa2025.github.io/paper/demo/demo_${record.id}_paper.pdf`}
+        target="_blank"
+        className="link underline hover:underline"
+      >
+        {text}
+      </a>
+    ),
   },
   {
     title: "Authors",

@@ -1,6 +1,7 @@
 import _ProgramPapersData from "../../assets/papers_data.json";
 
 export type ProgramPapersItem = {
+  id: number;
   title: string;
   authors: string;
 };
