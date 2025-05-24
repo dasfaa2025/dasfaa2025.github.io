@@ -93,11 +93,11 @@
       },
       {
         "time": "11:00 - 12:30",
-        "empress_hall": "Session 1 Recommendation (I)",
-        "empress_3": "Session 2 Machine Learning (I)",
-        "empress_1": "Session 3 NLP (I)",
-        "empress_2": "Session 4 Security & Privacy (I)",
-        "istana": "Session 5 Emerging Application (I)",
+        "empress_hall": "<div>Session 1</div><div>Recommendation (I)</div><div>Eenjun Hwang</div>",
+        "empress_3": "<div>Session 2</div><div>Machine Learning (I)</div><div>Xin Wang</div>",
+        "empress_1": "<div>Session 3</div><div>NLP (I)</div><div>Siu Cheung Hui</div>",
+        "empress_2": "<div>Session 4</div><div>Security & Privacy (I)</div><div>Haiping Huang</div>",
+        "istana": "<div>Session 5</div><div>Emerging Application (I)</div><div>Guanghui Zhu</div>",
         "connaught": ""
       },
       {
@@ -113,10 +113,10 @@
         "time": "13:30 - 15:00",
         "empress_hall": "",
         "empress_3": "",
-        "empress_1": "Session 6 Spatial-Temporal",
-        "empress_2": "Session 7 Language Model (I)",
-        "istana": "Industry Session 1",
-        "connaught": "Session 8 Recommendation (II)"
+        "empress_1": "<div>Session 6</div><div>Spatial-Temporal</div><div>Wu, Fangyu</div>",
+        "empress_2": "<div>Session 7</div><div>Language Model (I)</div><div>Xing Xie</div>",
+        "istana": "<div>Industry Session 1</div><div>Xiaoli Li</div>",
+        "connaught": "<div>Session 8</div><div>Recommendation (II)</div><div>Beibei Li</div>"
       },
       {
         "time": "15:00 - 15:30",
@@ -131,10 +131,10 @@
         "time": "15:30 - 17:00",
         "empress_hall": "",
         "empress_3": "",
-        "empress_1": "Session 9 Graph (I)",
-        "empress_2": "Session 10 Knowledge Graph (I)",
-        "istana": "Session 11 Language Model (II)",
-        "connaught": "Session 12 Machine Learning (II)"
+        "empress_1": "<div>Session 9</div><div>Graph (I)</div><div>Yuchen Li</div>",
+        "empress_2": "<div>Session 10</div><div>Knowledge Graph (I)</div><div>Guanglin Niu</div>",
+        "istana": "<div>Session 11</div><div>Language Model (II)</div><div>Gao, Shen</div>",
+        "connaught": "<div>Session 12</div><div>Machine Learning (II)</div><div>Xin Wu</div>"
       },
       {
         "time": "17:30 - 18:00",
@@ -197,11 +197,11 @@
       },
       {
         "time": "11:00 - 12:30",
-        "empress_hall": "Industry Session 2",
-        "empress_3": "Session 13 Federated Learning",
-        "empress_1": "Session 14 Recommendation (III)",
-        "empress_2": "Session 15 Security & Privacy (II)",
-        "istana": "Session 16 Graph (II)",
+        "empress_hall": "<div>Industry Session 2</div><div>Aek Palakorn</div>",
+        "empress_3": "<div>Session 13</div><div>Federated Learning</div><div>Jianzhe Zhao</div>",
+        "empress_1": "<div>Session 14</div><div>Recommendation (III)</div><div>Sanjay Madria</div>",
+        "empress_2": "<div>Session 15</div><div>Security & Privacy (II)</div><div>Haiping Huang</div>",
+        "istana": "<div>Session 16</div><div>Graph (II)</div><div>Guanglin Niu</div>",
         "connaught": ""
       },
       {
@@ -215,11 +215,11 @@
       },
       {
         "time": "13:30 - 15:00",
-        "empress_hall": "<div>Demo</div><div>Session: Hall 4</div><br/><div>Session 17</div><div>Social: Hall 5</div>",
-        "empress_3": "<div>Session 18</div><div>Database Core (I)</div>",
-        "empress_1": "<div>Session 19</div><div>Emerging Application (II)</div>",
+        "empress_hall": "<div>Demo</div><div>Session: Express 4</div><div>Session Chair: Yuchen LI, Zeyi WEN</div><br/><div>Session 17</div><div>Social: Hall 5</div><div>Ee-Peng Lim</div>",
+        "empress_3": "<div>Session 18</div><div>Database Core (I)</div><div>Bao, Zhifeng</div>",
+        "empress_1": "<div>Session 19</div><div>Emerging Application (II)</div><div>Guanghui Zhu</div>",
         "empress_2": "",
-        "istana": "<div>Session 20</div><div>Language Model (III)</div>",
+        "istana": "<div>Session 20</div><div>Language Model (III)</div><div>Gao, Shen</div>",
         "connaught": ""
       },
       {
@@ -235,10 +235,10 @@
         "time": "15:30 - 17:00",
         "empress_hall": "",
         "empress_3": "",
-        "empress_1": "Session 21 Streams & Time Series",
-        "empress_2": "Session 22 NLP (II)",
-        "istana": "Session 23 Machine Learning (III)",
-        "connaught": "Session 24 Database Core (II)"
+        "empress_1": "<div>Session 21 Streams & Time Series</div><div>Wu, Fangyu</div>",
+        "empress_2": "<div>Session 22 NLP (II)</div><div>Siu Cheung Hui</div>",
+        "istana": "<div>Session 23 Machine Learning (III)</div><div>Zeyi WEN</div>",
+        "connaught": "<div>Session 24 Database Core (II)</div><div>Hai Lan</div>"
       },
       {
         "time": "18:00 - 21:00",
@@ -257,6 +257,7 @@
       {
         "time": "08:00 - 09:00",
         "empress_hall": "Registration desk opens",
+        "empress_5": "",
         "empress_3": "",
         "empress_1": "",
         "empress_2": ""
@@ -264,6 +265,7 @@
       {
         "time": "09:00 - 09:30",
         "empress_hall": "Announcements (Empress Hall 4 & 5)",
+        "empress_5": "",
         "empress_3": "",
         "empress_1": "",
         "empress_2": ""
@@ -271,6 +273,7 @@
       {
         "time": "09:30 - 10:30",
         "empress_hall": "Keynote 3  (Empress Hall 4 & 5)",
+        "empress_5": "",
         "empress_3": "",
         "empress_1": "",
         "empress_2": ""
@@ -278,13 +281,15 @@
       {
         "time": "10:30 - 11:00",
         "empress_hall": "Coffee break",
+        "empress_5": "",
         "empress_3": "",
         "empress_1": "",
         "empress_2": ""
       },
       {
         "time": "11:00 - 12:30",
-        "empress_hall": "Panel session (Empress Hall 4 & 5)",
+        "empress_hall": "<div>Panel session (Empress Hall 4 & 5)</div><div><b>From Queries to Cognition: Charting the next 30 years of DASFAA in the Age of AI</b></div><div>Panel Chair: Feida Zhu</div>",
+        "empress_5": "",
         "empress_3": "Trust Day Poster Session",
         "empress_1": "",
         "empress_2": "Health Day Poster Session"
@@ -292,29 +297,33 @@
       {
         "time": "12:30 - 13:30",
         "empress_hall": "Lunch",
+        "empress_5": "",
         "empress_3": "",
         "empress_1": "",
         "empress_2": ""
       },
       {
         "time": "13:30 - 15:00",
-        "empress_hall": "Trust Day: Empress Hall 4\nHealth Day: Empress Hall 5",
-        "empress_3": "Session 25\nRecommendation (IV)",
-        "empress_1": "Session 26\nText",
+        "empress_hall": "Trust Day",
+        "empress_5": "Health Day",
+        "empress_3": "<div>Session 25</div><div>Recommendation (IV)</div><div>De-Nian Yang</div>",
+        "empress_1": "<div>Session 26</div><div>Text</div><div>Yang Deng</div>",
         "empress_2": ""
       },
       {
         "time": "15:00 - 15:30",
         "empress_hall": "Coffee break",
+        "empress_5": "",
         "empress_3": "",
         "empress_1": "",
         "empress_2": ""
       },
       {
         "time": "15:30 - 17:00",
-        "empress_hall": "Trust Day: Empress Hall 4\nHealth Day: Empress Hall 5",
-        "empress_3": "Session 27\nGraph(III)",
-        "empress_1": "Industry Session 3",
+        "empress_hall": "Trust Day",
+        "empress_5": "Health Day",
+        "empress_3": "<div>Session 27</div><div>Graph(III)</div><div>Yuan Fang</div>",
+        "empress_1": "<div>Industry Session 3</div><div>Shengfeng He</div>",
         "empress_2": ""
       }
     ]

@@ -29,6 +29,12 @@ const columns1: TableProps["columns"] = [
     dataIndex: "empress_1",
     key: "empress_1",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: index % 2 === 0 ? 3 : 1,
       style: {
@@ -45,6 +51,12 @@ const columns1: TableProps["columns"] = [
     dataIndex: "empress_2",
     key: "empress_2",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: index % 2 === 0 ? 0 : 1,
       style: {
@@ -57,6 +69,12 @@ const columns1: TableProps["columns"] = [
     dataIndex: "empress_3",
     key: "empress_3",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: index % 2 === 0 ? 0 : 1,
       style: {
@@ -79,6 +97,12 @@ const columns2: TableProps["columns"] = [
     dataIndex: "empress_hall",
     key: "empress_hall",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7, 9, 10].includes(index) ? 6 : 1,
       style: {
@@ -103,6 +127,12 @@ const columns2: TableProps["columns"] = [
     dataIndex: "empress_3",
     key: "empress_3",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7, 9, 10].includes(index) ? 0 : 1,
       style: {
@@ -115,6 +145,12 @@ const columns2: TableProps["columns"] = [
     dataIndex: "empress_1",
     key: "empress_1",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7, 9, 10].includes(index) ? 0 : 1,
       style: {
@@ -127,6 +163,12 @@ const columns2: TableProps["columns"] = [
     dataIndex: "empress_2",
     key: "empress_2",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7, 9, 10].includes(index) ? 0 : 1,
       style: {
@@ -139,6 +181,12 @@ const columns2: TableProps["columns"] = [
     dataIndex: "istana",
     key: "istana",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7, 9, 10].includes(index) ? 0 : 1,
       style: {
@@ -151,6 +199,12 @@ const columns2: TableProps["columns"] = [
     dataIndex: "connaught",
     key: "connaught",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7, 9, 10].includes(index) ? 0 : 1,
       style: {
@@ -173,7 +227,7 @@ const columns3: TableProps["columns"] = [
     dataIndex: "empress_hall",
     key: "empress_hall",
     align: "center",
-    // width: 140,
+    width: 200,
     render: (_text) => (
       <div
         className="text-center"
@@ -275,6 +329,12 @@ const columns3: TableProps["columns"] = [
     dataIndex: "connaught",
     key: "connaught",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7, 9].includes(index) ? 0 : 1,
       style: {
@@ -293,12 +353,46 @@ const columns4: TableProps["columns"] = [
     width: 140,
   },
   {
-    title: "Empress Hall 4 & 5",
+    title: "Empress Hall 4",
     dataIndex: "empress_hall",
     key: "empress_hall",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
-      colSpan: [0, 1, 2, 3, 5, 7].includes(index) ? 6 : 1,
+      colSpan: index === 4 ? 2 : [0, 1, 2, 3, 5, 7].includes(index) ? 5 : 1,
+      style: {
+        background: [
+          CELL_GREY,
+          CELL_BLUE,
+          CELL_GREEN,
+          CELL_YELLOW,
+          CELL_CYAN,
+          CELL_YELLOW,
+          CELL_LIME,
+          CELL_YELLOW,
+          CELL_LIME,
+        ][index],
+      },
+    }),
+  },
+  {
+    title: "Empress 5",
+    dataIndex: "empress_5",
+    key: "empress_5",
+    align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
+    onCell: (_, index = 0) => ({
+      colSpan: [0, 1, 2, 4, 3, 5, 7].includes(index) ? 0 : 1,
       style: {
         background: [
           CELL_GREY,
@@ -319,6 +413,12 @@ const columns4: TableProps["columns"] = [
     dataIndex: "empress_3",
     key: "empress_3",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7].includes(index) ? 0 : 1,
       style: {
@@ -331,6 +431,12 @@ const columns4: TableProps["columns"] = [
     dataIndex: "empress_1",
     key: "empress_1",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7].includes(index) ? 0 : 1,
       style: {
@@ -343,6 +449,12 @@ const columns4: TableProps["columns"] = [
     dataIndex: "empress_2",
     key: "empress_2",
     align: "center",
+    render: (_text) => (
+      <div
+        className="text-center"
+        dangerouslySetInnerHTML={{ __html: _text }}
+      />
+    ),
     onCell: (_, index = 0) => ({
       colSpan: [0, 1, 2, 3, 5, 7].includes(index) ? 0 : 1,
       style: {
