@@ -167,6 +167,10 @@ const ParticipateMenu = [
     href: "/participate/presenter-instructions",
     label: "Presenter Instructions",
   },
+  {
+    href: "/participate/meeting-room-plan",
+    label: "Meeting Room Plan",
+  },
 ];
 
 const Header = () => {

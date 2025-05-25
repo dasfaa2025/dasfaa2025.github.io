@@ -22,6 +22,7 @@ import ProgramGlance from "./pages/program/program-glance.tsx";
 import ProgramSessionDetails from "./pages/program/session-details.tsx";
 import PresenterInstructions from "./pages/participate/presenter-instructions.tsx";
 import ProgramTrustDay from "./pages/program/trust-day.tsx";
+import MeetingRoomPlan from "./pages/participate/meeting-room-plan.tsx";
 
 function App() {
   return (
@@ -81,6 +82,10 @@ function App() {
           <Route
             path="/participate/presenter-instructions"
             element={<PresenterInstructions />}
+          />
+          <Route
+            path="/participate/meeting-room-plan"
+            element={<MeetingRoomPlan />}
           />
         </Routes>
       </HashRouter>
