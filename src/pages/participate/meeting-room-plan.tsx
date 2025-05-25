@@ -7,6 +7,7 @@ const MeetingRoomPlan = () => {
     <>
       <PageBanner title="Presenter Instructions" image={Banner4} />
       <article className="prose w-full">
+        <h2>Carlton Hotel Singapore, Level 2</h2>
         <img src={MeetingRoomPlanImage} className="w-full h-auto" />
       </article>
     </>
