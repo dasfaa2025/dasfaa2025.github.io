@@ -54,6 +54,12 @@ const columns2: TableProps["columns"] = [
       </a>
     ),
   },
+  {
+    title: "Display No.",
+    dataIndex: "index",
+    key: "index",
+    render: (_text, _record, index) => index + 1,
+  },
 ];
 
 const ProgramSessionDetails = () => {
