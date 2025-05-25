@@ -31,6 +31,38 @@ const PresenterInstructions = () => {
         <Link href="/DASFAA 2025 Poster Template A0 Portrait.pptx">
           DASFAA 2025 Poster Template
         </Link>
+
+        <h2>Instructions for Research Long Papers & Industry Papers</h2>
+        <p>
+          Please refer to the following instructions to prepare your
+          presentations:
+        </p>
+        <ol>
+          <li>
+            Check out your presentation timeslots at the DASFAA2025 website.
+          </li>
+          <li>
+            Report to your session chair 5 mins before the session begins. Copy
+            your slides to the laptop in the session room.
+          </li>
+          <li>
+            For research paper sessions, long and short oral presentations are
+            given 15 and 10 minutes respectively EXCLUDING QA time. We expect
+            each presentation to have 3-5 minutes for QA.
+          </li>
+          <li>
+            For industry paper sessions, long and short presentations are given
+            20 and 12 minutes respectively EXCLUDING QA time. We expect each
+            presentation to have 3-5 minutes for QA.
+          </li>
+        </ol>
+        <p>
+          If you have special requests, please email{" "}
+          <Link target="_self" href="mailto:dasfaa2025@gmail.com">
+            dasfaa2025@gmail.com
+          </Link>{" "}
+          before 26 May 2025.
+        </p>
       </article>
     </>
   );
