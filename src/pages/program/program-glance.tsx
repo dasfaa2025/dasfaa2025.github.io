@@ -4,6 +4,7 @@ import { HashLink } from "react-router-hash-link";
 import { scrollWithOffset } from "./index.ts";
 import { BackTop, Table, TableProps } from "antd";
 import ProgramGlanceData from "../../assets/program_glance.json";
+import PosterSessionLayoutImage from "../../assets/poster-session-layout.jpg";
 
 const CELL_YELLOW = "#ffffb8";
 const CELL_GREEN = "#d9f7be";
@@ -531,6 +532,9 @@ const ProgramGlance = () => {
           pagination={false}
           bordered
         />
+
+        <h3>Poster Session Layout</h3>
+        <img src={PosterSessionLayoutImage} className="w-full h-auto block" />
 
         <h2 id="2025-05-28">Wednesday 28 May 2025</h2>
         <Table
