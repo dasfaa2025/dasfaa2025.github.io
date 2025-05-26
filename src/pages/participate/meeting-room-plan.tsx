@@ -5,7 +5,7 @@ import MeetingRoomPlanImage from "../../assets/meeting-room-plan.jpg";
 const MeetingRoomPlan = () => {
   return (
     <>
-      <PageBanner title="Presenter Instructions" image={Banner4} />
+      <PageBanner title="Meeting Room Plan" image={Banner4} />
       <article className="prose w-full">
         <h2>Carlton Hotel Singapore, Level 2</h2>
         <img src={MeetingRoomPlanImage} className="w-full h-auto" />
